@@ -1,6 +1,8 @@
 # ContRec
 This is an early access release of the code and data for the paper "Diffusion Generative Recommendation with Continuous Tokens."
 
+<img width="2346" height="1088" alt="66127427-d92b-4874-9b6d-582963fca85c" src="https://github.com/user-attachments/assets/d0567314-154f-4223-b327-b3184c119088" />
+ContRec represents users\&items as latent vector representations using a not-quantized tokenizer and leverages the exceptional continuous-valued generation capability of diffusion models to operate within continuous spaces and generate implicit user preferences conditioned on the reasoning content of LLMs.
 
 ## Setup Environment
 
