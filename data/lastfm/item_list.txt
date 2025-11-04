@@ -1,0 +1,3686 @@
+org_id remap_id category title
+52 0 Morcheeba Morcheeba
+63 1 Enigma Enigma
+73 2 "Café Del Mar" "Café Del Mar"
+96 3 "Fleetwood Mac" "Fleetwood Mac"
+995 4 "China Crisis" "China Crisis"
+6160 5 Loscil Loscil
+6177 6 Chicane Chicane
+9322 7 "Sigue Sigue Sputnik" "Sigue Sigue Sputnik"
+152 8 "Porcupine Tree" "Porcupine Tree"
+217 9 "Death Cab for Cutie" "Death Cab for Cutie"
+181 10 "Paradise Lost" "Paradise Lost"
+920 11 "Dream Theater" "Dream Theater"
+1870 12 Dope Dope
+1873 13 Audioslave Audioslave
+183 14 Jamiroquai Jamiroquai
+170 15 Mew Mew
+1385 16 "Thirteen Senses" "Thirteen Senses"
+1009 17 Tiësto Tiësto
+2961 18 Pain Pain
+193 19 "Tears for Fears" "Tears for Fears"
+167 20 "Scissor Sisters" "Scissor Sisters"
+174 21 "Infected Mushroom" "Infected Mushroom"
+173 22 Placebo Placebo
+64 23 Röyksopp Röyksopp
+156 24 VAST VAST
+1824 25 "Zero 7" "Zero 7"
+151 26 "Deep Forest" "Deep Forest"
+72 27 "Depeche Mode" "Depeche Mode"
+175 28 Delerium Delerium
+188 29 Opeth Opeth
+163 30 "Pink Floyd" "Pink Floyd"
+1917 31 Charon Charon
+162 32 "God Is an Astronaut" "God Is an Astronaut"
+3416 33 Sentenced Sentenced
+2370 34 Amorphis Amorphis
+80 35 "Groove Armada" "Groove Armada"
+70 36 Moby Moby
+165 37 "Planet Funk" "Planet Funk"
+157 38 "Michael Jackson" "Michael Jackson"
+1248 39 "The Darkness" "The Darkness"
+3863 40 "Blank & Jones" "Blank & Jones"
+1745 41 Apparat Apparat
+706 42 AC/DC AC/DC
+184 43 "James Blunt" "James Blunt"
+192 44 "Elton John" "Elton John"
+53 45 Air Air
+154 46 Radiohead Radiohead
+632 47 "Explosions in the Sky" "Explosions in the Sky"
+726 48 Apocalyptica Apocalyptica
+463 49 "Savage Garden" "Savage Garden"
+467 50 "Darren Hayes" "Darren Hayes"
+1713 51 "Dave Gahan" "Dave Gahan"
+171 52 Stereophonics Stereophonics
+185 53 Reamonn Reamonn
+180 54 Roxette Roxette
+99 55 INXS INXS
+153 56 De/Vision De/Vision
+51 57 "Duran Duran" "Duran Duran"
+1295 58 "VNV Nation" "VNV Nation"
+1810 59 "Def Leppard" "Def Leppard"
+3988 60 Mesh Mesh
+918 61 Megadeth Megadeth
+182 62 Keane Keane
+190 63 Muse Muse
+195 64 "Bright Eyes" "Bright Eyes"
+202 65 CAKE CAKE
+222 66 "Modest Mouse" "Modest Mouse"
+215 67 "Jeff Buckley" "Jeff Buckley"
+447 68 "Manu Chao" "Manu Chao"
+236 69 "Clap Your Hands Say Yeah" "Clap Your Hands Say Yeah"
+232 70 "Sunset Rubdown" "Sunset Rubdown"
+233 71 "Nine Inch Nails" "Nine Inch Nails"
+618 72 "Belle and Sebastian" "Belle and Sebastian"
+863 73 "The Velvet Underground" "The Velvet Underground"
+862 74 "Primal Scream" "Primal Scream"
+733 75 "John Lennon" "John Lennon"
+8722 76 Everlast Everlast
+3691 77 "Panda Bear" "Panda Bear"
+3749 78 "Gavin DeGraw" "Gavin DeGraw"
+951 79 "Bon Jovi" "Bon Jovi"
+1123 80 "Johann Sebastian Bach" "Johann Sebastian Bach"
+1239 81 Weezer Weezer
+2786 82 "Janis Joplin" "Janis Joplin"
+3203 83 "Oh No Oh My" "Oh No Oh My"
+10610 84 Menomena Menomena
+4114 85 "Ben Kweller" "Ben Kweller"
+4079 86 Wilco Wilco
+3430 87 "The Cramps" "The Cramps"
+1383 88 "Imogen Heap" "Imogen Heap"
+12726 89 "Turin Brakes" "Turin Brakes"
+200 90 "Gogol Bordello" "Gogol Bordello"
+216 91 Sparklehorse Sparklehorse
+197 92 "Tom Waits" "Tom Waits"
+209 93 "My Chemical Romance" "My Chemical Romance"
+229 94 "The Killers" "The Killers"
+370 95 Katatonia Katatonia
+375 96 浜崎あゆみ 浜崎あゆみ
+377 97 "Linkin Park" "Linkin Park"
+390 98 GACKT GACKT
+403 99 "The All-American Rejects" "The All-American Rejects"
+396 100 L'Arc~en~Ciel L'Arc~en~Ciel
+1194 101 "Hawthorne Heights" "Hawthorne Heights"
+490 102 Seether Seether
+504 103 HIM HIM
+517 104 Korn Korn
+1378 105 "Jimmy Eat World" "Jimmy Eat World"
+1475 106 "Ricky Martin" "Ricky Martin"
+1519 107 "Ryan Adams" "Ryan Adams"
+1874 108 Hoobastank Hoobastank
+2050 109 "Il Divo" "Il Divo"
+2051 110 "Josh Groban" "Josh Groban"
+2102 111 倖田來未 倖田來未
+1923 112 ギルガメッシュ ギルガメッシュ
+955 113 Epica Epica
+1131 114 Tool Tool
+2941 115 Hinder Hinder
+3427 116 "Goo Goo Dolls" "Goo Goo Dolls"
+2544 117 "KT Tunstall" "KT Tunstall"
+2369 118 "Type O Negative" "Type O Negative"
+4342 119 "Dream Evil" "Dream Evil"
+5073 120 "Juno Reactor" "Juno Reactor"
+6730 121 "Mark Lanegan" "Mark Lanegan"
+3429 122 Krypteria Krypteria
+11049 123 Saybia Saybia
+3351 124 Melt-Banana Melt-Banana
+1933 125 ムック ムック
+493 126 Lostprophets Lostprophets
+701 127 Shakira Shakira
+258 128 "Tina Turner" "Tina Turner"
+221 129 Travis Travis
+405 130 "The Rasmus" "The Rasmus"
+374 131 宇多田ヒカル 宇多田ヒカル
+371 132 Skillet Skillet
+5731 133 O-Zone O-Zone
+1375 134 "Snow Patrol" "Snow Patrol"
+1901 135 "They Might Be Giants" "They Might Be Giants"
+1814 136 "Sex Pistols" "Sex Pistols"
+518 137 "Within Temptation" "Within Temptation"
+486 138 "30 Seconds to Mars" "30 Seconds to Mars"
+488 139 "Three Days Grace" "Three Days Grace"
+481 140 "Simple Plan" "Simple Plan"
+1126 141 "Noir Désir" "Noir Désir"
+1602 142 "Shayne Ward" "Shayne Ward"
+1795 143 Sting Sting
+966 144 Nickelback Nickelback
+397 145 雅-MIYAVI- 雅-MIYAVI-
+376 146 UVERworld UVERworld
+379 147 中島美嘉 中島美嘉
+3498 148 "Paula DeAnda" "Paula DeAnda"
+4332 149 "Royal Hunt" "Royal Hunt"
+3929 150 "Seether (Feat. Amy Lee)" "Seether (Feat. Amy Lee)"
+2457 151 Lonestar Lonestar
+4179 152 Staind Staind
+3946 153 "Puddle of Mudd" "Puddle of Mudd"
+4980 154 Olivia Olivia
+3563 155 Saliva Saliva
+2546 156 "Vanessa Carlton" "Vanessa Carlton"
+3302 157 "Phil Collins" "Phil Collins"
+8 158 "DIR EN GREY" "DIR EN GREY"
+211 159 "The Decemberists" "The Decemberists"
+428 160 "The Libertines" "The Libertines"
+431 161 "Wolf Parade" "Wolf Parade"
+1377 162 "The Fray" "The Fray"
+3258 163 "The Shins" "The Shins"
+416 164 "The National" "The National"
+208 165 Babyshambles Babyshambles
+430 166 "Kate Nash" "Kate Nash"
+440 167 "Animal Collective" "Animal Collective"
+199 168 "Arcade Fire" "Arcade Fire"
+418 169 "Sigur Rós" "Sigur Rós"
+196 170 Beirut Beirut
+455 171 "Backstreet Boys" "Backstreet Boys"
+2179 172 "50 Cent" "50 Cent"
+257 173 "Mariah Carey" "Mariah Carey"
+230 174 "Green Day" "Green Day"
+234 175 Nirvana Nirvana
+326 176 JoJo JoJo
+456 177 "Jesse McCartney" "Jesse McCartney"
+89 178 "Lady Gaga" "Lady Gaga"
+1450 179 "Kristinia DeBarge" "Kristinia DeBarge"
+469 180 "Nick Carter" "Nick Carter"
+540 181 "Fall Out Boy" "Fall Out Boy"
+482 182 Jeremih Jeremih
+1580 183 "Paris Hilton" "Paris Hilton"
+10074 184 "Дима Билан" "Дима Билан"
+3576 185 "New Kids on the Block" "New Kids on the Block"
+458 186 "Justin Bieber" "Justin Bieber"
+471 187 "Metro Station" "Metro Station"
+468 188 Usher Usher
+475 189 Eminem Eminem
+487 190 "The Birthday Massacre" "The Birthday Massacre"
+489 191 "Limp Bizkit" "Limp Bizkit"
+407 192 "Akira Yamaoka" "Akira Yamaoka"
+412 193 blink-182 blink-182
+466 194 Ke$ha Ke$ha
+344 195 "Taylor Swift" "Taylor Swift"
+349 196 "The Pussycat Dolls" "The Pussycat Dolls"
+302 197 P!nk P!nk
+4292 198 "Hayden Panettiere" "Hayden Panettiere"
+320 199 Fergie Fergie
+325 200 "Ashley Tisdale" "Ashley Tisdale"
+514 201 "Ill Niño" "Ill Niño"
+5217 202 Fuel Fuel
+6191 203 "Armor for Sleep" "Armor for Sleep"
+6390 204 "Bear McCreary" "Bear McCreary"
+4135 205 Xandria Xandria
+4036 206 "Ferry Corsten" "Ferry Corsten"
+4255 207 "Kill Hannah" "Kill Hannah"
+3240 208 "Drowning Pool" "Drowning Pool"
+4262 209 "Taking Back Sunday" "Taking Back Sunday"
+512 210 Deftones Deftones
+498 211 Paramore Paramore
+3667 212 "Will Smith" "Will Smith"
+16 213 "London After Midnight" "London After Midnight"
+515 214 "Clan of Xymox" "Clan of Xymox"
+516 215 Celldweller Celldweller
+519 216 Static-X Static-X
+520 217 Fluke Fluke
+506 218 Anathema Anathema
+507 219 Saosin Saosin
+508 220 "Tracktor Bowling" "Tracktor Bowling"
+509 221 Pitchshifter Pitchshifter
+510 222 P.O.D. P.O.D.
+511 223 U2 U2
+491 224 "Fort Minor" "Fort Minor"
+499 225 Flyleaf Flyleaf
+500 226 "Bullet for My Valentine" "Bullet for My Valentine"
+501 227 "Angels & Airwaves" "Angels & Airwaves"
+502 228 LaFee LaFee
+494 229 Finch Finch
+496 230 Cold Cold
+492 231 "Funeral for a Friend" "Funeral for a Friend"
+1044 232 Slipknot Slipknot
+978 233 Disturbed Disturbed
+972 234 t.A.T.u. t.A.T.u.
+497 235 "Papa Roach" "Papa Roach"
+238 236 "Massive Attack" "Massive Attack"
+278 237 2Pac 2Pac
+288 238 Rihanna Rihanna
+855 239 "Jane's Addiction" "Jane's Addiction"
+883 240 Tiamat Tiamat
+785 241 "Fear Factory" "Fear Factory"
+2956 242 Adema Adema
+815 243 "Killswitch Engage" "Killswitch Engage"
+522 244 Lacrimosa Lacrimosa
+537 245 "The Used" "The Used"
+2014 246 "Lacuna Coil" "Lacuna Coil"
+2643 247 Thursday Thursday
+2745 248 "Robert Miles" "Robert Miles"
+2850 249 Underoath Underoath
+2150 250 Fightstar Fightstar
+2923 251 "Lupe Fiasco" "Lupe Fiasco"
+1854 252 "Breaking Benjamin" "Breaking Benjamin"
+2439 253 "Rascal Flatts" "Rascal Flatts"
+2500 254 Scooter Scooter
+1860 255 "Jay-Z and Linkin Park" "Jay-Z and Linkin Park"
+1613 256 Jay-Z Jay-Z
+1444 257 Akon Akon
+1406 258 "The Offspring" "The Offspring"
+14340 259 "Ja Rule" "Ja Rule"
+17 260 "Psyclon Nine" "Psyclon Nine"
+45 261 "Mindless Self Indulgence" "Mindless Self Indulgence"
+1197 262 "Senses Fail" "Senses Fail"
+1200 263 "Story of the Year" "Story of the Year"
+1270 264 "Tactical Sekt" "Tactical Sekt"
+1104 265 Rammstein Rammstein
+1145 266 "Stone Sour" "Stone Sour"
+1179 267 "Billy Talent" "Billy Talent"
+1181 268 Silverstein Silverstein
+1182 269 "The Red Jumpsuit Apparatus" "The Red Jumpsuit Apparatus"
+10737 270 Blindside Blindside
+289 271 "Britney Spears" "Britney Spears"
+189 272 "Poets of the Fall" "Poets of the Fall"
+198 273 "System of a Down" "System of a Down"
+6461 274 "I Am Ghost" "I Am Ghost"
+6621 275 Xzibit Xzibit
+6772 276 Emery Emery
+8350 277 Taproot Taproot
+9160 278 "Mark Ronson" "Mark Ronson"
+7766 279 Chingy Chingy
+6853 280 "Alexi Murdoch" "Alexi Murdoch"
+7639 281 Mudvayne Mudvayne
+4567 282 O.N.A. O.N.A.
+4572 283 Chylińska Chylińska
+378 284 Evanescence Evanescence
+503 285 "In Flames" "In Flames"
+6762 286 Helios Helios
+1132 287 "Joe Satriani" "Joe Satriani"
+1797 288 "Guano Apes" "Guano Apes"
+3238 289 Coma Coma
+10827 290 "Amy Lee" "Amy Lee"
+7276 291 "Anya Marina" "Anya Marina"
+299 292 "Jennifer Lopez" "Jennifer Lopez"
+12918 293 "Band of Skulls" "Band of Skulls"
+36 294 KMFDM KMFDM
+237 295 "Thom Yorke" "Thom Yorke"
+227 296 "The Beatles" "The Beatles"
+1185 297 Alesana Alesana
+1510 298 "Black Rebel Motorcycle Club" "Black Rebel Motorcycle Club"
+1151 299 Editors Editors
+2018 300 September September
+2121 301 "OK Go" "OK Go"
+5079 302 "Emilie Autumn" "Emilie Autumn"
+1979 303 "Cypress Hill" "Cypress Hill"
+1609 304 "Lykke Li" "Lykke Li"
+930 305 Nightwish Nightwish
+707 306 Metallica Metallica
+4923 307 "Alexandre Desplat" "Alexandre Desplat"
+6006 308 "Trading Yesterday" "Trading Yesterday"
+13147 309 "Sea Wolf" "Sea Wolf"
+521 310 happysad happysad
+1055 311 Myslovitz Myslovitz
+3616 312 "Brand New" "Brand New"
+3468 313 "The Magic Numbers" "The Magic Numbers"
+1098 314 Björk Björk
+1034 315 Kerli Kerli
+536 316 "Good Charlotte" "Good Charlotte"
+1714 317 Oomph! Oomph!
+2075 318 Gregorian Gregorian
+523 319 "Lindsay Lohan" "Lindsay Lohan"
+191 320 OneRepublic OneRepublic
+18 321 "The Crüxshadows" "The Crüxshadows"
+691 322 "Owl City" "Owl City"
+318 323 "Hilary Duff" "Hilary Duff"
+300 324 "Katy Perry" "Katy Perry"
+1274 325 Sepultura Sepultura
+8356 326 "Jason Walker" "Jason Walker"
+8047 327 Plumb Plumb
+3124 328 "We Are the Fallen" "We Are the Fallen"
+2380 329 Godsmack Godsmack
+1118 330 "A Perfect Circle" "A Perfect Circle"
+3404 331 "Sky Ferreira" "Sky Ferreira"
+436 332 "The Smashing Pumpkins" "The Smashing Pumpkins"
+4074 333 "Silversun Pickups" "Silversun Pickups"
+423 334 "Bat for Lashes" "Bat for Lashes"
+5746 335 "Robert Pattinson" "Robert Pattinson"
+5478 336 Stateless Stateless
+88 337 Gorillaz Gorillaz
+58 338 Goldfrapp Goldfrapp
+2940 339 "Dead by April" "Dead by April"
+967 340 "Sixpence None the Richer" "Sixpence None the Richer"
+4297 341 Линда Линда
+1673 342 "Tokio Hotel" "Tokio Hotel"
+464 343 3OH!3 3OH!3
+544 344 "Adam Lambert" "Adam Lambert"
+3928 345 "12 Stones" "12 Stones"
+306 346 "Black Eyed Peas" "Black Eyed Peas"
+991 347 Jem Jem
+808 348 "Rise Against" "Rise Against"
+3859 349 Daughtry Daughtry
+2738 350 "Bloodhound Gang" "Bloodhound Gang"
+71 351 Dido Dido
+538 352 "Maroon 5" "Maroon 5"
+1859 353 "Thousand Foot Krutch" "Thousand Foot Krutch"
+331 354 "Kanye West" "Kanye West"
+4562 355 "Jason Derülo" "Jason Derülo"
+474 356 "Craig David" "Craig David"
+12288 357 "James Newton Howard" "James Newton Howard"
+159 358 "The Cure" "The Cure"
+56 359 "Daft Punk" "Daft Punk"
+67 360 Madonna Madonna
+484 361 Ne-Yo Ne-Yo
+333 362 "Avril Lavigne" "Avril Lavigne"
+3317 363 Drake Drake
+1455 364 B.o.B B.o.B
+1852 365 Red Red
+2839 366 "Automatic Loveletter" "Automatic Loveletter"
+759 367 ##### #####
+704 368 "The Pretty Reckless" "The Pretty Reckless"
+1042 369 "Bruno Mars" "Bruno Mars"
+327 370 "Chris Brown" "Chris Brown"
+547 371 "Kid Cudi" "Kid Cudi"
+1863 372 "Hollywood Undead" "Hollywood Undead"
+2436 373 "Keith Urban" "Keith Urban"
+1670 374 "Black Veil Brides" "Black Veil Brides"
+2449 375 "Brooks & Dunn" "Brooks & Dunn"
+55 376 "Kylie Minogue" "Kylie Minogue"
+293 377 "Ashlee Simpson" "Ashlee Simpson"
+298 378 "Lily Allen" "Lily Allen"
+3397 379 "Heidi Montag" "Heidi Montag"
+59 380 "New Order" "New Order"
+98 381 Japan Japan
+429 382 "The Smiths" "The Smiths"
+441 383 "Joy Division" "Joy Division"
+612 384 "Talking Heads" "Talking Heads"
+852 385 "The Stranglers" "The Stranglers"
+874 386 "Roxy Music" "Roxy Music"
+997 387 "The Human League" "The Human League"
+1013 388 Ultravox Ultravox
+1083 389 "Siouxsie and the Banshees" "Siouxsie and the Banshees"
+1027 390 "Heaven 17" "Heaven 17"
+877 391 Alphaville Alphaville
+985 392 Blondie Blondie
+1879 393 "Split Enz" "Split Enz"
+1878 394 Devo Devo
+2938 395 "Echo & The Bunnymen" "Echo & The Bunnymen"
+3281 396 "The B-52's" "The B-52's"
+4129 397 "The Jam" "The Jam"
+2552 398 "Culture Club" "Culture Club"
+2490 399 "The Specials" "The Specials"
+2629 400 "Elvis Costello" "Elvis Costello"
+2936 401 "A Flock of Seagulls" "A Flock of Seagulls"
+1896 402 Magazine Magazine
+2029 403 Madness Madness
+1889 404 "Oingo Boingo" "Oingo Boingo"
+1892 405 Eurythmics Eurythmics
+1885 406 "Dead or Alive" "Dead or Alive"
+1883 407 "The Cars" "The Cars"
+5434 408 "The Zombies" "The Zombies"
+5260 409 "Adam and the Ants" "Adam and the Ants"
+9980 410 "Anne Clark" "Anne Clark"
+7927 411 "Men at Work" "Men at Work"
+7837 412 Mecano Mecano
+6073 413 "Missing Persons" "Missing Persons"
+6784 414 Squeeze Squeeze
+7224 415 "The Brian Setzer Orchestra" "The Brian Setzer Orchestra"
+14124 416 "Big Bad Voodoo Daddy" "Big Bad Voodoo Daddy"
+8153 417 "Harry Connick, Jr." "Harry Connick, Jr."
+1895 418 Visage Visage
+8066 419 "Squirrel Nut Zippers" "Squirrel Nut Zippers"
+1360 420 Motörhead Motörhead
+1227 421 "Dick Dale" "Dick Dale"
+1225 422 "Dean Martin" "Dean Martin"
+1001 423 "Pet Shop Boys" "Pet Shop Boys"
+857 424 "The Clash" "The Clash"
+549 425 "The Sonics" "The Sonics"
+1206 426 Misfits Misfits
+1019 427 Yazoo Yazoo
+986 428 "Frank Sinatra" "Frank Sinatra"
+1000 429 "Information Society" "Information Society"
+4723 430 "Messer Chups" "Messer Chups"
+4494 431 "Joe Jackson" "Joe Jackson"
+3791 432 "The Mighty Mighty Bosstones" "The Mighty Mighty Bosstones"
+3896 433 "Peggy Lee" "Peggy Lee"
+3458 434 "The Byrds" "The Byrds"
+3455 435 Nekromantix Nekromantix
+3443 436 "Butthole Surfers" "Butthole Surfers"
+3008 437 "Cab Calloway" "Cab Calloway"
+2033 438 Ska-P Ska-P
+2637 439 Sublime Sublime
+573 440 "The Detroit Cobras" "The Detroit Cobras"
+594 441 "The Pretty Things" "The Pretty Things"
+563 442 "Small Faces" "Small Faces"
+7239 443 "Stray Cats" "Stray Cats"
+7329 444 Goldfinger Goldfinger
+10402 445 "Mad Sin" "Mad Sin"
+7038 446 Akurat Akurat
+4724 447 "The Meteors" "The Meteors"
+8567 448 "Dick Dale and His Del-Tones" "Dick Dale and His Del-Tones"
+10748 449 "The Seeds" "The Seeds"
+10762 450 "The Litter" "The Litter"
+9865 451 B-Movie B-Movie
+14378 452 "13th Floor Elevators" "13th Floor Elevators"
+17211 453 "The Troggs" "The Troggs"
+638 454 Kalomoira Kalomoira
+346 455 Lena Lena
+644 456 Inna Inna
+3500 457 "Edyta Górniak" "Edyta Górniak"
+1045 458 Fresno Fresno
+1379 459 Hurts Hurts
+5553 460 "Cary Brothers" "Cary Brothers"
+2607 461 "The Script" "The Script"
+891 462 Jewel Jewel
+97 463 Duffy Duffy
+313 464 "Allison Iraheta" "Allison Iraheta"
+1458 465 "Miranda Cosgrove" "Miranda Cosgrove"
+3367 466 "Cinema Bizarre" "Cinema Bizarre"
+454 467 Jónsi Jónsi
+2548 468 Wanessa Wanessa
+2645 469 "Alexander Rybak" "Alexander Rybak"
+5151 470 ZAZ ZAZ
+462 471 Blue Blue
+465 472 "Jessica Simpson" "Jessica Simpson"
+646 473 RBD RBD
+786 474 "Mandy Moore" "Mandy Moore"
+788 475 Fey Fey
+789 476 "Dannii Minogue" "Dannii Minogue"
+794 477 A*Teens A*Teens
+792 478 Thalía Thalía
+800 479 "Atomic Kitten" "Atomic Kitten"
+798 480 "Geri Halliwell" "Geri Halliwell"
+5235 481 "Andrés Calamaro" "Andrés Calamaro"
+787 482 "Paulina Rubio" "Paulina Rubio"
+27 483 Laibach Laibach
+631 484 "Einstürzende Neubauten" "Einstürzende Neubauten"
+599 485 "David Bowie" "David Bowie"
+751 486 Jesu Jesu
+861 487 "Killing Joke" "Killing Joke"
+856 488 Soundgarden Soundgarden
+860 489 "Stone Temple Pilots" "Stone Temple Pilots"
+875 490 Bauhaus Bauhaus
+880 491 "Nitzer Ebb" "Nitzer Ebb"
+12515 492 Lard Lard
+1089 493 Suede Suede
+2542 494 "My Bloody Valentine" "My Bloody Valentine"
+3364 495 Fugazi Fugazi
+5603 496 Prong Prong
+6130 497 Filter Filter
+1062 498 Ladytron Ladytron
+294 499 "Leona Lewis" "Leona Lewis"
+354 500 "Sarah Connor" "Sarah Connor"
+476 501 "M. Pokora" "M. Pokora"
+906 502 "Girls Aloud" "Girls Aloud"
+5000 503 "Take That" "Take That"
+911 504 "Rachel Stevens" "Rachel Stevens"
+531 505 "Taio Cruz" "Taio Cruz"
+295 506 Beyoncé Beyoncé
+155 507 "Robbie Williams" "Robbie Williams"
+329 508 "Justin Timberlake" "Justin Timberlake"
+350 509 Monrose Monrose
+352 510 "Cheryl Cole" "Cheryl Cole"
+292 511 "Christina Aguilera" "Christina Aguilera"
+919 512 Savatage Savatage
+917 513 "Iron Maiden" "Iron Maiden"
+943 514 Nevermore Nevermore
+929 515 Viper Viper
+923 516 "Children of Bodom" "Children of Bodom"
+925 517 "Andre Matos" "Andre Matos"
+922 518 "Bruce Dickinson" "Bruce Dickinson"
+932 519 Matanza Matanza
+389 520 Enya Enya
+546 521 "The Ting Tings" "The Ting Tings"
+614 522 "Pearl Jam" "Pearl Jam"
+1246 523 "Panic! At the Disco" "Panic! At the Disco"
+964 524 "The Mars Volta" "The Mars Volta"
+7187 525 Hard-Fi Hard-Fi
+5485 526 Dżem Dżem
+2574 527 "The Fall of Troy" "The Fall of Troy"
+769 528 Isis Isis
+961 529 "Tori Amos" "Tori Amos"
+1024 530 "Ian Van Dahl" "Ian Van Dahl"
+2531 531 Morrissey Morrissey
+2624 532 "Frank Zappa" "Frank Zappa"
+8790 533 "Junkie XL" "Junkie XL"
+1002 534 "Rick Astley" "Rick Astley"
+15690 535 Sasha Sasha
+3413 536 Underworld Underworld
+2673 537 Plaid Plaid
+535 538 "Sophie Ellis-Bextor" "Sophie Ellis-Bextor"
+1007 539 "Solar Stone" "Solar Stone"
+7152 540 "Thomas Newman" "Thomas Newman"
+679 541 "Glee Cast" "Glee Cast"
+687 542 "All Time Low" "All Time Low"
+1067 543 "Red Flag" "Red Flag"
+30 544 "And One" "And One"
+1061 545 Recoil Recoil
+1028 546 "Anything Box" "Anything Box"
+1084 547 Provision Provision
+1066 548 Ayria Ayria
+1064 549 "Hubert Kah" "Hubert Kah"
+3441 550 "Peter Murphy" "Peter Murphy"
+1076 551 Wham! Wham!
+757 552 "Crystal Castles" "Crystal Castles"
+1079 553 "Billy Idol" "Billy Idol"
+1119 554 "Faith No More" "Faith No More"
+1110 555 Rush Rush
+1133 556 "The String Quartet" "The String Quartet"
+9346 557 "Temple of the Dog" "Temple of the Dog"
+3481 558 Yes Yes
+1116 559 Incubus Incubus
+4123 560 "Mike Oldfield" "Mike Oldfield"
+1128 561 "John Petrucci & Jordan Rudess" "John Petrucci & Jordan Rudess"
+1112 562 "Frédéric Chopin" "Frédéric Chopin"
+1121 563 "Wolfgang Amadeus Mozart" "Wolfgang Amadeus Mozart"
+1117 564 "Claude Debussy" "Claude Debussy"
+1130 565 "Ludwig van Beethoven" "Ludwig van Beethoven"
+1109 566 "Yann Tiersen" "Yann Tiersen"
+4285 567 Arcturus Arcturus
+2273 568 "Tera Melos" "Tera Melos"
+1954 569 Yeasayer Yeasayer
+625 570 "Thelonious Monk" "Thelonious Monk"
+610 571 "Miles Davis" "Miles Davis"
+2292 572 "Bill Evans" "Bill Evans"
+1835 573 "The Cinematic Orchestra" "The Cinematic Orchestra"
+613 574 "John Coltrane" "John Coltrane"
+10891 575 "Charles Mingus" "Charles Mingus"
+8837 576 "Charlie Parker" "Charlie Parker"
+7352 577 "Madeleine Peyroux" "Madeleine Peyroux"
+7123 578 "Chet Baker" "Chet Baker"
+12113 579 "Pat Metheny" "Pat Metheny"
+11477 580 "Herbie Hancock" "Herbie Hancock"
+212 581 "Bob Dylan" "Bob Dylan"
+4356 582 Clutch Clutch
+2971 583 "Animals as Leaders" "Animals as Leaders"
+689 584 "Florence + the Machine" "Florence + the Machine"
+779 585 "Bring Me The Horizon" "Bring Me The Horizon"
+1180 586 "Escape The Fate" "Escape The Fate"
+1 587 "MALICE MIZER" "MALICE MIZER"
+7 588 "Marilyn Manson" "Marilyn Manson"
+65 589 Coldplay Coldplay
+267 590 Nas Nas
+271 591 "Mos Def" "Mos Def"
+276 592 "Gang Starr" "Gang Starr"
+617 593 "The Roots" "The Roots"
+619 594 "A Tribe Called Quest" "A Tribe Called Quest"
+622 595 "Sufjan Stevens" "Sufjan Stevens"
+1229 596 "Sunn O)))" "Sunn O)))"
+1390 597 "Vampire Weekend" "Vampire Weekend"
+1504 598 "Sonic Youth" "Sonic Youth"
+1621 599 "Masta Ace" "Masta Ace"
+1622 600 "De La Soul" "De La Soul"
+1636 601 "Jedi Mind Tricks" "Jedi Mind Tricks"
+1929 602 "ASIAN KUNG-FU GENERATION" "ASIAN KUNG-FU GENERATION"
+1963 603 "MF DOOM" "MF DOOM"
+2251 604 N.W.A N.W.A
+2491 605 "Mike Patton" "Mike Patton"
+2493 606 "Mr. Bungle" "Mr. Bungle"
+2698 607 "Public Enemy" "Public Enemy"
+2931 608 "Talib Kweli" "Talib Kweli"
+3227 609 "Wu-Tang Clan" "Wu-Tang Clan"
+3293 610 "Black Kids" "Black Kids"
+3531 611 Merzbow Merzbow
+3685 612 Why? Why?
+4585 613 "Method Man" "Method Man"
+4970 614 Drudkh Drudkh
+6387 615 "Bubba Sparxxx" "Bubba Sparxxx"
+8929 616 "Del tha Funkee Homosapien" "Del tha Funkee Homosapien"
+10676 617 "Wolves in the Throne Room" "Wolves in the Throne Room"
+10859 618 Orgy Orgy
+10 619 Grendel Grendel
+24 620 Feindflug Feindflug
+11 621 Agonoize Agonoize
+31 622 Amduscia Amduscia
+38 623 "Dawn of Ashes" "Dawn of Ashes"
+3184 624 "L'Âme Immortelle" "L'Âme Immortelle"
+3188 625 "Terminal Choice" "Terminal Choice"
+1294 626 Rotersand Rotersand
+1300 627 Blutengel Blutengel
+4317 628 Melotron Melotron
+3190 629 "Suicidal Romance" "Suicidal Romance"
+1704 630 Unheilig Unheilig
+1315 631 Wynardtage Wynardtage
+2041 632 [:SITD:] [:SITD:]
+6875 633 Nachtmahr Nachtmahr
+6237 634 "Nurzery [Rhymes]" "Nurzery [Rhymes]"
+5670 635 "Zombie Girl" "Zombie Girl"
+5522 636 "Bamboo Forest" "Bamboo Forest"
+4318 637 "Evil's Toy" "Evil's Toy"
+9 638 Combichrist Combichrist
+450 639 "She Wants Revenge" "She Wants Revenge"
+1265 640 Headscan Headscan
+13 641 Hocico Hocico
+5358 642 Vibrasphere Vibrasphere
+4874 643 "Imperative Reaction" "Imperative Reaction"
+4312 644 "Frozen Plasma" "Frozen Plasma"
+1320 645 "Code 64" "Code 64"
+9144 646 "Switchblade Symphony" "Switchblade Symphony"
+8369 647 "Faith and the Muse" "Faith and the Muse"
+10622 648 Welle:Erdball Welle:Erdball
+4725 649 Tiga Tiga
+4728 650 Vitalic Vitalic
+4733 651 Sebastian Sebastian
+4732 652 Fischerspooner Fischerspooner
+7293 653 "David Vendetta" "David Vendetta"
+5113 654 "Cinema Strange" "Cinema Strange"
+4877 655 "Decoded Feedback" "Decoded Feedback"
+4876 656 "In Strict Confidence" "In Strict Confidence"
+4872 657 "Deine Lakaien" "Deine Lakaien"
+1075 658 IAMX IAMX
+5149 659 Uffie Uffie
+6374 660 Peaches Peaches
+1296 661 Seabound Seabound
+1297 662 "Colony 5" "Colony 5"
+1298 663 "Apoptygma Berzerk" "Apoptygma Berzerk"
+1253 664 "Front Line Assembly" "Front Line Assembly"
+1293 665 "Absurd Minds" "Absurd Minds"
+3186 666 "Vive la Fête" "Vive la Fête"
+3087 667 "Dope Stars Inc." "Dope Stars Inc."
+3191 668 Diorama Diorama
+3289 669 "Front 242" "Front 242"
+3300 670 "Robots in Disguise" "Robots in Disguise"
+3288 671 Annie Annie
+3193 672 Belanova Belanova
+3432 673 "Christian Death" "Christian Death"
+3431 674 "Alien Sex Fiend" "Alien Sex Fiend"
+4308 675 Client Client
+1332 676 XP8 XP8
+870 677 "Skeletal Family" "Skeletal Family"
+1335 678 Bruderschaft Bruderschaft
+1396 679 Digitalism Digitalism
+1405 680 "Simian Mobile Disco" "Simian Mobile Disco"
+1398 681 Justice Justice
+1534 682 "The Sisters of Mercy" "The Sisters of Mercy"
+1983 683 "The Knife" "The Knife"
+1408 684 MSTRKRFT MSTRKRFT
+22 685 xotox xotox
+34 686 "Icon of Coil" "Icon of Coil"
+37 687 "Funker Vogt" "Funker Vogt"
+43 688 Noisuf-X Noisuf-X
+81 689 Portishead Portishead
+11193 690 Hallucinogen Hallucinogen
+13339 691 "Astral Projection" "Astral Projection"
+41 692 "God Module" "God Module"
+11186 693 Pzychobitch Pzychobitch
+26 694 Tamtrum Tamtrum
+4873 695 "Panzer AG" "Panzer AG"
+1256 696 Haujobb Haujobb
+6873 697 "Alien Vampires" "Alien Vampires"
+1299 698 "Suicide Commando" "Suicide Commando"
+49 699 Reaper Reaper
+5027 700 "Le Tigre" "Le Tigre"
+529 701 "Paul van Dyk" "Paul van Dyk"
+328 702 "David Guetta" "David Guetta"
+3277 703 ADULT. ADULT.
+3564 704 "Helalyn Flowers" "Helalyn Flowers"
+3196 705 "Alice in Videoland" "Alice in Videoland"
+4871 706 "Project Pitchfork" "Project Pitchfork"
+6086 707 "Safri Duo" "Safri Duo"
+1023 708 Fragma Fragma
+1021 709 "Groove Coverage" "Groove Coverage"
+7512 710 Faderhead Faderhead
+722 711 ATB ATB
+5581 712 "Aesthetic Perfection" "Aesthetic Perfection"
+14286 713 "Razed in Black" "Razed in Black"
+3769 714 "Shiny Toy Guns" "Shiny Toy Guns"
+6547 715 "Blaqk Audio" "Blaqk Audio"
+2432 716 "Porcelain and the Tramps" "Porcelain and the Tramps"
+1306 717 "Above & Beyond" "Above & Beyond"
+1328 718 "Angels & Agony" "Angels & Agony"
+1591 719 "Holly Valance" "Holly Valance"
+968 720 "Armin van Buuren" "Armin van Buuren"
+1026 721 Sylver Sylver
+1399 722 "Armand van Helden" "Armand van Helden"
+5072 723 "Paul Oakenfold" "Paul Oakenfold"
+4138 724 "Hungry Lucy" "Hungry Lucy"
+9987 725 Pulsedriver Pulsedriver
+1301 726 Neuroticfish Neuroticfish
+10685 727 Electrocute Electrocute
+8149 728 "Beborn Beton" "Beborn Beton"
+9234 729 Lasgo Lasgo
+32 730 Covenant Covenant
+1155 731 "Hot Chip" "Hot Chip"
+1029 732 "Markus Schulz" "Markus Schulz"
+886 733 Dragonette Dragonette
+2 734 "Diary of Dreams" "Diary of Dreams"
+8582 735 "Miss Kittin" "Miss Kittin"
+1303 736 "Assemblage 23" "Assemblage 23"
+10248 737 Lo-Fi-Fnk Lo-Fi-Fnk
+8584 738 "Chicks on Speed" "Chicks on Speed"
+4382 739 Sohodolls Sohodolls
+8789 740 Darude Darude
+3197 741 "Theatre of Tragedy" "Theatre of Tragedy"
+1305 742 "Cosmic Gate" "Cosmic Gate"
+1016 743 Novaspace Novaspace
+8781 744 BT BT
+980 745 Yelle Yelle
+9860 746 "Felix da Housecat" "Felix da Housecat"
+386 747 Cascada Cascada
+1336 748 Syrian Syrian
+1292 749 mind.in.a.box mind.in.a.box
+7522 750 Destroid Destroid
+9242 751 Kittie Kittie
+954 752 Kreator Kreator
+959 753 Queen Queen
+1531 754 Venom Venom
+1524 755 Hirax Hirax
+16661 756 Dismember Dismember
+14305 757 Warbringer Warbringer
+10585 758 Turisas Turisas
+1341 759 "Flotsam and Jetsam" "Flotsam and Jetsam"
+1261 760 Sodom Sodom
+821 761 "Amon Amarth" "Amon Amarth"
+1347 762 Sabaton Sabaton
+7298 763 Axwell Axwell
+2509 764 "Eric Prydz" "Eric Prydz"
+4495 765 "Dusty Springfield" "Dusty Springfield"
+251 766 "Whitney Houston" "Whitney Houston"
+16164 767 "TERIYAKI BOYZ" "TERIYAKI BOYZ"
+1409 768 "Calvin Harris" "Calvin Harris"
+777 769 "The Crystal Method" "The Crystal Method"
+962 770 "The Cardigans" "The Cardigans"
+1410 771 Pendulum Pendulum
+17286 772 Shawnna Shawnna
+12013 773 "Dan Black" "Dan Black"
+718 774 "Johnny Cash" "Johnny Cash"
+2835 775 "Serj Tankian" "Serj Tankian"
+250 776 "Bob Marley" "Bob Marley"
+13446 777 India.Arie India.Arie
+703 778 "The xx" "The xx"
+2146 779 AFX AFX
+2030 780 Coil Coil
+1097 781 "Patrick Wolf" "Patrick Wolf"
+3026 782 "The Whitest Boy Alive" "The Whitest Boy Alive"
+1106 783 Phoenix Phoenix
+5064 784 ILS ILS
+203 785 Blur Blur
+1122 786 "The Police" "The Police"
+1497 787 "Just Jack" "Just Jack"
+1222 788 "Venetian Snares" "Venetian Snares"
+5718 789 Arcana Arcana
+3502 790 "Róisín Murphy" "Róisín Murphy"
+9457 791 "Lightning Bolt" "Lightning Bolt"
+604 792 "Kings of Convenience" "Kings of Convenience"
+7686 793 Tunng Tunng
+6910 794 "The Books" "The Books"
+12839 795 "Sub Focus" "Sub Focus"
+4880 796 Sandra Sandra
+6308 797 "Nick Lachey" "Nick Lachey"
+6429 798 "Kate Ryan" "Kate Ryan"
+615 799 "Elliott Smith" "Elliott Smith"
+526 800 "La Roux" "La Roux"
+585 801 "Chuck Berry" "Chuck Berry"
+525 802 "Gwen Stefani" "Gwen Stefani"
+7660 803 "I Blame Coco" "I Blame Coco"
+7456 804 Detektivbyrån Detektivbyrån
+8111 805 "The Allman Brothers Band" "The Allman Brothers Band"
+472 806 "3 Doors Down" "3 Doors Down"
+7140 807 "Eva Cassidy" "Eva Cassidy"
+7327 808 "The Black Ghosts" "The Black Ghosts"
+425 809 "Yeah Yeah Yeahs" "Yeah Yeah Yeahs"
+4177 810 Switchfoot Switchfoot
+717 811 "Electric Light Orchestra" "Electric Light Orchestra"
+724 812 "Ozzy Osbourne" "Ozzy Osbourne"
+716 813 "Kaiser Chiefs" "Kaiser Chiefs"
+630 814 "Neil Young" "Neil Young"
+5123 815 Survivor Survivor
+5549 816 "Yo La Tengo" "Yo La Tengo"
+2783 817 "Lenny Kravitz" "Lenny Kravitz"
+4025 818 "The Presets" "The Presets"
+3795 819 "Marilyn Monroe" "Marilyn Monroe"
+3719 820 Soulfly Soulfly
+3460 821 "Sheryl Crow" "Sheryl Crow"
+4027 822 "Mr. Oizo" "Mr. Oizo"
+4069 823 "The Dandy Warhols" "The Dandy Warhols"
+4316 824 Tricky Tricky
+8178 825 "Lil' Kim" "Lil' Kim"
+13009 826 "Bag Raiders" "Bag Raiders"
+8586 827 Kleerup Kleerup
+340 828 Cher Cher
+291 829 "Kelly Clarkson" "Kelly Clarkson"
+241 830 "Toni Braxton" "Toni Braxton"
+279 831 Brandy Brandy
+262 832 "Mary J. Blige" "Mary J. Blige"
+287 833 Monica Monica
+1491 834 "Antonio Vivaldi" "Antonio Vivaldi"
+1990 835 "Fever Ray" "Fever Ray"
+1941 836 "Gnarls Barkley" "Gnarls Barkley"
+1051 837 "Alesha Dixon" "Alesha Dixon"
+1090 838 "Franz Ferdinand" "Franz Ferdinand"
+982 839 "Foo Fighters" "Foo Fighters"
+3201 840 "Kate Bush" "Kate Bush"
+3259 841 "Blonde Redhead" "Blonde Redhead"
+2598 842 will.i.am will.i.am
+2676 843 Tycho Tycho
+2638 844 "Ella Fitzgerald" "Ella Fitzgerald"
+1376 845 "White Lies" "White Lies"
+1787 846 UNKLE UNKLE
+1789 847 5'nizza 5'nizza
+225 848 Interpol Interpol
+207 849 "Arctic Monkeys" "Arctic Monkeys"
+17294 850 Sixtoo Sixtoo
+17296 851 Plastikman Plastikman
+530 852 Alphabeat Alphabeat
+5200 853 "Kid Loco" "Kid Loco"
+5799 854 "If These Trees Could Talk" "If These Trees Could Talk"
+4918 855 "Nicholas Hooper" "Nicholas Hooper"
+6618 856 D12 D12
+7079 857 Moderat Moderat
+7056 858 "B.B. King" "B.B. King"
+6915 859 "Hercules and Love Affair" "Hercules and Love Affair"
+6823 860 Clinic Clinic
+6463 861 "Manchester Orchestra" "Manchester Orchestra"
+6409 862 "Black Moth Super Rainbow" "Black Moth Super Rainbow"
+6296 863 Fanfarlo Fanfarlo
+6293 864 "Straylight Run" "Straylight Run"
+6252 865 "Tyler Bates" "Tyler Bates"
+6249 866 "Theory of a Deadman" "Theory of a Deadman"
+6582 867 "Ulrich Schnauss" "Ulrich Schnauss"
+533 868 Oasis Oasis
+616 869 Squarepusher Squarepusher
+592 870 "Ennio Morricone" "Ennio Morricone"
+6743 871 "Aztec Camera" "Aztec Camera"
+554 872 "The Kinks" "The Kinks"
+541 873 "Space Cowboy" "Space Cowboy"
+7874 874 "Xavier Naidoo" "Xavier Naidoo"
+4865 875 ISAN ISAN
+6189 876 Bibio Bibio
+6048 877 "Godspeed You! Black Emperor" "Godspeed You! Black Emperor"
+3470 878 Rainbow Rainbow
+3465 879 "Carole King" "Carole King"
+4251 880 "The Yardbirds" "The Yardbirds"
+4735 881 "Junior Boys" "Junior Boys"
+4616 882 "Jamie Cullum" "Jamie Cullum"
+4155 883 "Die Ärzte" "Die Ärzte"
+4124 884 UFO UFO
+4389 885 "Junior Senior" "Junior Senior"
+4371 886 "Gin Blossoms" "Gin Blossoms"
+6726 887 "Albert Hammond, Jr." "Albert Hammond, Jr."
+868 888 "The Doors" "The Doors"
+854 889 "Alice in Chains" "Alice in Chains"
+841 890 Slayer Slayer
+823 891 "August Burns Red" "August Burns Red"
+790 892 Belinda Belinda
+6298 893 "Something Corporate" "Something Corporate"
+778 894 Ochre Ochre
+772 895 Proem Proem
+756 896 Arovane Arovane
+6043 897 "Birdy Nam Nam" "Birdy Nam Nam"
+690 898 "Marina & the Diamonds" "Marina & the Diamonds"
+680 899 "The Veronicas" "The Veronicas"
+629 900 "of Montreal" "of Montreal"
+747 901 "Carbon Based Lifeforms" "Carbon Based Lifeforms"
+744 902 Autechre Autechre
+5698 903 Subheim Subheim
+5257 904 "Nancy Sinatra" "Nancy Sinatra"
+176 905 Scorpions Scorpions
+10616 906 "Bear in Heaven" "Bear in Heaven"
+10615 907 Wavves Wavves
+10524 908 "Death in Vegas" "Death in Vegas"
+9974 909 "Amorphous Androgynous" "Amorphous Androgynous"
+9888 910 "Die Fantastischen Vier" "Die Fantastischen Vier"
+12733 911 "Trevor Rabin" "Trevor Rabin"
+13672 912 Adorable Adorable
+16390 913 "ASHES dIVIDE" "ASHES dIVIDE"
+16373 914 Leftfield Leftfield
+172 915 Garbage Garbage
+15880 916 Swayzak Swayzak
+8678 917 "Neon Indian" "Neon Indian"
+15584 918 "Dexys Midnight Runners" "Dexys Midnight Runners"
+15171 919 Discovery Discovery
+187 920 a-ha a-ha
+7481 921 "The Tuss" "The Tuss"
+7473 922 "Polygon Window" "Polygon Window"
+7433 923 "Hugh Laurie" "Hugh Laurie"
+7331 924 "Suicidal Tendencies" "Suicidal Tendencies"
+9433 925 "James Taylor" "James Taylor"
+7324 926 "Empire of the Sun" "Empire of the Sun"
+7156 927 "Jerry Goldsmith" "Jerry Goldsmith"
+8853 928 "Secret Garden" "Secret Garden"
+8830 929 "The Coral" "The Coral"
+8758 930 Garou Garou
+9498 931 "Miss Kittin & The Hacker" "Miss Kittin & The Hacker"
+8141 932 "The Golden Filter" "The Golden Filter"
+10961 933 Embrace Embrace
+6151 934 "Stars of the Lid" "Stars of the Lid"
+11655 935 "Dexter Gordon" "Dexter Gordon"
+11638 936 "Klaus Schulze" "Klaus Schulze"
+9990 937 "Steve Winwood" "Steve Winwood"
+11146 938 "John Powell" "John Powell"
+11023 939 "Xavier Rudd" "Xavier Rudd"
+7643 940 Clueso Clueso
+7493 941 "Luke Vibert" "Luke Vibert"
+1505 942 "Natalie Imbruglia" "Natalie Imbruglia"
+1731 943 Hammock Hammock
+2130 944 "Brandon Flowers" "Brandon Flowers"
+1481 945 "Matt & Kim" "Matt & Kim"
+1426 946 "The Jimi Hendrix Experience" "The Jimi Hendrix Experience"
+1414 947 "Paul McCartney" "Paul McCartney"
+1413 948 Genesis Genesis
+1633 949 "Fleet Foxes" "Fleet Foxes"
+1512 950 "The Last Shadow Puppets" "The Last Shadow Puppets"
+2067 951 "Lara Fabian" "Lara Fabian"
+2161 952 Wisp Wisp
+2154 953 "Jane Air" "Jane Air"
+2139 954 "Beach House" "Beach House"
+2136 955 "Serge Gainsbourg" "Serge Gainsbourg"
+1970 956 "The Avalanches" "The Avalanches"
+1969 957 "Prefuse 73" "Prefuse 73"
+1965 958 "Four Tet" "Four Tet"
+1986 959 Metronomy Metronomy
+1071 960 "Alan Silvestri" "Alan Silvestri"
+1048 961 "The Kooks" "The Kooks"
+963 962 Yanni Yanni
+936 963 Kamelot Kamelot
+901 964 "VV Brown" "VV Brown"
+993 965 "Simple Minds" "Simple Minds"
+2691 966 "Telefon Tel Aviv" "Telefon Tel Aviv"
+2688 967 "Wagon Christ" "Wagon Christ"
+2681 968 "The Future Sound of London" "The Future Sound of London"
+2677 969 Bola Bola
+2672 970 Clark Clark
+2671 971 Kettel Kettel
+1521 972 "Morbid Angel" "Morbid Angel"
+1766 973 "Little Joy" "Little Joy"
+1395 974 Freemasons Freemasons
+86 975 "Katie Melua" "Katie Melua"
+1226 976 Shpongle Shpongle
+1160 977 "Roy Orbison" "Roy Orbison"
+1369 978 "Black Sabbath" "Black Sabbath"
+1275 979 Samael Samael
+1242 980 "The Beach Boys" "The Beach Boys"
+1241 981 Skank Skank
+1709 982 "Brian Eno" "Brian Eno"
+1700 983 "Clint Mansell" "Clint Mansell"
+1656 984 Motel Motel
+1639 985 "Jimi Hendrix" "Jimi Hendrix"
+2083 986 M.I.A. M.I.A.
+446 987 "Ra Ra Riot" "Ra Ra Riot"
+420 988 "The Kills" "The Kills"
+419 989 "Tokyo Police Club" "Tokyo Police Club"
+348 990 "Wir sind Helden" "Wir sind Helden"
+17730 991 "Benassi Bros." "Benassi Bros."
+316 992 "Alanis Morissette" "Alanis Morissette"
+2533 993 "The Drums" "The Drums"
+3948 994 Alcazar Alcazar
+3938 995 Wings Wings
+3558 996 "Jack Off Jill" "Jack Off Jill"
+3551 997 "Unter Null" "Unter Null"
+3520 998 Biosphere Biosphere
+3767 999 "The Horrors" "The Horrors"
+3707 1000 Ratatat Ratatat
+2523 1001 "Spice Girls" "Spice Girls"
+2670 1002 "Chris Clark" "Chris Clark"
+2669 1003 µ-Ziq µ-Ziq
+2668 1004 "Amon Tobin" "Amon Tobin"
+2667 1005 "The Flashbulb" "The Flashbulb"
+2619 1006 VersaEmerge VersaEmerge
+2362 1007 "Monster Magnet" "Monster Magnet"
+2346 1008 Aerosmith Aerosmith
+3080 1009 "Colby O'Donis" "Colby O'Donis"
+4118 1010 "The Postal Service" "The Postal Service"
+4087 1011 "Raul Seixas" "Raul Seixas"
+4051 1012 Morphine Morphine
+4028 1013 Chromeo Chromeo
+4199 1014 "The Thermals" "The Thermals"
+4180 1015 Europe Europe
+3169 1016 "DJ Vadim" "DJ Vadim"
+3164 1017 Flunk Flunk
+3158 1018 "Sébastien Tellier" "Sébastien Tellier"
+3132 1019 "DJ Krush" "DJ Krush"
+2969 1020 Wintersun Wintersun
+3833 1021 Lumen Lumen
+2821 1022 "The Dead Weather" "The Dead Weather"
+2716 1023 "DJ Shadow" "DJ Shadow"
+3703 1024 "Tim Hecker" "Tim Hecker"
+2595 1025 Slash Slash
+1858 1026 Thrice Thrice
+1943 1027 "Flying Lotus" "Flying Lotus"
+1952 1028 Raekwon Raekwon
+3400 1029 Jet Jet
+3411 1030 M83 M83
+3200 1031 "Cansei de Ser Sexy" "Cansei de Ser Sexy"
+2478 1032 "Danny Elfman" "Danny Elfman"
+2582 1033 Foals Foals
+2578 1034 "Idiot Pilot" "Idiot Pilot"
+2580 1035 "Biffy Clyro" "Biffy Clyro"
+3421 1036 No-Man No-Man
+9862 1037 "Meat Beat Manifesto" "Meat Beat Manifesto"
+2608 1038 "City and Colour" "City and Colour"
+9595 1039 "Desmond Dekker" "Desmond Dekker"
+18040 1040 "Green Sun" "Green Sun"
+903 1041 "Amy Winehouse" "Amy Winehouse"
+8054 1042 "The Dø" "The Dø"
+324 1043 "Cobra Starship" "Cobra Starship"
+5500 1044 "System 7" "System 7"
+6226 1045 N*E*R*D N*E*R*D
+1464 1046 ABBA ABBA
+977 1047 "At the Drive-In" "At the Drive-In"
+4031 1048 "Freddie Mercury" "Freddie Mercury"
+6417 1049 Mirah Mirah
+548 1050 "Ellie Goulding" "Ellie Goulding"
+6903 1051 Twista Twista
+210 1052 "Bloc Party" "Bloc Party"
+15564 1053 Skrillex Skrillex
+2810 1054 Distance Distance
+11650 1055 "Paul Desmond" "Paul Desmond"
+18391 1056 "The KLF" "The KLF"
+2408 1057 Destroyer Destroyer
+5035 1058 "Charlotte Sometimes" "Charlotte Sometimes"
+437 1059 "She & Him" "She & Him"
+898 1060 "Tegan and Sara" "Tegan and Sara"
+3706 1061 "Broken Bells" "Broken Bells"
+3272 1062 "Steven Wilson" "Steven Wilson"
+11128 1063 Monolake Monolake
+859 1064 Pixies Pixies
+1976 1065 "The Black Keys" "The Black Keys"
+12026 1066 "Azure Ray" "Azure Ray"
+3208 1067 "Jon Brion" "Jon Brion"
+2247 1068 "Dr. Dre" "Dr. Dre"
+451 1069 "Local Natives" "Local Natives"
+5925 1070 "Peter Bjorn and John" "Peter Bjorn and John"
+3902 1071 CocoRosie CocoRosie
+8919 1072 "Trent Reznor" "Trent Reznor"
+10519 1073 Skalpel Skalpel
+2831 1074 "The Dust Brothers" "The Dust Brothers"
+4853 1075 Cujo Cujo
+84 1076 "Cut Copy" "Cut Copy"
+4116 1077 "The Cinematics" "The Cinematics"
+6581 1078 RJD2 RJD2
+542 1079 Pitty Pitty
+2498 1080 Basshunter Basshunter
+3462 1081 [unknown] [unknown]
+424 1082 "The Strokes" "The Strokes"
+1037 1083 "Nicki Minaj" "Nicki Minaj"
+161 1084 "Enrique Iglesias" "Enrique Iglesias"
+220 1085 "Red Hot Chili Peppers" "Red Hot Chili Peppers"
+253 1086 "Bryan Adams" "Bryan Adams"
+256 1087 "Kid Abelha" "Kid Abelha"
+290 1088 "Jordin Sparks" "Jordin Sparks"
+301 1089 "Alicia Keys" "Alicia Keys"
+305 1090 "Katharine McPhee" "Katharine McPhee"
+308 1091 "Kat DeLuna" "Kat DeLuna"
+310 1092 "Nelly Furtado" "Nelly Furtado"
+314 1093 Ciara Ciara
+317 1094 "Keri Hilson" "Keri Hilson"
+321 1095 "Jonas Brothers" "Jonas Brothers"
+330 1096 T.I. T.I.
+342 1097 "Colbie Caillat" "Colbie Caillat"
+355 1098 "Jason Mraz" "Jason Mraz"
+356 1099 "Brad Paisley" "Brad Paisley"
+364 1100 Sugarland Sugarland
+457 1101 "Aaron Carter" "Aaron Carter"
+461 1102 "Miley Cyrus" "Miley Cyrus"
+459 1103 *NSYNC *NSYNC
+889 1104 "Cyndi Lauper" "Cyndi Lauper"
+534 1105 "No Doubt" "No Doubt"
+545 1106 "Flo Rida" "Flo Rida"
+681 1107 "Demi Lovato" "Demi Lovato"
+686 1108 "Selena Gomez & the Scene" "Selena Gomez & the Scene"
+715 1109 R.E.M. R.E.M.
+797 1110 "Emily Osment" "Emily Osment"
+802 1111 Anahí Anahí
+1081 1112 "Ace of Base" "Ace of Base"
+890 1113 "Kelly Osbourne" "Kelly Osbourne"
+892 1114 "Dixie Chicks" "Dixie Chicks"
+896 1115 Noisettes Noisettes
+907 1116 Timbaland Timbaland
+908 1117 "Vanessa Hudgens" "Vanessa Hudgens"
+1043 1118 "Boys Like Girls" "Boys Like Girls"
+1054 1119 "Camp Rock" "Camp Rock"
+1447 1120 "Lady Antebellum" "Lady Antebellum"
+1449 1121 Pitbull Pitbull
+1453 1122 "Selena Gomez" "Selena Gomez"
+1459 1123 "Carrie Underwood" "Carrie Underwood"
+1460 1124 Rednex Rednex
+1461 1125 "Big Time Rush" "Big Time Rush"
+4818 1126 "Nando Reis" "Nando Reis"
+1462 1127 Gloriana Gloriana
+1463 1128 "Amy Macdonald" "Amy Macdonald"
+1632 1129 Metric Metric
+1694 1130 "Dolly Parton" "Dolly Parton"
+1696 1131 "Billy Ray Cyrus" "Billy Ray Cyrus"
+1768 1132 "Pato Fu" "Pato Fu"
+1775 1133 "Cássia Eller" "Cássia Eller"
+1866 1134 Yellowcard Yellowcard
+1934 1135 Adele Adele
+2020 1136 "Leighton Meester" "Leighton Meester"
+2025 1137 "Simon Curtis" "Simon Curtis"
+2137 1138 "Two Door Cinema Club" "Two Door Cinema Club"
+2392 1139 "Jessie James" "Jessie James"
+2456 1140 "Dierks Bentley" "Dierks Bentley"
+2801 1141 "High School Musical" "High School Musical"
+2977 1142 "Kris Allen" "Kris Allen"
+2981 1143 "Christina Perri" "Christina Perri"
+3171 1144 "James Morrison" "James Morrison"
+3373 1145 "Plain White T's" "Plain White T's"
+3557 1146 Aqua Aqua
+3584 1147 "Jason Aldean" "Jason Aldean"
+3585 1148 "Blake Shelton" "Blake Shelton"
+3605 1149 "Lee Ann Womack" "Lee Ann Womack"
+3670 1150 Matisyahu Matisyahu
+3712 1151 "The Lonely Island" "The Lonely Island"
+3748 1152 Hanson Hanson
+3796 1153 "Tila Tequila" "Tila Tequila"
+4223 1154 "The Spill Canvas" "The Spill Canvas"
+4291 1155 "Drake Bell" "Drake Bell"
+4561 1156 "Edward Maya" "Edward Maya"
+4704 1157 Ladyhawke Ladyhawke
+4707 1158 "Gabriella Cilmi" "Gabriella Cilmi"
+4883 1159 TLC TLC
+4915 1160 "Paula Abdul" "Paula Abdul"
+5266 1161 "Kellie Pickler" "Kellie Pickler"
+5988 1162 Nelly Nelly
+6140 1163 "John Denver" "John Denver"
+6708 1164 "Boney M." "Boney M."
+7318 1165 "Matt Nathanson" "Matt Nathanson"
+7340 1166 "Jay Sean" "Jay Sean"
+7864 1167 Charice Charice
+8364 1168 "Sean Kingston" "Sean Kingston"
+10715 1169 "The Outfield" "The Outfield"
+11890 1170 Iyaz Iyaz
+16501 1171 "Fat Joe" "Fat Joe"
+265 1172 "Céline Dion" "Céline Dion"
+283 1173 "Ana Carolina" "Ana Carolina"
+3461 1174 "Phantom Planet" "Phantom Planet"
+206 1175 Beck Beck
+543 1176 "Nicole Scherzinger" "Nicole Scherzinger"
+166 1177 "The Cranberries" "The Cranberries"
+1489 1178 "Reba McEntire" "Reba McEntire"
+1427 1179 "Stevie Wonder" "Stevie Wonder"
+913 1180 "Destiny's Child" "Destiny's Child"
+1432 1181 "Tiziano Ferro" "Tiziano Ferro"
+1243 1182 Mika Mika
+7193 1183 Sonique Sonique
+7826 1184 "The Weepies" "The Weepies"
+8649 1185 "Kimya Dawson" "Kimya Dawson"
+8184 1186 Fugees Fugees
+8072 1187 "Bobby Valentino" "Bobby Valentino"
+3781 1188 "Violent Femmes" "Violent Femmes"
+4369 1189 "Tom Petty and the Heartbreakers" "Tom Petty and the Heartbreakers"
+2220 1190 Aaliyah Aaliyah
+3303 1191 "Barry White" "Barry White"
+3426 1192 "KC and the Sunshine Band" "KC and the Sunshine Band"
+2571 1193 Bananarama Bananarama
+2565 1194 Extreme Extreme
+2609 1195 UB40 UB40
+2797 1196 "Mr. Big" "Mr. Big"
+2023 1197 "Gloria Estefan" "Gloria Estefan"
+2394 1198 "Celia Cruz" "Celia Cruz"
+1589 1199 "S Club 7" "S Club 7"
+11139 1200 "Bob Sinclar" "Bob Sinclar"
+5238 1201 "Fito Páez" "Fito Páez"
+6376 1202 "Missy Elliott" "Missy Elliott"
+6459 1203 Selena Selena
+6505 1204 Estopa Estopa
+322 1205 Ashanti Ashanti
+18439 1206 "Hot Chocolate" "Hot Chocolate"
+3316 1207 "Sean Paul" "Sean Paul"
+3464 1208 "Counting Crows" "Counting Crows"
+4493 1209 "The Bangles" "The Bangles"
+7945 1210 "Lissy Trullie" "Lissy Trullie"
+4387 1211 "Does It Offend You, Yeah?" "Does It Offend You, Yeah?"
+3966 1212 "Modern Talking" "Modern Talking"
+1457 1213 Cherish Cherish
+3985 1214 "Gigi D'Agostino" "Gigi D'Agostino"
+312 1215 Cassie Cassie
+1925 1216 "Fool's Garden" "Fool's Garden"
+3892 1217 "Soda Stereo" "Soda Stereo"
+3947 1218 "DJ BoBo" "DJ BoBo"
+40 1219 "The Faint" "The Faint"
+18606 1220 "Culture Beat" "Culture Beat"
+1486 1221 Santigold Santigold
+6631 1222 Fabolous Fabolous
+1440 1223 "David Bisbal" "David Bisbal"
+5239 1224 "Calle 13" "Calle 13"
+1400 1225 MGMT MGMT
+3882 1226 "A.R. Rahman" "A.R. Rahman"
+1163 1227 "Los Campesinos!" "Los Campesinos!"
+16323 1228 "Luigi Boccherini" "Luigi Boccherini"
+1127 1229 "The Asteroids Galaxy Tour" "The Asteroids Galaxy Tour"
+1394 1230 "The Chemical Brothers" "The Chemical Brothers"
+1412 1231 "Led Zeppelin" "Led Zeppelin"
+1631 1232 "Deltron 3030" "Deltron 3030"
+4359 1233 Mudhoney Mudhoney
+567 1234 "Sam Cooke" "Sam Cooke"
+1429 1235 "Christian Chávez" "Christian Chávez"
+470 1236 nevershoutnever! nevershoutnever!
+3716 1237 Wale Wale
+297 1238 "David Cook" "David Cook"
+835 1239 "Scar Symmetry" "Scar Symmetry"
+768 1240 "Enter Shikari" "Enter Shikari"
+1684 1241 "Aly & AJ" "Aly & AJ"
+1244 1242 "Elvis Presley" "Elvis Presley"
+793 1243 "Hannah Montana" "Hannah Montana"
+360 1244 "Shania Twain" "Shania Twain"
+1686 1245 "Weird Al Yankovic" "Weird Al Yankovic"
+1685 1246 Everlife Everlife
+3078 1247 "Relient K" "Relient K"
+2778 1248 Cryptopsy Cryptopsy
+17644 1249 "Eartha Kitt" "Eartha Kitt"
+6722 1250 "Air Supply" "Air Supply"
+7427 1251 "Judy Garland" "Judy Garland"
+9302 1252 "Bing Crosby" "Bing Crosby"
+15361 1253 "Bobby Darin" "Bobby Darin"
+14147 1254 "Dinah Washington" "Dinah Washington"
+10627 1255 "Andy Williams" "Andy Williams"
+2458 1256 "Nat King Cole" "Nat King Cole"
+304 1257 "David Archuleta" "David Archuleta"
+15027 1258 "Jimmy Buffett" "Jimmy Buffett"
+3877 1259 "Pink Martini" "Pink Martini"
+3019 1260 "Louis Armstrong" "Louis Armstrong"
+1220 1261 "Patsy Cline" "Patsy Cline"
+735 1262 "The Rolling Stones" "The Rolling Stones"
+562 1263 "The Who" "The Who"
+1687 1264 "Liz Phair" "Liz Phair"
+1710 1265 Therion Therion
+1072 1266 "Martin L. Gore" "Martin L. Gore"
+4143 1267 "Agua de Annique" "Agua de Annique"
+1711 1268 Eisbrecher Eisbrecher
+1372 1269 "Deep Purple" "Deep Purple"
+5074 1270 "Rob Dougan" "Rob Dougan"
+4126 1271 Vangelis Vangelis
+1703 1272 "The Cult" "The Cult"
+2742 1273 Steppenwolf Steppenwolf
+1358 1274 "Judas Priest" "Judas Priest"
+5806 1275 "John Murphy" "John Murphy"
+5215 1276 "Skunk Anansie" "Skunk Anansie"
+1701 1277 Puscifer Puscifer
+1729 1278 "Craig Armstrong" "Craig Armstrong"
+1418 1279 Mogwai Mogwai
+1423 1280 "A Silver Mt. Zion" "A Silver Mt. Zion"
+11712 1281 "Yndi Halda" "Yndi Halda"
+12703 1282 Jeniferever Jeniferever
+9336 1283 "Saxon Shore" "Saxon Shore"
+1732 1284 "Joanna Newsom" "Joanna Newsom"
+2605 1285 Bonobo Bonobo
+1763 1286 "Maria Rita" "Maria Rita"
+1343 1287 Queensrÿche Queensrÿche
+1755 1288 "Chico Buarque" "Chico Buarque"
+1146 1289 菅野よう子 菅野よう子
+3741 1290 Cazuza Cazuza
+3205 1291 "Mallu Magalhães" "Mallu Magalhães"
+2419 1292 "Billie Holiday" "Billie Holiday"
+2277 1293 Feist Feist
+1783 1294 "Esbjörn Svensson Trio" "Esbjörn Svensson Trio"
+1778 1295 "Eddie Vedder" "Eddie Vedder"
+1771 1296 "Rita Lee" "Rita Lee"
+952 1297 "Skid Row" "Skid Row"
+11416 1298 "Gregory and the Hawk" "Gregory and the Hawk"
+9822 1299 Firehouse Firehouse
+8504 1300 "Joshua Radin" "Joshua Radin"
+3747 1301 Vanguart Vanguart
+421 1302 "Móveis Coloniais de Acaju" "Móveis Coloniais de Acaju"
+1114 1303 Tarja Tarja
+6756 1304 Amiina Amiina
+1415 1305 "Creedence Clearwater Revival" "Creedence Clearwater Revival"
+1263 1306 Tristania Tristania
+7248 1307 "Joe Cocker" "Joe Cocker"
+727 1308 Era Era
+12141 1309 "Melody Gardot" "Melody Gardot"
+1416 1310 "George Harrison" "George Harrison"
+2055 1311 "Andrew Lloyd Webber" "Andrew Lloyd Webber"
+8264 1312 "William Fitzsimmons" "William Fitzsimmons"
+268 1313 "Richard Marx" "Richard Marx"
+1802 1314 "The Shadows" "The Shadows"
+2265 1315 "Simon & Garfunkel" "Simon & Garfunkel"
+2469 1316 "Peter Gabriel" "Peter Gabriel"
+1786 1317 Сплин Сплин
+1139 1318 "Maurice Ravel" "Maurice Ravel"
+7821 1319 Mandalay Mandalay
+6714 1320 "Belinda Carlisle" "Belinda Carlisle"
+7111 1321 "Gabriel Fauré" "Gabriel Fauré"
+6245 1322 "Мумий Тролль" "Мумий Тролль"
+6161 1323 "Arvo Pärt" "Arvo Pärt"
+1801 1324 "Nightmares on Wax" "Nightmares on Wax"
+11480 1325 "Dmitri Shostakovich" "Dmitri Shostakovich"
+18408 1326 "Edvard Grieg" "Edvard Grieg"
+10213 1327 "Sergei Prokofiev" "Sergei Prokofiev"
+1799 1328 Indochine Indochine
+1384 1329 "The Verve" "The Verve"
+1790 1330 Archive Archive
+5787 1331 "Diana Krall" "Diana Krall"
+728 1332 "Eric Clapton" "Eric Clapton"
+2780 1333 "Lita Ford" "Lita Ford"
+2796 1334 Sweet Sweet
+2792 1335 "Cheap Trick" "Cheap Trick"
+2790 1336 CRASHDÏET CRASHDÏET
+2789 1337 "Velvet Revolver" "Velvet Revolver"
+2788 1338 "Joan Jett and the Blackhearts" "Joan Jett and the Blackhearts"
+2787 1339 Whitesnake Whitesnake
+2784 1340 "Hanoi Rocks" "Hanoi Rocks"
+2782 1341 Vixen Vixen
+2473 1342 Fantômas Fantômas
+2463 1343 Boston Boston
+2361 1344 D-A-D D-A-D
+2360 1345 Airbourne Airbourne
+2899 1346 "The Animals" "The Animals"
+3456 1347 "The Adicts" "The Adicts"
+3444 1348 "Dead Kennedys" "Dead Kennedys"
+3354 1349 "Black Flag" "Black Flag"
+3299 1350 "The Fall" "The Fall"
+3264 1351 Marillion Marillion
+3011 1352 "The Stooges" "The Stooges"
+2973 1353 Dokken Dokken
+2901 1354 "ZZ Top" "ZZ Top"
+2351 1355 "Joan Jett" "Joan Jett"
+2894 1356 "Buddy Guy" "Buddy Guy"
+2864 1357 "Stevie Ray Vaughan and Double Trouble" "Stevie Ray Vaughan and Double Trouble"
+2859 1358 Warrant Warrant
+2855 1359 Cream Cream
+2853 1360 "Thin Lizzy" "Thin Lizzy"
+2838 1361 Manowar Manowar
+2834 1362 "Lynyrd Skynyrd" "Lynyrd Skynyrd"
+1803 1363 "Mötley Crüe" "Mötley Crüe"
+1812 1364 "Jerry Cantrell" "Jerry Cantrell"
+1811 1365 "Patti Smith" "Patti Smith"
+1809 1366 Stryper Stryper
+1808 1367 Ratt Ratt
+1807 1368 "The Runaways" "The Runaways"
+1806 1369 "Syd Barrett" "Syd Barrett"
+1804 1370 "T. Rex" "T. Rex"
+1813 1371 "The Black Crowes" "The Black Crowes"
+1672 1372 "Avenged Sevenfold" "Avenged Sevenfold"
+1660 1373 "Blind Melon" "Blind Melon"
+1648 1374 "The Baseballs" "The Baseballs"
+1527 1375 Anthrax Anthrax
+1513 1376 Ramones Ramones
+1469 1377 "The Mamas & The Papas" "The Mamas & The Papas"
+1468 1378 Kansas Kansas
+2027 1379 "Frankie Goes to Hollywood" "Frankie Goes to Hollywood"
+2347 1380 "Van Halen" "Van Halen"
+2343 1381 KISS KISS
+2342 1382 Dio Dio
+2341 1383 "Twisted Sister" "Twisted Sister"
+2183 1384 Heart Heart
+2013 1385 "Blue Öyster Cult" "Blue Öyster Cult"
+1974 1386 "Rage Against the Machine" "Rage Against the Machine"
+245 1387 "Bob Marley & The Wailers" "Bob Marley & The Wailers"
+7157 1388 "Loreena McKennitt" "Loreena McKennitt"
+7081 1389 Tomahawk Tomahawk
+6959 1390 "Gary Moore" "Gary Moore"
+6541 1391 "Jeff Beck" "Jeff Beck"
+6064 1392 Nena Nena
+5844 1393 "Jefferson Airplane" "Jefferson Airplane"
+572 1394 "Ray Charles" "Ray Charles"
+17166 1395 "The Knack" "The Knack"
+15481 1396 "Don McLean" "Don McLean"
+565 1397 "Howlin' Wolf" "Howlin' Wolf"
+601 1398 Prince Prince
+580 1399 "Muddy Waters" "Muddy Waters"
+5841 1400 Winger Winger
+3763 1401 "The Corrs" "The Corrs"
+4165 1402 Poison Poison
+4130 1403 Foreigner Foreigner
+4125 1404 "Status Quo" "Status Quo"
+4115 1405 "The Vines" "The Vines"
+4092 1406 "Dinosaur Jr." "Dinosaur Jr."
+3921 1407 Asia Asia
+3774 1408 "Uriah Heep" "Uriah Heep"
+3744 1409 "Bikini Kill" "Bikini Kill"
+3739 1410 Hole Hole
+3480 1411 "L.A. Guns" "L.A. Guns"
+3477 1412 "Ugly Kid Joe" "Ugly Kid Joe"
+3476 1413 Saxon Saxon
+3473 1414 "David Lee Roth" "David Lee Roth"
+3471 1415 "Quiet Riot" "Quiet Riot"
+4559 1416 Busted Busted
+5660 1417 "Robert Johnson" "Robert Johnson"
+5365 1418 "Diamond Head" "Diamond Head"
+5306 1419 "Dropkick Murphys" "Dropkick Murphys"
+5165 1420 "White Lion" "White Lion"
+5157 1421 Accept Accept
+5010 1422 "Faster Pussycat" "Faster Pussycat"
+4807 1423 "New York Dolls" "New York Dolls"
+1817 1424 L7 L7
+4460 1425 Cinderella Cinderella
+4286 1426 Doro Doro
+4278 1427 Girlschool Girlschool
+4272 1428 Darkthrone Darkthrone
+4271 1429 Burzum Burzum
+712 1430 "Dire Straits" "Dire Straits"
+709 1431 "The White Stripes" "The White Stripes"
+730 1432 Eagles Eagles
+881 1433 Kyuss Kyuss
+846 1434 "Lamb of God" "Lamb of God"
+843 1435 Pantera Pantera
+830 1436 Atreyu Atreyu
+732 1437 "Alice Cooper" "Alice Cooper"
+9274 1438 "Jason Becker" "Jason Becker"
+9818 1439 "Mother Love Bone" "Mother Love Bone"
+9699 1440 "Joan Baez" "Joan Baez"
+9468 1441 "Babes in Toyland" "Babes in Toyland"
+9347 1442 "Bad Company" "Bad Company"
+9344 1443 "Screaming Trees" "Screaming Trees"
+9334 1444 Tesla Tesla
+9919 1445 Triumph Triumph
+8340 1446 "George Thorogood & The Destroyers" "George Thorogood & The Destroyers"
+8126 1447 "Little Walter" "Little Walter"
+7938 1448 "Agent Orange" "Agent Orange"
+7880 1449 "Bow Wow Wow" "Bow Wow Wow"
+77 1450 "George Michael" "George Michael"
+85 1451 "Spandau Ballet" "Spandau Ballet"
+713 1452 Gotthard Gotthard
+12710 1453 "Johnny Thunders" "Johnny Thunders"
+10672 1454 Voivod Voivod
+1254 1455 Mayhem Mayhem
+1249 1456 "Guns N' Roses" "Guns N' Roses"
+1202 1457 Melvins Melvins
+1103 1458 "Iggy Pop" "Iggy Pop"
+928 1459 Helloween Helloween
+1264 1460 Carcass Carcass
+1342 1461 "Gamma Ray" "Gamma Ray"
+1344 1462 Annihilator Annihilator
+1351 1463 "Tenacious D" "Tenacious D"
+1366 1464 W.A.S.P. W.A.S.P.
+956 1465 "Yngwie Malmsteen" "Yngwie Malmsteen"
+957 1466 "Blind Guardian" "Blind Guardian"
+989 1467 "The Donnas" "The Donnas"
+990 1468 "Iron Butterfly" "Iron Butterfly"
+947 1469 Testament Testament
+945 1470 Journey Journey
+937 1471 Stratovarius Stratovarius
+6883 1472 "Modern English" "Modern English"
+7054 1473 "The Alan Parsons Project" "The Alan Parsons Project"
+432 1474 Klaxons Klaxons
+969 1475 Kasabian Kasabian
+7117 1476 "Sebastian Bach" "Sebastian Bach"
+3469 1477 Supergrass Supergrass
+11736 1478 "Woody Guthrie" "Woody Guthrie"
+11933 1479 "Generation X" "Generation X"
+17008 1480 "Brian May" "Brian May"
+7342 1481 "Wall of Voodoo" "Wall of Voodoo"
+910 1482 "John Williams" "John Williams"
+949 1483 Death Death
+9296 1484 "The Buggles" "The Buggles"
+1705 1485 "Hans Zimmer" "Hans Zimmer"
+2902 1486 "Buddy Holly" "Buddy Holly"
+6732 1487 "Big Country" "Big Country"
+2559 1488 Kajagoogoo Kajagoogoo
+4541 1489 "Lou Reed" "Lou Reed"
+4975 1490 "Cutting Crew" "Cutting Crew"
+204 1491 "Damien Rice" "Damien Rice"
+998 1492 "Orchestral Manoeuvres in the Dark" "Orchestral Manoeuvres in the Dark"
+2446 1493 "Howard Shore" "Howard Shore"
+226 1494 "Queens of the Stone Age" "Queens of the Stone Age"
+1073 1495 Kraftwerk Kraftwerk
+6070 1496 Animotion Animotion
+6065 1497 "Men Without Hats" "Men Without Hats"
+91 1498 "Nik Kershaw" "Nik Kershaw"
+1886 1499 "Gary Numan" "Gary Numan"
+100 1500 ABC ABC
+1891 1501 "Thomas Dolby" "Thomas Dolby"
+5754 1502 "Eliza Doolittle" "Eliza Doolittle"
+820 1503 "At the Gates" "At the Gates"
+7116 1504 "Eternal Tears of Sorrow" "Eternal Tears of Sorrow"
+4971 1505 Kalmah Kalmah
+812 1506 "Dark Tranquillity" "Dark Tranquillity"
+6257 1507 "Rob Zombie" "Rob Zombie"
+605 1508 "Beastie Boys" "Beastie Boys"
+9926 1509 "Ted Nugent" "Ted Nugent"
+1844 1510 "Grace Jones" "Grace Jones"
+12137 1511 "Sérgio Mendes" "Sérgio Mendes"
+15391 1512 "Al Green" "Al Green"
+4609 1513 Brainstorm Brainstorm
+1829 1514 "Quincy Jones" "Quincy Jones"
+1156 1515 Orbital Orbital
+2560 1516 "Boz Scaggs" "Boz Scaggs"
+1821 1517 "Luther Vandross" "Luther Vandross"
+1855 1518 Pillar Pillar
+1867 1519 Disciple Disciple
+3247 1520 "Family Force 5" "Family Force 5"
+4747 1521 Fireflight Fireflight
+816 1522 "A Day to Remember" "A Day to Remember"
+1006 1523 "The Fixx" "The Fixx"
+994 1524 "Howard Jones" "Howard Jones"
+2562 1525 Arcadia Arcadia
+1836 1526 "Art of Noise" "Art of Noise"
+1008 1527 "Level 42" "Level 42"
+2554 1528 "Hall & Oates" "Hall & Oates"
+1897 1529 "John Foxx" "John Foxx"
+1230 1530 Parliament Parliament
+14846 1531 !!! !!!
+12817 1532 "The Communards" "The Communards"
+1900 1533 Yello Yello
+2535 1534 "LCD Soundsystem" "LCD Soundsystem"
+999 1535 "Thompson Twins" "Thompson Twins"
+1899 1536 "Scritti Politti" "Scritti Politti"
+1884 1537 "Midnight Oil" "Midnight Oil"
+1881 1538 XTC XTC
+1015 1539 Berlin Berlin
+1014 1540 Erasure Erasure
+1888 1541 Wire Wire
+7076 1542 "Gang of Four" "Gang of Four"
+7347 1543 Blancmange Blancmange
+9321 1544 "The The" "The The"
+93 1545 "Jean-Michel Jarre" "Jean-Michel Jarre"
+62 1546 "Prefab Sprout" "Prefab Sprout"
+61 1547 "Talk Talk" "Talk Talk"
+3941 1548 "The Associates" "The Associates"
+79 1549 "Fiction Factory" "Fiction Factory"
+1890 1550 Sparks Sparks
+1882 1551 "Pseudo Echo" "Pseudo Echo"
+68 1552 Icehouse Icehouse
+1893 1553 "Yellow Magic Orchestra" "Yellow Magic Orchestra"
+2043 1554 "Cabaret Voltaire" "Cabaret Voltaire"
+3768 1555 "Soft Cell" "Soft Cell"
+9253 1556 "Classix Nouveaux" "Classix Nouveaux"
+7343 1557 "Fad Gadget" "Fad Gadget"
+1017 1558 "The Psychedelic Furs" "The Psychedelic Furs"
+6742 1559 Propaganda Propaganda
+13168 1560 Telex Telex
+7344 1561 Boytronic Boytronic
+9255 1562 "Wang Chung" "Wang Chung"
+13126 1563 Saga Saga
+3436 1564 "The Damned" "The Damned"
+6884 1565 "Go West" "Go West"
+1975 1566 O.S.T.R. O.S.T.R.
+1981 1567 Kult Kult
+1984 1568 "Pidżama Porno" "Pidżama Porno"
+8229 1569 "Astor Piazzolla" "Astor Piazzolla"
+2038 1570 "In Extremo" "In Extremo"
+17516 1571 "Gloria Gaynor" "Gloria Gaynor"
+2556 1572 "The Power Station" "The Power Station"
+14712 1573 "The Devils" "The Devils"
+1107 1574 "The Good, the Bad & the Queen" "The Good, the Bad & the Queen"
+1502 1575 Rooney Rooney
+2606 1576 "The Stone Roses" "The Stone Roses"
+7642 1577 Tocotronic Tocotronic
+4341 1578 "At Vance" "At Vance"
+11234 1579 "Jarvis Cocker" "Jarvis Cocker"
+620 1580 Pulp Pulp
+1094 1581 Kent Kent
+4810 1582 "The Pipettes" "The Pipettes"
+8215 1583 Datarock Datarock
+2572 1584 "Minus the Bear" "Minus the Bear"
+2475 1585 "Captain Beefheart & His Magic Band" "Captain Beefheart & His Magic Band"
+19 1586 :wumpscut: :wumpscut:
+878 1587 Wolfsheim Wolfsheim
+851 1588 "Manic Street Preachers" "Manic Street Preachers"
+3886 1589 "Angelo Badalamenti" "Angelo Badalamenti"
+2031 1590 "Bee Gees" "Bee Gees"
+2477 1591 "The Legendary Pink Dots" "The Legendary Pink Dots"
+8230 1592 "Oi Va Voi" "Oi Va Voi"
+2470 1593 "Throbbing Gristle" "Throbbing Gristle"
+76 1594 Electronic Electronic
+2026 1595 "The Residents" "The Residents"
+2037 1596 Tuxedomoon Tuxedomoon
+82 1597 "Marc Almond" "Marc Almond"
+8910 1598 "Electric Six" "Electric Six"
+2039 1599 "Deutsch Amerikanische Freundschaft" "Deutsch Amerikanische Freundschaft"
+444 1600 múm múm
+603 1601 "Aphex Twin" "Aphex Twin"
+748 1602 "Boards of Canada" "Boards of Canada"
+1752 1603 "Ellen Allien" "Ellen Allien"
+1945 1604 Daedelus Daedelus
+2145 1605 "B. Fleischmann" "B. Fleischmann"
+2149 1606 "Booka Shade" "Booka Shade"
+2174 1607 edIT edIT
+2675 1608 "Ellen Allien & Apparat" "Ellen Allien & Apparat"
+2695 1609 "Frog Pocket" "Frog Pocket"
+5069 1610 "Black Sun Empire" "Black Sun Empire"
+5503 1611 "The Orb" "The Orb"
+5871 1612 "Ricardo Villalobos" "Ricardo Villalobos"
+7693 1613 Pole Pole
+7695 1614 Deadbeat Deadbeat
+10517 1615 Dntel Dntel
+11101 1616 "Add N to (X)" "Add N to (X)"
+14750 1617 "Dominik Eulberg" "Dominik Eulberg"
+14760 1618 "Richie Hawtin" "Richie Hawtin"
+14774 1619 "Mathew Jonson" "Mathew Jonson"
+16744 1620 Hexstatic Hexstatic
+228 1621 "Kings of Leon" "Kings of Leon"
+1556 1622 "Joss Stone" "Joss Stone"
+25 1623 "Cradle of Filth" "Cradle of Filth"
+570 1624 "Little Richard" "Little Richard"
+1338 1625 HammerFall HammerFall
+2344 1626 Massacration Massacration
+2352 1627 Creed Creed
+332 1628 "Kelly Rowland" "Kelly Rowland"
+1936 1629 "Jennifer Hudson" "Jennifer Hudson"
+1937 1630 "Michelle Williams" "Michelle Williams"
+1402 1631 Ludacris Ludacris
+3318 1632 "Trey Songz" "Trey Songz"
+4136 1633 "Leaves' Eyes" "Leaves' Eyes"
+2422 1634 Islands Islands
+5255 1635 "The Go-Go's" "The Go-Go's"
+3581 1636 Alabama Alabama
+1800 1637 Amethystium Amethystium
+3606 1638 SHeDaisy SHeDaisy
+12599 1639 "Harry Nilsson" "Harry Nilsson"
+3466 1640 "Sarah McLachlan" "Sarah McLachlan"
+5446 1641 "Ben Harper" "Ben Harper"
+2044 1642 "Sarah Brightman" "Sarah Brightman"
+2467 1643 "George Strait" "George Strait"
+3070 1644 Carpenters Carpenters
+12752 1645 "The Temptations" "The Temptations"
+3308 1646 Supertramp Supertramp
+14509 1647 "Dwight Yoakam" "Dwight Yoakam"
+1004 1648 "Kim Wilde" "Kim Wilde"
+1046 1649 "New Found Glory" "New Found Glory"
+9417 1650 "Don Henley" "Don Henley"
+3065 1651 "Ringo Starr" "Ringo Starr"
+4434 1652 "The Ataris" "The Ataris"
+5172 1653 "Grand Funk Railroad" "Grand Funk Railroad"
+2047 1654 "Andrea Bocelli" "Andrea Bocelli"
+2440 1655 Juanes Juanes
+9478 1656 "Chad & Jeremy" "Chad & Jeremy"
+9427 1657 "The Lovin' Spoonful" "The Lovin' Spoonful"
+3778 1658 "Sly & The Family Stone" "Sly & The Family Stone"
+750 1659 "Bill Withers" "Bill Withers"
+8991 1660 "Boyz II Men" "Boyz II Men"
+4705 1661 "All Saints" "All Saints"
+2454 1662 "Faith Hill" "Faith Hill"
+4780 1663 "Jim Croce" "Jim Croce"
+3230 1664 "The Moody Blues" "The Moody Blues"
+15249 1665 "Sheena Easton" "Sheena Easton"
+15482 1666 "Los Lobos" "Los Lobos"
+8763 1667 "Tina Arena" "Tina Arena"
+8313 1668 "John Fogerty" "John Fogerty"
+4543 1669 "Willie Nelson" "Willie Nelson"
+16340 1670 "The Boo Radleys" "The Boo Radleys"
+5452 1671 Chicago Chicago
+3602 1672 "Ronnie Milsap" "Ronnie Milsap"
+12129 1673 "Barry Manilow" "Barry Manilow"
+3603 1674 "Sara Evans" "Sara Evans"
+2893 1675 "Van Morrison" "Van Morrison"
+2468 1676 "Alan Jackson" "Alan Jackson"
+734 1677 "Bruce Springsteen" "Bruce Springsteen"
+1985 1678 "Chris Cornell" "Chris Cornell"
+8806 1679 "The Drifters" "The Drifters"
+8314 1680 "The Everly Brothers" "The Everly Brothers"
+2459 1681 "Glenn Miller" "Glenn Miller"
+3097 1682 "Matchbox Twenty" "Matchbox Twenty"
+8546 1683 "The Hollies" "The Hollies"
+3621 1684 "Coheed and Cambria" "Coheed and Cambria"
+2453 1685 "Tim McGraw" "Tim McGraw"
+2404 1686 k-os k-os
+4520 1687 "Hank Williams" "Hank Williams"
+2443 1688 "Little Big Town" "Little Big Town"
+8743 1689 "REO Speedwagon" "REO Speedwagon"
+2059 1690 Vanessa-Mae Vanessa-Mae
+10630 1691 "Neil Sedaka" "Neil Sedaka"
+1478 1692 "B.J. Thomas" "B.J. Thomas"
+15527 1693 "The Guess Who" "The Guess Who"
+5249 1694 "Alejandro Sanz" "Alejandro Sanz"
+2570 1695 "The Doobie Brothers" "The Doobie Brothers"
+3482 1696 America America
+18117 1697 "Scott McKenzie" "Scott McKenzie"
+6755 1698 Kellplanet Kellplanet
+2567 1699 "Paul Young" "Paul Young"
+13013 1700 "Tony Bennett" "Tony Bennett"
+2922 1701 "LL Cool J" "LL Cool J"
+10142 1702 "Dionne Warwick" "Dionne Warwick"
+2937 1703 "Naked Eyes" "Naked Eyes"
+3497 1704 "Jordan Pruitt" "Jordan Pruitt"
+7142 1705 "Afro Celt Sound System" "Afro Celt Sound System"
+2128 1706 "The Rascals" "The Rascals"
+8998 1707 "Kool & The Gang" "Kool & The Gang"
+11085 1708 "Marc Anthony" "Marc Anthony"
+17157 1709 "Nick Lowe" "Nick Lowe"
+7935 1710 "The Monkees" "The Monkees"
+1834 1711 "Diana Ross" "Diana Ross"
+1772 1712 "Norah Jones" "Norah Jones"
+1620 1713 OutKast OutKast
+7625 1714 "The Presidents of the United States of America" "The Presidents of the United States of America"
+5767 1715 "LeAnn Rimes" "LeAnn Rimes"
+5264 1716 "Rick Springfield" "Rick Springfield"
+5261 1717 Quarterflash Quarterflash
+3503 1718 Tarkan Tarkan
+8372 1719 "Ricardo Arjona" "Ricardo Arjona"
+8594 1720 "Joni Mitchell" "Joni Mitchell"
+9348 1721 "Stevie Nicks" "Stevie Nicks"
+17437 1722 "MC Hammer" "MC Hammer"
+17490 1723 "Melissa Etheridge" "Melissa Etheridge"
+3987 1724 "Tom Jones" "Tom Jones"
+4351 1725 "Lionel Richie" "Lionel Richie"
+979 1726 "Smash Mouth" "Smash Mouth"
+18363 1727 "Cassandra Wilson" "Cassandra Wilson"
+14685 1728 Shivaree Shivaree
+15315 1729 Xela Xela
+69 1730 Sade Sade
+4545 1731 "Emmylou Harris" "Emmylou Harris"
+103 1732 "Max Richter" "Max Richter"
+4361 1733 "Jars of Clay" "Jars of Clay"
+3982 1734 "Eiffel 65" "Eiffel 65"
+3071 1735 "Paul McCartney & Wings" "Paul McCartney & Wings"
+1743 1736 "Ludovico Einaudi" "Ludovico Einaudi"
+5124 1737 "Kenny Loggins" "Kenny Loggins"
+2442 1738 "Garth Brooks" "Garth Brooks"
+2437 1739 "Martina McBride" "Martina McBride"
+2462 1740 Reik Reik
+8027 1741 "Jónsi & Alex" "Jónsi & Alex"
+7929 1742 "Procol Harum" "Procol Harum"
+5267 1743 "Miranda Lambert" "Miranda Lambert"
+6602 1744 Mae Mae
+6504 1745 "Jon Secada" "Jon Secada"
+2040 1746 "Luciano Pavarotti" "Luciano Pavarotti"
+8802 1747 Kitaro Kitaro
+9689 1748 "Israel Kamakawiwo'ole" "Israel Kamakawiwo'ole"
+8803 1749 "The Platters" "The Platters"
+1189 1750 "Secondhand Serenade" "Secondhand Serenade"
+1175 1751 "Georg Friedrich Händel" "Georg Friedrich Händel"
+1381 1752 Starsailor Starsailor
+366 1753 "Jack Johnson" "Jack Johnson"
+10638 1754 "Connie Francis" "Connie Francis"
+621 1755 "The Album Leaf" "The Album Leaf"
+683 1756 "John Mayer" "John Mayer"
+11602 1757 "The Pogues" "The Pogues"
+11336 1758 "Billy Ocean" "Billy Ocean"
+11455 1759 Zucchero Zucchero
+8559 1760 "Herman's Hermits" "Herman's Hermits"
+8558 1761 "The Association" "The Association"
+996 1762 "Mike & The Mechanics" "Mike & The Mechanics"
+737 1763 "Trans-Siberian Orchestra" "Trans-Siberian Orchestra"
+607 1764 "Jethro Tull" "Jethro Tull"
+12623 1765 "Peter, Paul & Mary" "Peter, Paul & Mary"
+3313 1766 "The Jackson 5" "The Jackson 5"
+4785 1767 "The Ventures" "The Ventures"
+6458 1768 "The Ronettes" "The Ronettes"
+5258 1769 "Adam Ant" "Adam Ant"
+3889 1770 "Chris Isaak" "Chris Isaak"
+46 1771 "Pyotr Ilyich Tchaikovsky" "Pyotr Ilyich Tchaikovsky"
+975 1772 Santana Santana
+834 1773 "Five Finger Death Punch" "Five Finger Death Punch"
+882 1774 "The Jesus Lizard" "The Jesus Lizard"
+2481 1775 "The Birthday Party" "The Birthday Party"
+3279 1776 "The Jesus and Mary Chain" "The Jesus and Mary Chain"
+3447 1777 "Big Black" "Big Black"
+7375 1778 Shellac Shellac
+3758 1779 Default Default
+5894 1780 "The Brand New Heavies" "The Brand New Heavies"
+6950 1781 "Jim Morrison" "Jim Morrison"
+2600 1782 "We Are Scientists" "We Are Scientists"
+2587 1783 "Late of the Pier" "Late of the Pier"
+5429 1784 "Good Shoes" "Good Shoes"
+755 1785 65daysofstatic 65daysofstatic
+2601 1786 "Mystery Jets" "Mystery Jets"
+1041 1787 Gloria Gloria
+1047 1788 McFly McFly
+1910 1789 "the GazettE" "the GazettE"
+754 1790 "Maximum the Hormone" "Maximum the Hormone"
+1857 1791 YUI YUI
+1872 1792 Flow Flow
+5082 1793 アンティック-珈琲店- アンティック-珈琲店-
+5076 1794 "X JAPAN" "X JAPAN"
+1919 1795 "HIGH and MIGHTY COLOR" "HIGH and MIGHTY COLOR"
+10583 1796 "ORANGE RANGE" "ORANGE RANGE"
+1853 1797 blessthefall blessthefall
+1188 1798 "Asking Alexandria" "Asking Alexandria"
+1541 1799 "The Devil Wears Prada" "The Devil Wears Prada"
+2192 1800 "Miss May I" "Miss May I"
+1868 1801 "A Skylit Drive" "A Skylit Drive"
+2210 1802 "Attack Attack!" "Attack Attack!"
+2214 1803 "The Word Alive" "The Word Alive"
+2617 1804 "Pierce the Veil" "Pierce the Veil"
+2618 1805 "Before Their Eyes" "Before Their Eyes"
+2430 1806 "From First to Last" "From First to Last"
+2621 1807 "We Came As Romans" "We Came As Romans"
+4168 1808 "Woe, Is Me" "Woe, Is Me"
+2959 1809 "Eyes Set to Kill" "Eyes Set to Kill"
+5969 1810 "Drop Dead, Gorgeous" "Drop Dead, Gorgeous"
+205 1811 "Andrew Bird" "Andrew Bird"
+2639 1812 "Ben Folds Five" "Ben Folds Five"
+2640 1813 "Neko Case" "Neko Case"
+2840 1814 "Dashboard Confessional" "Dashboard Confessional"
+2641 1815 Calexico Calexico
+4216 1816 "Reel Big Fish" "Reel Big Fish"
+5216 1817 "Alien Ant Farm" "Alien Ant Farm"
+3057 1818 "Regina Spektor" "Regina Spektor"
+2632 1819 "Rufus Wainwright" "Rufus Wainwright"
+2625 1820 "Barenaked Ladies" "Barenaked Ladies"
+2627 1821 "Ben Folds" "Ben Folds"
+2630 1822 "Paul Simon" "Paul Simon"
+602 1823 "Iron & Wine" "Iron & Wine"
+1643 1824 "Dave Matthews Band" "Dave Matthews Band"
+434 1825 Spoon Spoon
+2444 1826 "Billy Joel" "Billy Joel"
+2424 1827 "The New Pornographers" "The New Pornographers"
+14019 1828 "Screamin' Jay Hawkins" "Screamin' Jay Hawkins"
+2652 1829 "The Classic Crime" "The Classic Crime"
+4708 1830 "Tiago Iorc" "Tiago Iorc"
+4793 1831 "Cachorro Grande" "Cachorro Grande"
+1977 1832 "The Raconteurs" "The Raconteurs"
+4828 1833 Forfun Forfun
+422 1834 Mombojó Mombojó
+532 1835 "Little Boots" "Little Boots"
+6601 1836 "Artist Vs. Poet" "Artist Vs. Poet"
+1193 1837 "Mayday Parade" "Mayday Parade"
+2070 1838 "Vasco Rossi" "Vasco Rossi"
+2791 1839 "Slash's Snakepit" "Slash's Snakepit"
+8713 1840 "Rock Rocket" "Rock Rocket"
+8347 1841 Mushroomhead Mushroomhead
+1669 1842 Faichecleres Faichecleres
+1186 1843 "Sum 41" "Sum 41"
+10318 1844 "The Friday Night Boys" "The Friday Night Boys"
+5772 1845 "Mamonas Assassinas" "Mamonas Assassinas"
+5586 1846 Collide Collide
+2653 1847 "A Rocket to the Moon" "A Rocket to the Moon"
+383 1848 "Bad Religion" "Bad Religion"
+3307 1849 "Eros Ramazzotti" "Eros Ramazzotti"
+6453 1850 "The Academy Is..." "The Academy Is..."
+13939 1851 "Júpiter Maçã" "Júpiter Maçã"
+705 1852 "Engenheiros do Hawaii" "Engenheiros do Hawaii"
+1764 1853 "Caetano Veloso" "Caetano Veloso"
+1038 1854 "The Maine" "The Maine"
+8398 1855 "Alice Nine" "Alice Nine"
+9713 1856 "Milton Nascimento" "Milton Nascimento"
+362 1857 "A Fine Frenzy" "A Fine Frenzy"
+1040 1858 "Forever the Sickest Kids" "Forever the Sickest Kids"
+1035 1859 "Breathe Carolina" "Breathe Carolina"
+1681 1860 "Charlie Brown Jr." "Charlie Brown Jr."
+1515 1861 "The Fratellis" "The Fratellis"
+1545 1862 Raimundos Raimundos
+1339 1863 "Sonata Arctica" "Sonata Arctica"
+1198 1864 "We The Kings" "We The Kings"
+1201 1865 "Cute Is What We Aim For" "Cute Is What We Aim For"
+2661 1866 Anberlin Anberlin
+2525 1867 "Kid Rock" "Kid Rock"
+2127 1868 "The Turtles" "The Turtles"
+2379 1869 Trivium Trivium
+840 1870 Millencolin Millencolin
+770 1871 "HORSE the band" "HORSE the band"
+813 1872 "As I Lay Dying" "As I Lay Dying"
+693 1873 "Hey Monday" "Hey Monday"
+708 1874 "Capital Inicial" "Capital Inicial"
+714 1875 "Legião Urbana" "Legião Urbana"
+4346 1876 "Walls of Jericho" "Walls of Jericho"
+4375 1877 MxPx MxPx
+3871 1878 "Daniel Powter" "Daniel Powter"
+2666 1879 "This Providence" "This Providence"
+2665 1880 "The Cab" "The Cab"
+6132 1881 Beeshop Beeshop
+2841 1882 "Gym Class Heroes" "Gym Class Heroes"
+2967 1883 Murderdolls Murderdolls
+6600 1884 "The Rocket Summer" "The Rocket Summer"
+5950 1885 "Cash Cash" "Cash Cash"
+5934 1886 "Bonde do Rolê" "Bonde do Rolê"
+5780 1887 "4 Non Blondes" "4 Non Blondes"
+6120 1888 "CPM 22" "CPM 22"
+5310 1889 Zebrahead Zebrahead
+4618 1890 "Ingrid Michaelson" "Ingrid Michaelson"
+4801 1891 "Graforréia Xilarmônica" "Graforréia Xilarmônica"
+453 1892 Silverchair Silverchair
+11763 1893 "Gilberto Gil" "Gilberto Gil"
+11803 1894 "The Juliana Theory" "The Juliana Theory"
+14629 1895 Lipstick Lipstick
+2664 1896 Lordi Lordi
+1905 1897 Shinedown Shinedown
+1091 1898 AFI AFI
+2372 1899 "Backyard Babies" "Backyard Babies"
+2363 1900 "Hardcore Superstar" "Hardcore Superstar"
+2785 1901 Sixx:A.M. Sixx:A.M.
+2350 1902 Buckcherry Buckcherry
+9013 1903 鷺巣詩郎 鷺巣詩郎
+6830 1904 Pelican Pelican
+780 1905 Gimmik Gimmik
+6843 1906 Rashamba Rashamba
+2811 1907 "Xploding Plastix" "Xploding Plastix"
+850 1908 "Haste the Day" "Haste the Day"
+4173 1909 Stigmata Stigmata
+6133 1910 "Roadrunner United" "Roadrunner United"
+2817 1911 "Cult of Luna" "Cult of Luna"
+3805 1912 Neurosis Neurosis
+763 1913 Mono Mono
+818 1914 "36 Crazyfists" "36 Crazyfists"
+11625 1915 Rosetta Rosetta
+4228 1916 "Everything Is Made in China" "Everything Is Made in China"
+3827 1917 Dolphin Dolphin
+3817 1918 Maybeshewill Maybeshewill
+1191 1919 Hadouken! Hadouken!
+2820 1920 Sakura Sakura
+2747 1921 Дельфин Дельфин
+1203 1922 "Skinny Puppy" "Skinny Puppy"
+11475 1923 Ef Ef
+13010 1924 Shitdisco Shitdisco
+7018 1925 "Hol Baumann" "Hol Baumann"
+5048 1926 "The Streets" "The Streets"
+107 1927 Burial Burial
+2829 1928 Flobots Flobots
+2674 1929 Boxcutter Boxcutter
+2815 1930 "Maxïmo Park" "Maxïmo Park"
+5030 1931 "The Pigeon Detectives" "The Pigeon Detectives"
+4999 1932 "Ocean Colour Scene" "Ocean Colour Scene"
+1516 1933 "The Enemy" "The Enemy"
+905 1934 "Crowded House" "Crowded House"
+8994 1935 Loverboy Loverboy
+285 1936 "Janet Jackson" "Janet Jackson"
+7075 1937 Mylo Mylo
+18288 1938 Technotronic Technotronic
+9892 1939 "Roger Sanchez" "Roger Sanchez"
+3978 1940 Haddaway Haddaway
+4043 1941 "2 Unlimited" "2 Unlimited"
+5045 1942 "Basement Jaxx" "Basement Jaxx"
+12352 1943 Snap! Snap!
+3980 1944 "Dr. Alban" "Dr. Alban"
+1025 1945 "DJ Sammy" "DJ Sammy"
+9861 1946 "The Shamen" "The Shamen"
+2487 1947 "Happy Mondays" "Happy Mondays"
+3876 1948 "Chris de Burgh" "Chris de Burgh"
+3104 1949 Seal Seal
+8820 1950 Commodores Commodores
+13151 1951 "The Alarm" "The Alarm"
+5188 1952 Shapeshifters Shapeshifters
+7069 1953 "The Blow Monkeys" "The Blow Monkeys"
+6737 1954 "Wet Wet Wet" "Wet Wet Wet"
+10625 1955 "Andy Bell" "Andy Bell"
+75 1956 Camouflage Camouflage
+18647 1957 "Alice DeeJay" "Alice DeeJay"
+627 1958 "Saint Etienne" "Saint Etienne"
+6728 1959 James James
+7068 1960 "Alison Moyet" "Alison Moyet"
+8555 1961 "Pat Benatar" "Pat Benatar"
+8140 1962 Dubstar Dubstar
+3067 1963 "Bonnie Tyler" "Bonnie Tyler"
+7934 1964 "The Beloved" "The Beloved"
+17512 1965 "Sister Sledge" "Sister Sledge"
+2558 1966 Toto Toto
+8069 1967 Texas Texas
+17528 1968 "The Trammps" "The Trammps"
+1828 1969 "Chaka Khan" "Chaka Khan"
+1825 1970 "The Jacksons" "The Jacksons"
+1820 1971 "Donna Summer" "Donna Summer"
+1832 1972 Chic Chic
+10041 1973 "The Four Tops" "The Four Tops"
+17648 1974 "Petula Clark" "Petula Clark"
+900 1975 "Annie Lennox" "Annie Lennox"
+8497 1976 Sash! Sash!
+9647 1977 "Manfred Mann" "Manfred Mann"
+5436 1978 "The Searchers" "The Searchers"
+2935 1979 Iris Iris
+2934 1980 "Milk Inc." "Milk Inc."
+12681 1981 "Glen Campbell" "Glen Campbell"
+11956 1982 "Tammy Wynette" "Tammy Wynette"
+12351 1983 "Lisa Stansfield" "Lisa Stansfield"
+2939 1984 JLS JLS
+971 1985 Zoé Zoé
+95 1986 "Simply Red" "Simply Red"
+5550 1987 "The Pretenders" "The Pretenders"
+1850 1988 "Teena Marie" "Teena Marie"
+6069 1989 "When in Rome" "When in Rome"
+6736 1990 T'Pau T'Pau
+83 1991 "Cock Robin" "Cock Robin"
+9826 1992 "Del Amitri" "Del Amitri"
+14534 1993 "The Bluetones" "The Bluetones"
+8573 1994 "The Archies" "The Archies"
+10626 1995 "Cliff Richard" "Cliff Richard"
+7138 1996 "Band Aid" "Band Aid"
+992 1997 "Chris Rea" "Chris Rea"
+13879 1998 Chumbawamba Chumbawamba
+8367 1999 EMF EMF
+6852 2000 "The Charlatans" "The Charlatans"
+17515 2001 "Soul II Soul" "Soul II Soul"
+9907 2002 "R. Kelly" "R. Kelly"
+1794 2003 "Inspiral Carpets" "Inspiral Carpets"
+4993 2004 Black Black
+9969 2005 "Bronski Beat" "Bronski Beat"
+824 2006 Ensiferum Ensiferum
+924 2007 Angra Angra
+2963 2008 Norther Norther
+2966 2009 Insomnium Insomnium
+527 2010 "Lil' Wayne" "Lil' Wayne"
+1380 2011 "Blue October" "Blue October"
+1099 2012 "The Prodigy" "The Prodigy"
+3033 2013 "The Scene Aesthetic" "The Scene Aesthetic"
+3030 2014 "Bombay Bicycle Club" "Bombay Bicycle Club"
+178 2015 "Dolores O'Riordan" "Dolores O'Riordan"
+1052 2016 Pink Pink
+6193 2017 "Crazy Town" "Crazy Town"
+6626 2018 DMX DMX
+7008 2019 Пилот Пилот
+5784 2020 "Unwritten Law" "Unwritten Law"
+8671 2021 Propellerheads Propellerheads
+1788 2022 "Агата Кристи" "Агата Кристи"
+2526 2023 "Sunrise Avenue" "Sunrise Avenue"
+10491 2024 Кирпичи Кирпичи
+2383 2025 Amatory Amatory
+460 2026 "Noize MC" "Noize MC"
+4024 2027 "Benny Benassi" "Benny Benassi"
+408 2028 Crossfade Crossfade
+11170 2029 "Король и Шут" "Король и Шут"
+10433 2030 "Bomfunk MC's" "Bomfunk MC's"
+16498 2031 "Lil Jon & The East Side Boyz" "Lil Jon & The East Side Boyz"
+1604 2032 Jamelia Jamelia
+3027 2033 "Evergreen Terrace" "Evergreen Terrace"
+4949 2034 Novembre Novembre
+3053 2035 Кино Кино
+3050 2036 Biohazard Biohazard
+7947 2037 "Evans Blue" "Evans Blue"
+1470 2038 Lifehouse Lifehouse
+965 2039 Bush Bush
+2062 2040 "In This Moment" "In This Moment"
+3088 2041 "Black Tide" "Black Tide"
+2984 2042 "Claudia Leitte" "Claudia Leitte"
+528 2043 "Pixie Lott" "Pixie Lott"
+1428 2044 "Dulce María" "Dulce María"
+7514 2045 KLOQ KLOQ
+3501 2046 "Mylène Farmer" "Mylène Farmer"
+5184 2047 8mm 8mm
+54 2048 Hooverphonic Hooverphonic
+485 2049 Kelis Kelis
+2022 2050 "Melanie C" "Melanie C"
+3856 2051 "Rob Thomas" "Rob Thomas"
+3173 2052 "Ivete Sangalo" "Ivete Sangalo"
+2024 2053 "Emma Bunton" "Emma Bunton"
+1135 2054 Camille Camille
+1718 2055 "Ani DiFranco" "Ani DiFranco"
+246 2056 "Adriana Calcanhotto" "Adriana Calcanhotto"
+126 2057 "The Notwist" "The Notwist"
+1988 2058 "The Subways" "The Subways"
+3252 2059 Kashmir Kashmir
+2524 2060 "Mando Diao" "Mando Diao"
+5475 2061 "Blue Foundation" "Blue Foundation"
+12002 2062 Broadcast Broadcast
+10738 2063 "Lali Puna" "Lali Puna"
+584 2064 "The Isley Brothers" "The Isley Brothers"
+987 2065 "Earth, Wind & Fire" "Earth, Wind & Fire"
+10394 2066 "Curtis Mayfield" "Curtis Mayfield"
+576 2067 "Marvin Gaye" "Marvin Gaye"
+6522 2068 "Miguel Bosé" "Miguel Bosé"
+7119 2069 "Johannes Brahms" "Johannes Brahms"
+13910 2070 "Antonín Dvořák" "Antonín Dvořák"
+8844 2071 "Charlotte Church" "Charlotte Church"
+17766 2072 "Johann Pachelbel" "Johann Pachelbel"
+5982 2073 "Giuseppe Verdi" "Giuseppe Verdi"
+16333 2074 "Felix Mendelssohn" "Felix Mendelssohn"
+2391 2075 "Alejandra Guzmán" "Alejandra Guzmán"
+2427 2076 "Teddy Geiger" "Teddy Geiger"
+3328 2077 HorrorPops HorrorPops
+3332 2078 "Sandy e Junior" "Sandy e Junior"
+3333 2079 "The Distillers" "The Distillers"
+307 2080 "Kate Voegele" "Kate Voegele"
+5416 2081 "Os Mutantes" "Os Mutantes"
+5441 2082 Lenine Lenine
+5939 2083 SR-71 SR-71
+6558 2084 "American Hi-Fi" "American Hi-Fi"
+6769 2085 Cartel Cartel
+7077 2086 Babasónicos Babasónicos
+7288 2087 "Erin McCarley" "Erin McCarley"
+2616 2088 "Nouvelle Vague" "Nouvelle Vague"
+3110 2089 "Fiona Apple" "Fiona Apple"
+3488 2090 "Corinne Bailey Rae" "Corinne Bailey Rae"
+1511 2091 "Paolo Nutini" "Paolo Nutini"
+1601 2092 Anastacia Anastacia
+2080 2093 "NX Zero" "NX Zero"
+1247 2094 "The Calling" "The Calling"
+266 2095 "Erykah Badu" "Erykah Badu"
+14692 2096 "(hed) Planet Earth" "(hed) Planet Earth"
+15236 2097 In-Grid In-Grid
+270 2098 "Maria Bethânia" "Maria Bethânia"
+9230 2099 Gram Gram
+8707 2100 Ludov Ludov
+981 2101 "Emilíana Torrini" "Emilíana Torrini"
+261 2102 "Marisa Monte" "Marisa Monte"
+1793 2103 Schiller Schiller
+524 2104 "Jeffree Star" "Jeffree Star"
+1507 2105 Omarion Omarion
+1520 2106 "The Hives" "The Hives"
+1674 2107 "The Medic Droid" "The Medic Droid"
+2393 2108 LeToya LeToya
+2407 2109 Stars Stars
+4688 2110 МакSим МакSим
+3920 2111 "Bryan Ferry" "Bryan Ferry"
+4260 2112 "Julieta Venegas" "Julieta Venegas"
+7724 2113 "The Almost" "The Almost"
+2983 2114 "Detonautas Roque Clube" "Detonautas Roque Clube"
+6137 2115 "Antônio Carlos Jobim" "Antônio Carlos Jobim"
+4716 2116 "Vanessa da Mata" "Vanessa da Mata"
+6544 2117 Freezepop Freezepop
+5191 2118 "DJ Cam" "DJ Cam"
+1397 2119 "Fatboy Slim" "Fatboy Slim"
+5119 2120 "Marcelo D2" "Marcelo D2"
+7449 2121 Lillix Lillix
+12890 2122 Bliss Bliss
+16746 2123 "Global Communication" "Global Communication"
+1590 2124 "Skye Sweetnam" "Skye Sweetnam"
+697 2125 Sia Sia
+13395 2126 "Vinicius de Moraes" "Vinicius de Moraes"
+16324 2127 Lemongrass Lemongrass
+8188 2128 "Queen Latifah" "Queen Latifah"
+5226 2129 "O Rappa" "O Rappa"
+758 2130 Психея Психея
+11579 2131 Tribalistas Tribalistas
+439 2132 "Los Hermanos" "Los Hermanos"
+2861 2133 "Rod Stewart" "Rod Stewart"
+4710 2134 "John Legend" "John Legend"
+16105 2135 "Wyclef Jean" "Wyclef Jean"
+2435 2136 "Aloha From Hell" "Aloha From Hell"
+3398 2137 +44 +44
+6693 2138 "Kevin Rudolf" "Kevin Rudolf"
+1678 2139 BrokeNCYDE BrokeNCYDE
+15327 2140 "Joey Ramone" "Joey Ramone"
+2538 2141 "The Pains of Being Pure at Heart" "The Pains of Being Pure at Heart"
+223 2142 "Band of Horses" "Band of Horses"
+1424 2143 "Cat Power" "Cat Power"
+47 2144 Emperor Emperor
+2003 2145 "Spock's Beard" "Spock's Beard"
+3417 2146 Ulver Ulver
+2006 2147 "Pain of Salvation" "Pain of Salvation"
+2151 2148 Meshuggah Meshuggah
+2964 2149 "Strapping Young Lad" "Strapping Young Lad"
+3405 2150 Antimatter Antimatter
+4605 2151 Moonsorrow Moonsorrow
+3810 2152 "The Ocean" "The Ocean"
+3509 2153 Bathory Bathory
+8420 2154 "Lake of Tears" "Lake of Tears"
+6576 2155 Enslaved Enslaved
+7644 2156 "Anna Ternheim" "Anna Ternheim"
+6570 2157 Oceansize Oceansize
+5173 2158 "Ozric Tentacles" "Ozric Tentacles"
+4691 2159 "My Dying Bride" "My Dying Bride"
+5348 2160 "Younger Brother" "Younger Brother"
+2828 2161 "Red Sparowes" "Red Sparowes"
+3940 2162 Riverside Riverside
+3720 2163 Textures Textures
+15 2164 "Dimmu Borgir" "Dimmu Borgir"
+953 2165 "Arch Enemy" "Arch Enemy"
+5672 2166 "White Zombie" "White Zombie"
+3438 2167 "Fields of the Nephilim" "Fields of the Nephilim"
+866 2168 "Virgin Prunes" "Virgin Prunes"
+3440 2169 Ween Ween
+7357 2170 Plasmatics Plasmatics
+6165 2171 "Ten Years After" "Ten Years After"
+90 2172 Kosheen Kosheen
+296 2173 Sugababes Sugababes
+1935 2174 Solange Solange
+4113 2175 Lamb Lamb
+3320 2176 "Lee Ryan" "Lee Ryan"
+13351 2177 "Paola & Chiara" "Paola & Chiara"
+4566 2178 Amerie Amerie
+888 2179 "Siobhan Donaghy" "Siobhan Donaghy"
+4706 2180 "Sam Sparro" "Sam Sparro"
+4487 2181 "Jon McLaughlin" "Jon McLaughlin"
+14638 2182 "Kate Havnevik" "Kate Havnevik"
+2521 2183 Robyn Robyn
+2506 2184 Morandi Morandi
+909 2185 "Delta Goodrem" "Delta Goodrem"
+3129 2186 "Courtney Love" "Courtney Love"
+15533 2187 "La Bouche" "La Bouche"
+15038 2188 "Joan Osborne" "Joan Osborne"
+12357 2189 "Meredith Brooks" "Meredith Brooks"
+10172 2190 "Pati Yang" "Pati Yang"
+8068 2191 Moloko Moloko
+3992 2192 "Everything but the Girl" "Everything but the Girl"
+5487 2193 "Kasia Kowalska" "Kasia Kowalska"
+7290 2194 "Lucie Silvas" "Lucie Silvas"
+4619 2195 "Jazmine Sullivan" "Jazmine Sullivan"
+674 2196 Darin Darin
+8042 2197 Live Live
+8605 2198 "Melanie Fiona" "Melanie Fiona"
+2390 2199 "Mónica Naranjo" "Mónica Naranjo"
+8595 2200 "Joe Purdy" "Joe Purdy"
+14222 2201 "Husky Rescue" "Husky Rescue"
+66 2202 Faithless Faithless
+8957 2203 AaRON AaRON
+11080 2204 "Jamie Foxx" "Jamie Foxx"
+14529 2205 "Babylon Zoo" "Babylon Zoo"
+867 2206 "Nick Cave and the Bad Seeds" "Nick Cave and the Bad Seeds"
+1053 2207 "Edyta Bartosiewicz" "Edyta Bartosiewicz"
+17612 2208 "Mutya Buena" "Mutya Buena"
+641 2209 "Laura Pausini" "Laura Pausini"
+1456 2210 "Far East Movement" "Far East Movement"
+3459 2211 "Five for Fighting" "Five for Fighting"
+7321 2212 "Howie Day" "Howie Day"
+810 2213 "All That Remains" "All That Remains"
+3236 2214 Eths Eths
+3545 2215 "Light This City" "Light This City"
+3549 2216 Mnemic Mnemic
+5667 2217 "The Agonist" "The Agonist"
+5459 2218 Delain Delain
+10069 2219 "Finger Eleven" "Finger Eleven"
+2021 2220 "Victoria Beckham" "Victoria Beckham"
+2465 2221 "Alison Krauss" "Alison Krauss"
+3765 2222 "Gretchen Wilson" "Gretchen Wilson"
+1875 2223 "The Frames" "The Frames"
+12 2224 Behemoth Behemoth
+1281 2225 "Cannibal Corpse" "Cannibal Corpse"
+1214 2226 Nile Nile
+2143 2227 DevilDriver DevilDriver
+5100 2228 "Shadows Fall" "Shadows Fall"
+3239 2229 Otep Otep
+3242 2230 "Wednesday 13" "Wednesday 13"
+3246 2231 "Dry Kill Logic" "Dry Kill Logic"
+3729 2232 Madball Madball
+3722 2233 Aborted Aborted
+4226 2234 7раса 7раса
+4265 2235 Deicide Deicide
+2744 2236 "Machine Head" "Machine Head"
+1876 2237 Оригами Оригами
+6819 2238 Clawfinger Clawfinger
+6240 2239 7000$ 7000$
+8259 2240 Damageplan Damageplan
+8298 2241 Korea Korea
+10095 2242 "Vital Remains" "Vital Remains"
+9997 2243 "Pan Sonic" "Pan Sonic"
+17953 2244 "The Number Twelve Looks Like You" "The Number Twelve Looks Like You"
+14840 2245 "Atari Teenage Riot" "Atari Teenage Riot"
+7775 2246 "10 Years" "10 Years"
+7941 2247 "The Haunted" "The Haunted"
+8251 2248 "Six Feet Under" "Six Feet Under"
+2763 2249 Decapitated Decapitated
+4021 2250 "Ion Dissonance" "Ion Dissonance"
+1563 2251 "Annotations of an Autopsy" "Annotations of an Autopsy"
+839 2252 "All Shall Perish" "All Shall Perish"
+842 2253 "Despised Icon" "Despised Icon"
+825 2254 Whitechapel Whitechapel
+1196 2255 "Suicide Silence" "Suicide Silence"
+1557 2256 Carnifex Carnifex
+1555 2257 "Job for a Cowboy" "Job for a Cowboy"
+1547 2258 Hatebreed Hatebreed
+16595 2259 Animosity Animosity
+14200 2260 Brujeria Brujeria
+8510 2261 Modeselektor Modeselektor
+6289 2262 Kataklysm Kataklysm
+2594 2263 SikTh SikTh
+18137 2264 "Superjoint Ritual" "Superjoint Ritual"
+4805 2265 "The Exploited" "The Exploited"
+4275 2266 Obituary Obituary
+3717 2267 Chimaira Chimaira
+3718 2268 Glassjaw Glassjaw
+1561 2269 "Beneath the Massacre" "Beneath the Massacre"
+2771 2270 "Russian Circles" "Russian Circles"
+5360 2271 Bluetech Bluetech
+5105 2272 "Cavalera Conspiracy" "Cavalera Conspiracy"
+445 2273 "Bon Iver" "Bon Iver"
+1101 2274 "These New Puritans" "These New Puritans"
+1195 2275 Alexisonfire Alexisonfire
+1518 2276 "Mumford & Sons" "Mumford & Sons"
+1972 2277 K'naan K'naan
+2226 2278 "Snoop Dogg" "Snoop Dogg"
+2271 2279 "Death from Above 1979" "Death from Above 1979"
+2602 2280 Delphic Delphic
+3475 2281 Wolfmother Wolfmother
+3730 2282 "Friendly Fires" "Friendly Fires"
+3732 2283 311 311
+5547 2284 "Passion Pit" "Passion Pit"
+6303 2285 Starfucker Starfucker
+6389 2286 "Robin Thicke" "Robin Thicke"
+8701 2287 jj jj
+14666 2288 "Washed Out" "Washed Out"
+539 2289 Gossip Gossip
+2614 2290 Razorlight Razorlight
+13425 2291 "The Ordinary Boys" "The Ordinary Boys"
+1389 2292 Eisley Eisley
+11549 2293 "Pretty Girls Make Graves" "Pretty Girls Make Graves"
+1958 2294 "The Flaming Lips" "The Flaming Lips"
+11963 2295 "The Slits" "The Slits"
+3105 2296 Guster Guster
+3753 2297 Augustana Augustana
+2009 2298 DragonForce DragonForce
+3792 2299 "Bad Brains" "Bad Brains"
+3901 2300 "The Gathering" "The Gathering"
+3776 2301 Funkadelic Funkadelic
+9423 2302 "Steve Miller Band" "Steve Miller Band"
+1350 2303 Edguy Edguy
+1134 2304 Agalloch Agalloch
+13087 2305 "The Sword" "The Sword"
+1374 2306 "Demons & Wizards" "Demons & Wizards"
+1113 2307 Ayreon Ayreon
+944 2308 "Symphony X" "Symphony X"
+806 2309 Soilwork Soilwork
+2975 2310 Firewind Firewind
+4326 2311 Labyrinth Labyrinth
+8386 2312 "Metal Church" "Metal Church"
+8993 2313 Cameo Cameo
+1353 2314 "Running Wild" "Running Wild"
+942 2315 "Iced Earth" "Iced Earth"
+3660 2316 Finntroll Finntroll
+15989 2317 Mountain Mountain
+23 2318 "The Kovenant" "The Kovenant"
+2746 2319 Korpiklaani Korpiklaani
+710 2320 "Black Label Society" "Black Label Society"
+2569 2321 Styx Styx
+1411 2322 "King Crimson" "King Crimson"
+3789 2323 "Bad Manners" "Bad Manners"
+2381 2324 Dethklok Dethklok
+10571 2325 "Mustard Plug" "Mustard Plug"
+2654 2326 Bloodbath Bloodbath
+3788 2327 Cynic Cynic
+1992 2328 "King Diamond" "King Diamond"
+1994 2329 "Devin Townsend" "Devin Townsend"
+3875 2330 "Nitin Sawhney" "Nitin Sawhney"
+1553 2331 CéU CéU
+10848 2332 Minutemen Minutemen
+3663 2333 "Devil Doll" "Devil Doll"
+1167 2334 "Antony and the Johnsons" "Antony and the Johnsons"
+3280 2335 "Cocteau Twins" "Cocteau Twins"
+3425 2336 "After Forever" "After Forever"
+1781 2337 "Emilie Simon" "Emilie Simon"
+9829 2338 "Steel Pulse" "Steel Pulse"
+4363 2339 "Gerry Rafferty" "Gerry Rafferty"
+2206 2340 Chevelle Chevelle
+1689 2341 "Bowling for Soup" "Bowling for Soup"
+12482 2342 Wheatus Wheatus
+6721 2343 "Daniela Mercury" "Daniela Mercury"
+3176 2344 "Kelly Key" "Kelly Key"
+803 2345 Five Five
+479 2346 Westlife Westlife
+252 2347 Tamia Tamia
+7688 2348 Lawrence Lawrence
+14516 2349 Steps Steps
+1441 2350 "Eva Simons" "Eva Simons"
+3960 2351 Whigfield Whigfield
+15532 2352 E-Type E-Type
+3997 2353 "Veil of Maya" "Veil of Maya"
+3999 2354 "The Contortionist" "The Contortionist"
+2586 2355 "Born of Osiris" "Born of Osiris"
+9666 2356 "Moving Mountains" "Moving Mountains"
+2579 2357 "Between the Buried and Me" "Between the Buried and Me"
+3727 2358 Periphery Periphery
+4003 2359 "After the Burial" "After the Burial"
+4002 2360 "Within The Ruins" "Within The Ruins"
+6790 2361 "John Taylor" "John Taylor"
+9959 2362 "The Stills" "The Stills"
+1691 2363 Orianthi Orianthi
+5968 2364 "Stray From the Path" "Stray From the Path"
+1861 2365 "Heaven Shall Burn" "Heaven Shall Burn"
+2211 2366 "Austrian Death Machine" "Austrian Death Machine"
+4191 2367 "Hot Water Music" "Hot Water Music"
+837 2368 Eluveitie Eluveitie
+4156 2369 "Die Toten Hosen" "Die Toten Hosen"
+4102 2370 "Maylene and the Sons of Disaster" "Maylene and the Sons of Disaster"
+2429 2371 Architects Architects
+4170 2372 "Demon Hunter" "Demon Hunter"
+6012 2373 "One Morning Left" "One Morning Left"
+12780 2374 "Threat Signal" "Threat Signal"
+4178 2375 Nightrage Nightrage
+4171 2376 "Disarmonia Mundi" "Disarmonia Mundi"
+4166 2377 Confide Confide
+4174 2378 Kyte Kyte
+3927 2379 Kutless Kutless
+2794 2380 "Alter Bridge" "Alter Bridge"
+7776 2381 "Kids In Glass Houses" "Kids In Glass Houses"
+4948 2382 "Misery Signals" "Misery Signals"
+18530 2383 "Becoming the Archetype" "Becoming the Archetype"
+814 2384 Caliban Caliban
+2203 2385 "Abandon All Ships" "Abandon All Ships"
+4225 2386 "Мои Ракеты Вверх" "Мои Ракеты Вверх"
+4232 2387 Caspian Caspian
+2693 2388 Sabrepulse Sabrepulse
+6414 2389 "Asobi Seksu" "Asobi Seksu"
+5117 2390 Xe-NONE Xe-NONE
+4230 2391 "The American Dollar" "The American Dollar"
+4108 2392 Emancipator Emancipator
+3995 2393 Blockhead Blockhead
+2204 2394 "Of Mice & Men" "Of Mice & Men"
+3721 2395 "Norma Jean" "Norma Jean"
+8274 2396 Lydia Lydia
+28 2397 Gorgoroth Gorgoroth
+1260 2398 Marduk Marduk
+4268 2399 Entombed Entombed
+1522 2400 Destruction Destruction
+4270 2401 Borknagar Borknagar
+1276 2402 Immortal Immortal
+3046 2403 Zемфира Zемфира
+7268 2404 "Alex Gaudino" "Alex Gaudino"
+2522 2405 Shaggy Shaggy
+17306 2406 "The Boy Least Likely To" "The Boy Least Likely To"
+235 2407 Eels Eels
+1826 2408 "Isaac Hayes" "Isaac Hayes"
+12165 2409 "The Long Blondes" "The Long Blondes"
+9487 2410 "Love Is All" "Love Is All"
+11737 2411 "The Concretes" "The Concretes"
+2484 2412 "Peeping Tom" "Peeping Tom"
+2488 2413 "Public Image Ltd." "Public Image Ltd."
+2416 2414 "The Fiery Furnaces" "The Fiery Furnaces"
+2415 2415 "Built to Spill" "Built to Spill"
+2375 2416 Primus Primus
+6764 2417 "Harold Budd" "Harold Budd"
+6724 2418 "John Frusciante" "John Frusciante"
+2823 2419 "Eagles of Death Metal" "Eagles of Death Metal"
+3298 2420 "The Sugarcubes" "The Sugarcubes"
+7407 2421 "Meat Puppets" "Meat Puppets"
+5414 2422 "Camera Obscura" "Camera Obscura"
+5417 2423 "The 5.6.7.8's" "The 5.6.7.8's"
+5876 2424 "Don Caballero" "Don Caballero"
+5180 2425 Lovage Lovage
+5412 2426 "The Go! Team" "The Go! Team"
+5169 2427 "Living Colour" "Living Colour"
+4863 2428 "Funki Porcini" "Funki Porcini"
+8871 2429 "The Postmarks" "The Postmarks"
+608 2430 Tortoise Tortoise
+15688 2431 "Bill Laswell" "Bill Laswell"
+14052 2432 "The Tragically Hip" "The Tragically Hip"
+1159 2433 "Architecture in Helsinki" "Architecture in Helsinki"
+858 2434 "PJ Harvey" "PJ Harvey"
+6295 2435 Pinback Pinback
+9716 2436 Buckethead Buckethead
+3505 2437 "John Zorn" "John Zorn"
+1176 2438 "The Sound of Animals Fighting" "The Sound of Animals Fighting"
+9467 2439 "Veruca Salt" "Veruca Salt"
+7904 2440 "El Perro del Mar" "El Perro del Mar"
+1650 2441 Anti-Flag Anti-Flag
+10522 2442 "Mouse on Mars" "Mouse on Mars"
+12548 2443 "Shannon Wright" "Shannon Wright"
+2281 2444 Deerhoof Deerhoof
+11087 2445 "Hanzel und Gretyl" "Hanzel und Gretyl"
+10620 2446 MC5 MC5
+9458 2447 Hella Hella
+11464 2448 "Gang Gang Dance" "Gang Gang Dance"
+7699 2449 "Matthew Herbert" "Matthew Herbert"
+7700 2450 Tosca Tosca
+7814 2451 Afterlife Afterlife
+3694 2452 Liars Liars
+3556 2453 Scarling. Scarling.
+3508 2454 "Nurse With Wound" "Nurse With Wound"
+2402 2455 "Xiu Xiu" "Xiu Xiu"
+3216 2456 "John Cage" "John Cage"
+6542 2457 Angelspit Angelspit
+4273 2458 "Celtic Frost" "Celtic Frost"
+4077 2459 "Sun City Girls" "Sun City Girls"
+4081 2460 "Secret Chiefs 3" "Secret Chiefs 3"
+8945 2461 "Minor Threat" "Minor Threat"
+13563 2462 "Tristan Feldbauer" "Tristan Feldbauer"
+13317 2463 "Terry Riley" "Terry Riley"
+12359 2464 OOIOO OOIOO
+14669 2465 "Karlheinz Stockhausen" "Karlheinz Stockhausen"
+6159 2466 Eluvium Eluvium
+13621 2467 "Warren Zevon" "Warren Zevon"
+4875 2468 "Leæther Strip" "Leæther Strip"
+3445 2469 Danzig Danzig
+1914 2470 "The 69 Eyes" "The 69 Eyes"
+1535 2471 "Mercyful Fate" "Mercyful Fate"
+3686 2472 Caribou Caribou
+4610 2473 "Into Eternity" "Into Eternity"
+10026 2474 "Richard Cheese" "Richard Cheese"
+5186 2475 Esthero Esthero
+6677 2476 "Bif Naked" "Bif Naked"
+1150 2477 "Leonard Cohen" "Leonard Cohen"
+10977 2478 "My Ruin" "My Ruin"
+5818 2479 Exciter Exciter
+682 2480 Lights Lights
+5153 2481 "Auf der Maur" "Auf der Maur"
+743 2482 Nadja Nadja
+16862 2483 "Milivoj Culibrk" "Milivoj Culibrk"
+9825 2484 "Big Star" "Big Star"
+4250 2485 "The Undertones" "The Undertones"
+9338 2486 "The Church" "The Church"
+9469 2487 "X-Ray Spex" "X-Ray Spex"
+3119 2488 "Suzanne Vega" "Suzanne Vega"
+8668 2489 "The Mission" "The Mission"
+3784 2490 GBH GBH
+11913 2491 "Todd Rundgren" "Todd Rundgren"
+1957 2492 Pavement Pavement
+3306 2493 "Neil Diamond" "Neil Diamond"
+11243 2494 Freur Freur
+10753 2495 "Sham 69" "Sham 69"
+7345 2496 "Pete Shelley" "Pete Shelley"
+7346 2497 "The Icicle Works" "The Icicle Works"
+15586 2498 Faces Faces
+15637 2499 "The Teardrop Explodes" "The Teardrop Explodes"
+15771 2500 "The Boomtown Rats" "The Boomtown Rats"
+5254 2501 Falco Falco
+5785 2502 Buzzcocks Buzzcocks
+10847 2503 "The Replacements" "The Replacements"
+4795 2504 "The Modern Lovers" "The Modern Lovers"
+13416 2505 "Billy Bragg" "Billy Bragg"
+13900 2506 "Real Life" "Real Life"
+12220 2507 Television Television
+12298 2508 "The Blue Nile" "The Blue Nile"
+13156 2509 "Kirsty MacColl" "Kirsty MacColl"
+1003 2510 "Johnny Hates Jazz" "Johnny Hates Jazz"
+1005 2511 "Robert Palmer" "Robert Palmer"
+871 2512 "New Model Army" "New Model Army"
+2633 2513 "Elvis Costello & The Attractions" "Elvis Costello & The Attractions"
+2648 2514 "The Beat" "The Beat"
+6776 2515 "Book of Love" "Book of Love"
+10794 2516 "X-Mal Deutschland" "X-Mal Deutschland"
+5926 2517 "The Sounds" "The Sounds"
+4978 2518 "Mr. Mister" "Mr. Mister"
+4109 2519 "Badly Drawn Boy" "Badly Drawn Boy"
+5917 2520 "The Comsat Angels" "The Comsat Angels"
+864 2521 Ministry Ministry
+1707 2522 "Dead Can Dance" "Dead Can Dance"
+13427 2523 "Josef K" "Josef K"
+6698 2524 "Laura Branigan" "Laura Branigan"
+2480 2525 Suicide Suicide
+5918 2526 "The Danse Society" "The Danse Society"
+8831 2527 "The House of Love" "The House of Love"
+7411 2528 "Buffalo Springfield" "Buffalo Springfield"
+17702 2529 "Pop Will Eat Itself" "Pop Will Eat Itself"
+6146 2530 Sebadoh Sebadoh
+5770 2531 "The Rembrandts" "The Rembrandts"
+6782 2532 "Tim Finn" "Tim Finn"
+3613 2533 "Toad the Wet Sprocket" "Toad the Wet Sprocket"
+8549 2534 Badfinger Badfinger
+8672 2535 Ride Ride
+9823 2536 "Teenage Fanclub" "Teenage Fanclub"
+4622 2537 "The La's" "The La's"
+4538 2538 "The Band" "The Band"
+5303 2539 "Soft Machine" "Soft Machine"
+5790 2540 "Aimee Mann" "Aimee Mann"
+1213 2541 Lush Lush
+13558 2542 "The Lightning Seeds" "The Lightning Seeds"
+12725 2543 "Hothouse Flowers" "Hothouse Flowers"
+12130 2544 "Stereo Total" "Stereo Total"
+10756 2545 "Television Personalities" "Television Personalities"
+3282 2546 "The Sundays" "The Sundays"
+3884 2547 Slowdive Slowdive
+3890 2548 "Mazzy Star" "Mazzy Star"
+11898 2549 "Love Spirals Downwards" "Love Spirals Downwards"
+11900 2550 Low Low
+5658 2551 "Black Tape for a Blue Girl" "Black Tape for a Blue Girl"
+15641 2552 "Pere Ubu" "Pere Ubu"
+6556 2553 "The Lemonheads" "The Lemonheads"
+9032 2554 "France Gall" "France Gall"
+3442 2555 Crass Crass
+2708 2556 "The Rapture" "The Rapture"
+11215 2557 "IMA Robot" "IMA Robot"
+9419 2558 ".38 Special" ".38 Special"
+11244 2559 "Youth Group" "Youth Group"
+14299 2560 YACHT YACHT
+4073 2561 "Brendan Benson" "Brendan Benson"
+1364 2562 Exodus Exodus
+2970 2563 Hypocrisy Hypocrisy
+1533 2564 "Napalm Death" "Napalm Death"
+6264 2565 Coroner Coroner
+5366 2566 Sadus Sadus
+3799 2567 "Misery Index" "Misery Index"
+14304 2568 "Bonded By Blood" "Bonded By Blood"
+8108 2569 "The Derek Trucks Band" "The Derek Trucks Band"
+8821 2570 "Charlie Musselwhite" "Charlie Musselwhite"
+2873 2571 "Joe Bonamassa" "Joe Bonamassa"
+4277 2572 Possessed Possessed
+1368 2573 "Primal Fear" "Primal Fear"
+5609 2574 Emigrate Emigrate
+3637 2575 Ektomorf Ektomorf
+2765 2576 Vader Vader
+1526 2577 "Toxic Holocaust" "Toxic Holocaust"
+811 2578 "Sonic Syndicate" "Sonic Syndicate"
+10768 2579 Razor Razor
+10525 2580 Spineshank Spineshank
+1523 2581 Tankard Tankard
+1221 2582 "Naked City" "Naked City"
+1712 2583 Megaherz Megaherz
+1528 2584 "Municipal Waste" "Municipal Waste"
+10650 2585 Oceana Oceana
+9761 2586 Raunchy Raunchy
+8464 2587 "Every Time I Die" "Every Time I Die"
+3797 2588 "Blood Red Shoes" "Blood Red Shoes"
+1540 2589 "Bleeding Through" "Bleeding Through"
+1216 2590 Mastodon Mastodon
+3028 2591 Converge Converge
+11604 2592 Envy Envy
+5970 2593 iamerror iamerror
+6016 2594 "Greeley Estates" "Greeley Estates"
+5963 2595 "Dungeon Elite [**]" "Dungeon Elite [**]"
+6760 2596 "Conjure One" "Conjure One"
+11826 2597 Prodigy Prodigy
+44 2598 "Das Ich" "Das Ich"
+10954 2599 Imperanon Imperanon
+13846 2600 "Cephalic Carnage" "Cephalic Carnage"
+809 2601 "The Black Dahlia Murder" "The Black Dahlia Murder"
+2209 2602 "It Dies Today" "It Dies Today"
+5101 2603 Throwdown Throwdown
+831 2604 Emmure Emmure
+6014 2605 "Arsonists Get All The Girls" "Arsonists Get All The Girls"
+8277 2606 "For the Fallen Dreams" "For the Fallen Dreams"
+9765 2607 "Element Eighty" "Element Eighty"
+4004 2608 "The Faceless" "The Faceless"
+2166 2609 Architect Architect
+9452 2610 "The Locust" "The Locust"
+2200 2611 "We Butter The Bread With Butter" "We Butter The Bread With Butter"
+4940 2612 "War From a Harlots Mouth" "War From a Harlots Mouth"
+4944 2613 "Molotov Solution" "Molotov Solution"
+4935 2614 "I Declare War" "I Declare War"
+4550 2615 "In Fear and Faith" "In Fear and Faith"
+15053 2616 "Through the Eyes of the Dead" "Through the Eyes of the Dead"
+3043 2617 "Have Heart" "Have Heart"
+1568 2618 "See You Next Tuesday" "See You Next Tuesday"
+3032 2619 "Comeback Kid" "Comeback Kid"
+1550 2620 "Impending Doom" "Impending Doom"
+661 2621 Stromae Stromae
+3548 2622 iwrestledabearonce iwrestledabearonce
+2576 2623 "Protest The Hero" "Protest The Hero"
+2186 2624 "Blind Witness" "Blind Witness"
+1204 2625 "Agoraphobic Nosebleed" "Agoraphobic Nosebleed"
+13847 2626 Tesseract Tesseract
+4497 2627 "The Acacia Strain" "The Acacia Strain"
+11817 2628 Sybreed Sybreed
+1349 2629 "Rhapsody of Fire" "Rhapsody of Fire"
+9260 2630 Kylesa Kylesa
+13645 2631 "Meg & Dia" "Meg & Dia"
+4163 2632 Asesino Asesino
+2944 2633 "Machinae Supremacy" "Machinae Supremacy"
+2185 2634 ВFI ВFI
+4211 2635 H2O H2O
+5067 2636 "I Set My Friends On Fire" "I Set My Friends On Fire"
+11042 2637 "Circle Jerks" "Circle Jerks"
+11865 2638 "Sick of It All" "Sick of It All"
+3029 2639 "The Ghost Inside" "The Ghost Inside"
+4985 2640 To/Die/For To/Die/For
+7007 2641 De-Phazz De-Phazz
+4669 2642 Necrophagist Necrophagist
+7419 2643 "Corrosion of Conformity" "Corrosion of Conformity"
+13431 2644 "Dead Poetic" "Dead Poetic"
+720 2645 "Social Distortion" "Social Distortion"
+5600 2646 "Agnostic Front" "Agnostic Front"
+4936 2647 "Dr. Acula" "Dr. Acula"
+2541 2648 "Best Coast" "Best Coast"
+9963 2649 "Your Demise" "Your Demise"
+11032 2650 "The Human Abstract" "The Human Abstract"
+746 2651 Salem Salem
+16495 2652 "Amanda Blank" "Amanda Blank"
+4774 2653 Adept Adept
+845 2654 "The Dillinger Escape Plan" "The Dillinger Escape Plan"
+6548 2655 I:Scintilla I:Scintilla
+2092 2656 소녀시대 소녀시대
+2094 2657 BoA BoA
+231 2658 "Devendra Banhart" "Devendra Banhart"
+609 2659 "Nick Drake" "Nick Drake"
+3131 2660 "Augustus Pablo" "Augustus Pablo"
+1947 2661 "Neutral Milk Hotel" "Neutral Milk Hotel"
+3147 2662 "Lee ""Scratch"" Perry" "Lee ""Scratch"" Perry"
+14301 2663 Hood Hood
+13539 2664 "Her Space Holiday" "Her Space Holiday"
+15749 2665 "Son House" "Son House"
+6824 2666 "Guided by Voices" "Guided by Voices"
+5296 2667 Hawkwind Hawkwind
+5659 2668 Leadbelly Leadbelly
+4064 2669 Spiritualized Spiritualized
+1721 2670 "Jens Lekman" "Jens Lekman"
+885 2671 "Tracy Chapman" "Tracy Chapman"
+1164 2672 "The Magnetic Fields" "The Magnetic Fields"
+984 2673 "Tilly and the Wall" "Tilly and the Wall"
+2279 2674 "The Microphones" "The Microphones"
+13368 2675 "Mediæval Bæbes" "Mediæval Bæbes"
+6182 2676 Grandaddy Grandaddy
+4535 2677 "Loretta Lynn" "Loretta Lynn"
+10691 2678 Madredeus Madredeus
+8866 2679 "Red House Painters" "Red House Painters"
+3450 2680 "The Gun Club" "The Gun Club"
+219 2681 "M. Ward" "M. Ward"
+3866 2682 "Will Young" "Will Young"
+2227 2683 Eazy-E Eazy-E
+2252 2684 "Mobb Deep" "Mobb Deep"
+2395 2685 Chayanne Chayanne
+2019 2686 "Stacie Orrico" "Stacie Orrico"
+2919 2687 "Busta Rhymes" "Busta Rhymes"
+2906 2688 "Royce da 5'9""" "Royce da 5'9"""
+14240 2689 M2M M2M
+3128 2690 Lenka Lenka
+1183 2691 "You Me At Six" "You Me At Six"
+10677 2692 "The Wreckers" "The Wreckers"
+10127 2693 "The Toy Dolls" "The Toy Dolls"
+10385 2694 "A Place to Bury Strangers" "A Place to Bury Strangers"
+9187 2695 "Hillsong United" "Hillsong United"
+6997 2696 "The Casualties" "The Casualties"
+2054 2697 "Emma Shapplin" "Emma Shapplin"
+1833 2698 "Nina Simone" "Nina Simone"
+946 2699 Avantasia Avantasia
+805 2700 "Parkway Drive" "Parkway Drive"
+3081 2701 "Sara Bareilles" "Sara Bareilles"
+6543 2702 Millionaires Millionaires
+5929 2703 "The Organ" "The Organ"
+6181 2704 Clannad Clannad
+4773 2705 "Krystal Meyers" "Krystal Meyers"
+3878 2706 "Macy Gray" "Macy Gray"
+3673 2707 "Girl Talk" "Girl Talk"
+3735 2708 Spinnerette Spinnerette
+11155 2709 "Uh Huh Her" "Uh Huh Her"
+11517 2710 "Coal Chamber" "Coal Chamber"
+11739 2711 "The Submarines" "The Submarines"
+10526 2712 "Crash Test Dummies" "Crash Test Dummies"
+39 2713 "Sopor Aeternus & The Ensemble of Shadows" "Sopor Aeternus & The Ensemble of Shadows"
+10973 2714 Draconian Draconian
+3893 2715 "This Mortal Coil" "This Mortal Coil"
+5709 2716 "Kirlian Camera" "Kirlian Camera"
+2091 2717 4minute 4minute
+9141 2718 "Android Lust" "Android Lust"
+1777 2719 "Adam Green" "Adam Green"
+4089 2720 "Cold War Kids" "Cold War Kids"
+309 2721 "Danity Kane" "Danity Kane"
+4565 2722 Doda Doda
+10987 2723 Brodka Brodka
+1640 2724 GZA/Genius GZA/Genius
+2921 2725 "Ghostface Killah" "Ghostface Killah"
+4617 2726 "Bow Wow" "Bow Wow"
+15744 2727 "Lil Mama" "Lil Mama"
+4570 2728 Nosowska Nosowska
+6346 2729 "Soulja Boy" "Soulja Boy"
+6196 2730 "Box Car Racer" "Box Car Racer"
+8718 2731 "Måns Zelmerlöw" "Måns Zelmerlöw"
+4385 2732 Hellogoodbye Hellogoodbye
+5789 2733 "Lauryn Hill" "Lauryn Hill"
+11395 2734 "Pretty Ricky" "Pretty Ricky"
+3310 2735 "Édith Piaf" "Édith Piaf"
+12567 2736 "The Last Goodnight" "The Last Goodnight"
+4263 2737 Stanfour Stanfour
+8161 2738 T-Pain T-Pain
+5683 2739 "Tinchy Stryder" "Tinchy Stryder"
+6902 2740 Clipse Clipse
+15920 2741 "Anita Baker" "Anita Baker"
+7448 2742 "Ana Johnsson" "Ana Johnsson"
+1980 2743 "Czesław Śpiewa" "Czesław Śpiewa"
+9821 2744 Run-D.M.C. Run-D.M.C.
+311 2745 "Natasha Bedingfield" "Natasha Bedingfield"
+5268 2746 "Lea Michele" "Lea Michele"
+5474 2747 Nneka Nneka
+4811 2748 "Cody Simpson" "Cody Simpson"
+578 2749 "James Brown" "James Brown"
+4920 2750 "James Horner" "James Horner"
+1595 2751 Eve Eve
+1847 2752 "Minnie Riperton" "Minnie Riperton"
+575 2753 "Aretha Franklin" "Aretha Franklin"
+3713 2754 "Yolanda Be Cool & DCUP" "Yolanda Be Cool & DCUP"
+915 2755 "Alexandra Burke" "Alexandra Burke"
+7137 2756 "Yael Naim" "Yael Naim"
+4814 2757 "Natalia Kills" "Natalia Kills"
+14300 2758 Cee-Lo Cee-Lo
+1392 2759 "Lady Sovereign" "Lady Sovereign"
+6564 2760 "En Vogue" "En Vogue"
+7260 2761 "Flogging Molly" "Flogging Molly"
+1452 2762 "Willow Smith" "Willow Smith"
+10130 2763 "The Supremes" "The Supremes"
+7533 2764 "Sinéad O'Connor" "Sinéad O'Connor"
+1576 2765 "Dan Balan" "Dan Balan"
+7868 2766 "Mike Posner" "Mike Posner"
+4574 2767 Ania Ania
+3371 2768 "Peter Doherty" "Peter Doherty"
+4252 2769 "Paloma Faith" "Paloma Faith"
+1767 2770 "Carla Bruni" "Carla Bruni"
+14749 2771 "Cee Lo Green" "Cee Lo Green"
+5534 2772 "Alexis Jordan" "Alexis Jordan"
+8283 2773 "Vanessa Paradis" "Vanessa Paradis"
+10133 2774 "Diana Ross and The Supremes" "Diana Ross and The Supremes"
+8592 2775 "Rachael Yamagata" "Rachael Yamagata"
+3681 2776 "Angus & Julia Stone" "Angus & Julia Stone"
+8311 2777 "Tom Petty" "Tom Petty"
+2175 2778 "Etta James" "Etta James"
+7781 2779 "Clare Maguire" "Clare Maguire"
+3237 2780 Hey Hey
+2176 2781 "Michael Bublé" "Michael Bublé"
+11765 2782 "Gotan Project" "Gotan Project"
+2134 2783 "Julian Casablancas" "Julian Casablancas"
+1931 2784 Poisonblack Poisonblack
+5526 2785 "Black Stone Cherry" "Black Stone Cherry"
+1184 2786 "The Blackout" "The Blackout"
+1401 2787 deadmau5 deadmau5
+5065 2788 Aiden Aiden
+6247 2789 Sugarcult Sugarcult
+11581 2790 Halestorm Halestorm
+4784 2791 "Emerson, Lake & Palmer" "Emerson, Lake & Palmer"
+323 2792 "The Saturdays" "The Saturdays"
+4575 2793 "Rebecca Black" "Rebecca Black"
+1032 2794 "Jessie J" "Jessie J"
+4852 2795 "Red Snapper" "Red Snapper"
+11635 2796 Laika Laika
+4934 2797 Killwhitneydead Killwhitneydead
+2405 2798 "TV on the Radio" "TV on the Radio"
+9992 2799 "Mel & Kim" "Mel & Kim"
+9869 2800 "Elegant Machinery" "Elegant Machinery"
+1031 2801 Exposé Exposé
+6778 2802 "Boy George" "Boy George"
+7194 2803 Aqualung Aqualung
+3675 2804 "Huey Lewis & The News" "Huey Lewis & The News"
+5480 2805 "Frou Frou" "Frou Frou"
+186 2806 Blackfield Blackfield
+17281 2807 "Samantha Fox" "Samantha Fox"
+4988 2808 "Chris Spheeris" "Chris Spheeris"
+4990 2809 "عمر دياب" "عمر دياب"
+15795 2810 "Alter Ego" "Alter Ego"
+3918 2811 Fancy Fancy
+12787 2812 Mumm-Ra Mumm-Ra
+1255 2813 X-Dream X-Dream
+17646 2814 "Liza Minnelli" "Liza Minnelli"
+13393 2815 Bitter:Sweet Bitter:Sweet
+15544 2816 "Terence Trent D'Arby" "Terence Trent D'Arby"
+3156 2817 "Astrud Gilberto" "Astrud Gilberto"
+6585 2818 "Gus Gus" "Gus Gus"
+4600 2819 Astrix Astrix
+5181 2820 "Supreme Beings of Leisure" "Supreme Beings of Leisure"
+5507 2821 "Ace Ventura" "Ace Ventura"
+3266 2822 "The Ark" "The Ark"
+3255 2823 Athlete Athlete
+6222 2824 Guillemots Guillemots
+10918 2825 "Bebel Gilberto" "Bebel Gilberto"
+1018 2826 "Midge Ure" "Midge Ure"
+6930 2827 "Jay-Jay Johanson" "Jay-Jay Johanson"
+18297 2828 "Peter Schilling" "Peter Schilling"
+5432 2829 Bread Bread
+17340 2830 "Anouar Brahem" "Anouar Brahem"
+18330 2831 "Omar Faruk Tekbilek" "Omar Faruk Tekbilek"
+3674 2832 Alizée Alizée
+4991 2833 "Cesária Évora" "Cesária Évora"
+4994 2834 "Team Sleep" "Team Sleep"
+8232 2835 "Up, Bustle and Out" "Up, Bustle and Out"
+761 2836 "Asian Dub Foundation" "Asian Dub Foundation"
+5071 2837 "Chase & Status" "Chase & Status"
+3324 2838 安室奈美恵 安室奈美恵
+5089 2839 大塚愛 大塚愛
+17713 2840 北出菜奈 北出菜奈
+16230 2841 林原めぐみ 林原めぐみ
+12976 2842 "Zola Jesus" "Zola Jesus"
+6362 2843 Slade Slade
+9543 2844 "Neil Young & Crazy Horse" "Neil Young & Crazy Horse"
+8808 2845 "B.B. King & Eric Clapton" "B.B. King & Eric Clapton"
+7800 2846 Traffic Traffic
+4782 2847 "Rick Wakeman" "Rick Wakeman"
+5175 2848 "Roger Waters" "Roger Waters"
+380 2849 "Blackmore's Night" "Blackmore's Night"
+2842 2850 "Stevie Ray Vaughan" "Stevie Ray Vaughan"
+5297 2851 "Van der Graaf Generator" "Van der Graaf Generator"
+7802 2852 "Premiata Forneria Marconi" "Premiata Forneria Marconi"
+5901 2853 "Bachman-Turner Overdrive" "Bachman-Turner Overdrive"
+5301 2854 Focus Focus
+18587 2855 "Kruder & Dorfmeister" "Kruder & Dorfmeister"
+1950 2856 Madvillain Madvillain
+5185 2857 "Smoke City" "Smoke City"
+10129 2858 "Shirley Bassey" "Shirley Bassey"
+18039 2859 "Rue du Soleil" "Rue du Soleil"
+3109 2860 "Sneaker Pimps" "Sneaker Pimps"
+57 2861 "Thievery Corporation" "Thievery Corporation"
+5182 2862 "Martina Topley-Bird" "Martina Topley-Bird"
+3693 2863 "Grizzly Bear" "Grizzly Bear"
+3121 2864 Skye Skye
+9362 2865 "dZihan & Kamien" "dZihan & Kamien"
+17048 2866 Waldeck Waldeck
+5197 2867 Halou Halou
+7058 2868 "Anja Garbarek" "Anja Garbarek"
+7017 2869 "H.U.V.A. Network" "H.U.V.A. Network"
+7021 2870 "Aes Dana" "Aes Dana"
+633 2871 "Ornette Coleman" "Ornette Coleman"
+3198 2872 "Dangerous Muse" "Dangerous Muse"
+16523 2873 "Montefiori Cocktail" "Montefiori Cocktail"
+4384 2874 "The Raveonettes" "The Raveonettes"
+8676 2875 "Au Revoir Simone" "Au Revoir Simone"
+6680 2876 "Harry and the Potters" "Harry and the Potters"
+214 2877 DeVotchKa DeVotchKa
+13406 2878 "Louis XIV" "Louis XIV"
+15994 2879 "The Grates" "The Grates"
+5421 2880 Rasputina Rasputina
+5418 2881 "Vashti Bunyan" "Vashti Bunyan"
+5420 2882 Nico Nico
+6785 2883 "VHS or Beta" "VHS or Beta"
+887 2884 "New Young Pony Club" "New Young Pony Club"
+3677 2885 "Brian Wilson" "Brian Wilson"
+2532 2886 "Super Furry Animals" "Super Furry Animals"
+1231 2887 "The Dresden Dolls" "The Dresden Dolls"
+2623 2888 Nightmare Nightmare
+11899 2889 "Hope Sandoval & The Warm Inventions" "Hope Sandoval & The Warm Inventions"
+7126 2890 "The Seatbelts" "The Seatbelts"
+438 2891 "O Teatro Mágico" "O Teatro Mágico"
+13372 2892 "Blue Man Group" "Blue Man Group"
+10604 2893 Juli Juli
+3003 2894 "Duke Ellington" "Duke Ellington"
+5440 2895 "The Zutons" "The Zutons"
+12164 2896 "Amanda Palmer" "Amanda Palmer"
+4796 2897 "Tim Maia" "Tim Maia"
+442 2898 "The Tallest Man on Earth" "The Tallest Man on Earth"
+2871 2899 "Rory Gallagher" "Rory Gallagher"
+3068 2900 "St. Vincent" "St. Vincent"
+1971 2901 "Laura Marling" "Laura Marling"
+5150 2902 "Janelle Monáe" "Janelle Monáe"
+1663 2903 "Those Dancing Days" "Those Dancing Days"
+6225 2904 "Head Automatica" "Head Automatica"
+2591 2905 "The Maccabees" "The Maccabees"
+427 2906 "The Cribs" "The Cribs"
+6227 2907 "Boy Kill Boy" "Boy Kill Boy"
+8884 2908 "Madina Lake" "Madina Lake"
+7190 2909 "The View" "The View"
+8710 2910 Moptop Moptop
+7663 2911 "The Futureheads" "The Futureheads"
+6539 2912 "Juliette and The Licks" "Juliette and The Licks"
+4137 2913 Sirenia Sirenia
+15037 2914 Hybrid Hybrid
+7029 2915 Asura Asura
+8794 2916 Nazareth Nazareth
+6287 2917 "3 Inches of Blood" "3 Inches of Blood"
+4457 2918 Turbonegro Turbonegro
+5617 2919 "Gianna Nannini" "Gianna Nannini"
+1837 2920 "Scott Walker" "Scott Walker"
+3285 2921 "My Life with the Thrill Kill Kult" "My Life with the Thrill Kill Kult"
+1746 2922 Psapp Psapp
+6004 2923 "Mr. Scruff" "Mr. Scruff"
+15034 2924 "Crosby, Stills & Nash" "Crosby, Stills & Nash"
+13754 2925 Pigface Pigface
+8309 2926 "Jerry Lee Lewis" "Jerry Lee Lewis"
+11253 2927 "Better Than Ezra" "Better Than Ezra"
+11917 2928 "Jonny Lang" "Jonny Lang"
+9598 2929 "Jimmy Cliff" "Jimmy Cliff"
+1645 2930 Rancid Rancid
+1652 2931 "The Wallflowers" "The Wallflowers"
+3620 2932 "Gov't Mule" "Gov't Mule"
+3614 2933 "Hootie & the Blowfish" "Hootie & the Blowfish"
+6454 2934 "Anna Nalick" "Anna Nalick"
+9521 2935 "Blues Traveler" "Blues Traveler"
+1093 2936 "Kaizers Orchestra" "Kaizers Orchestra"
+1277 2937 "Velvet Acid Christ" "Velvet Acid Christ"
+1382 2938 "David Gray" "David Gray"
+3244 2939 Deathstars Deathstars
+7211 2940 "Olivia Ruiz" "Olivia Ruiz"
+8223 2941 "Vermillion Lies" "Vermillion Lies"
+15457 2942 "Various Artists" "Various Artists"
+2851 2943 "Powerman 5000" "Powerman 5000"
+4458 2944 "Ace Frehley" "Ace Frehley"
+5713 2945 "Magna Canta" "Magna Canta"
+3376 2946 "Jota Quest" "Jota Quest"
+2836 2947 "Scars on Broadway" "Scars on Broadway"
+3815 2948 Upcdowncleftcrightcabc+start Upcdowncleftcrightcabc+start
+7895 2949 Kwoon Kwoon
+11905 2950 Destroyalldreamers Destroyalldreamers
+6949 2951 Yonderboi Yonderboi
+5803 2952 "Banco de Gaia" "Banco de Gaia"
+8026 2953 "Fuck Buttons" "Fuck Buttons"
+286 2954 "Peter Tosh" "Peter Tosh"
+5848 2955 "Ziggy Marley" "Ziggy Marley"
+9840 2956 Gentleman Gentleman
+4100 2957 "He Is Legend" "He Is Legend"
+5966 2958 "Circa Survive" "Circa Survive"
+5932 2959 Pogo Pogo
+12993 2960 "Anna Calvi" "Anna Calvi"
+6231 2961 "The Perishers" "The Perishers"
+606 2962 "José González" "José González"
+1517 2963 "The Wombats" "The Wombats"
+10518 2964 "Nathan Fake" "Nathan Fake"
+4153 2965 Télépopmusik Télépopmusik
+14744 2966 Extrawelt Extrawelt
+7694 2967 SCSI-9 SCSI-9
+16053 2968 "Matthew Dear" "Matthew Dear"
+14752 2969 "Stephan Bodzin" "Stephan Bodzin"
+14766 2970 Minilogue Minilogue
+14768 2971 "Sascha Funke" "Sascha Funke"
+5912 2972 "Sad Lovers and Giants" "Sad Lovers and Giants"
+17873 2973 "The Mary Onettes" "The Mary Onettes"
+4734 2974 Trentemøller Trentemøller
+2824 2975 "Paul Kalkbrenner" "Paul Kalkbrenner"
+9766 2976 "Gui Boratto" "Gui Boratto"
+5192 2977 Bent Bent
+7885 2978 Zeigeist Zeigeist
+5913 2979 "The Chameleons" "The Chameleons"
+8832 2980 "Beach Fossils" "Beach Fossils"
+6032 2981 HEALTH HEALTH
+1946 2982 Madlib Madlib
+6046 2983 Nujabes Nujabes
+1770 2984 "Erik Satie" "Erik Satie"
+13397 2985 "Nick Cave & Warren Ellis" "Nick Cave & Warren Ellis"
+4379 2986 "Weather Report" "Weather Report"
+2856 2987 "Night Ranger" "Night Ranger"
+1451 2988 Girlicious Girlicious
+10804 2989 Blitz Blitz
+1737 2990 "Do Make Say Think" "Do Make Say Think"
+7382 2991 Efterklang Efterklang
+1944 2992 "The Mountain Goats" "The Mountain Goats"
+1949 2993 "Okkervil River" "Okkervil River"
+1728 2994 "Piano Magic" "Piano Magic"
+8680 2995 Chapterhouse Chapterhouse
+6217 2996 "The Radio Dept." "The Radio Dept."
+4058 2997 "The Brian Jonestown Massacre" "The Brian Jonestown Massacre"
+11053 2998 "Under Byen" "Under Byen"
+1779 2999 Cartola Cartola
+7414 3000 Omnia Omnia
+14096 3001 Akron/Family Akron/Family
+5745 3002 "Elis Regina" "Elis Regina"
+433 3003 "Broken Social Scene" "Broken Social Scene"
+11652 3004 "Stan Getz" "Stan Getz"
+624 3005 "Great Lake Swimmers" "Great Lake Swimmers"
+2460 3006 "João Gilberto" "João Gilberto"
+7147 3007 "My Morning Jacket" "My Morning Jacket"
+2441 3008 "Celtic Woman" "Celtic Woman"
+2313 3009 "Amália Rodrigues" "Amália Rodrigues"
+11812 3010 "Say Hi to Your Mom" "Say Hi to Your Mom"
+137 3011 "Worm Is Green" "Worm Is Green"
+10613 3012 "Carissa's Wierd" "Carissa's Wierd"
+9700 3013 "Nara Leão" "Nara Leão"
+10110 3014 Electrelane Electrelane
+6758 3015 "Stafrænn Hákon" "Stafrænn Hákon"
+3617 3016 "Ray LaMontagne" "Ray LaMontagne"
+11631 3017 Huun-Huur-Tu Huun-Huur-Tu
+7383 3018 "Gray Strawberries" "Gray Strawberries"
+10005 3019 Borko Borko
+5927 3020 "Bang Gang" "Bang Gang"
+12723 3021 "Drive-By Truckers" "Drive-By Truckers"
+6906 3022 Owen Owen
+1422 3023 "Grateful Dead" "Grateful Dead"
+13331 3024 "Hermeto Pascoal" "Hermeto Pascoal"
+4742 3025 Ash Ash
+12201 3026 "Sun Kil Moon" "Sun Kil Moon"
+13000 3027 Love Love
+14065 3028 "Horse Feathers" "Horse Feathers"
+12495 3029 "Casiotone for the Painfully Alone" "Casiotone for the Painfully Alone"
+426 3030 "Rilo Kiley" "Rilo Kiley"
+6291 3031 "Richie Sambora" "Richie Sambora"
+11070 3032 "Brian McKnight" "Brian McKnight"
+11236 3033 Superchic[k] Superchic[k]
+3589 3034 "Billy Currington" "Billy Currington"
+3676 3035 "Richard Ashcroft" "Richard Ashcroft"
+2843 3036 Trapt Trapt
+2775 3037 dredg dredg
+5099 3038 Train Train
+4103 3039 "From Autumn to Ashes" "From Autumn to Ashes"
+4620 3040 "Cat Stevens" "Cat Stevens"
+3756 3041 "Mat Kearney" "Mat Kearney"
+10864 3042 Entwine Entwine
+10327 3043 "Air Traffic" "Air Traffic"
+359 3044 "Maria Mena" "Maria Mena"
+4257 3045 "Ronan Keating" "Ronan Keating"
+7725 3046 Semisonic Semisonic
+12006 3047 Skazi Skazi
+4670 3048 Evergrey Evergrey
+4319 3049 "Dark Moor" "Dark Moor"
+2972 3050 "Star One" "Star One"
+10608 3051 Mario Mario
+14363 3052 "Ben Woods" "Ben Woods"
+6384 3053 Ginuwine Ginuwine
+1641 3054 "The Game" "The Game"
+6382 3055 "Coconut Records" "Coconut Records"
+11065 3056 112 112
+3754 3057 "Third Eye Blind" "Third Eye Blind"
+3534 3058 Akufen Akufen
+5536 3059 Example Example
+2132 3060 "Dizzee Rascal" "Dizzee Rascal"
+7743 3061 "Jamie T" "Jamie T"
+3490 3062 Utada Utada
+569 3063 "Otis Redding" "Otis Redding"
+249 3064 Common Common
+6460 3065 "The J. Geils Band" "The J. Geils Band"
+583 3066 "John Lee Hooker" "John Lee Hooker"
+18655 3067 "Stealers Wheel" "Stealers Wheel"
+11185 3068 "Marcy Playground" "Marcy Playground"
+6391 3069 "The Living End" "The Living End"
+7650 3070 Beatsteaks Beatsteaks
+899 3071 "Missy Higgins" "Missy Higgins"
+4189 3072 "Alkaline Trio" "Alkaline Trio"
+4218 3073 Pennywise Pennywise
+3355 3074 "Ol' Dirty Bastard" "Ol' Dirty Bastard"
+1596 3075 "Christina Milian" "Christina Milian"
+5313 3076 "Amber Pacific" "Amber Pacific"
+8422 3077 "Meat Loaf" "Meat Loaf"
+6363 3078 "The Blues Brothers" "The Blues Brothers"
+4531 3079 "Lucinda Williams" "Lucinda Williams"
+5605 3080 植松伸夫 植松伸夫
+6190 3081 "Lemon Jelly" "Lemon Jelly"
+1715 3082 "Lisa Gerrard" "Lisa Gerrard"
+11063 3083 "Jagged Edge" "Jagged Edge"
+3117 3084 "Pete Yorn" "Pete Yorn"
+7777 3085 "Scouting for Girls" "Scouting for Girls"
+10478 3086 "The Crowns" "The Crowns"
+3079 3087 "The Click Five" "The Click Five"
+5001 3088 "One Night Only" "One Night Only"
+3206 3089 "The Bird and The Bee" "The Bird and The Bee"
+1100 3090 Chiodos Chiodos
+13450 3091 "The Coasters" "The Coasters"
+4201 3092 "The Get Up Kids" "The Get Up Kids"
+1257 3093 Overkill Overkill
+7423 3094 Down Down
+3865 3095 Nek Nek
+11084 3096 Moenia Moenia
+16860 3097 "Karsh Kale" "Karsh Kale"
+4037 3098 "Gipsy Kings" "Gipsy Kings"
+6506 3099 "Paco de Lucía" "Paco de Lucía"
+2537 3100 "Graham Coxon" "Graham Coxon"
+6633 3101 "Three 6 Mafia" "Three 6 Mafia"
+5178 3102 "Booty Luv" "Booty Luv"
+239 3103 "Keyshia Cole" "Keyshia Cole"
+1425 3104 "David Gilmour" "David Gilmour"
+1998 3105 "Liquid Tension Experiment" "Liquid Tension Experiment"
+1172 3106 "Jordan Rudess" "Jordan Rudess"
+3779 3107 "Fates Warning" "Fates Warning"
+4790 3108 "Gentle Giant" "Gentle Giant"
+4675 3109 Camel Camel
+6397 3110 "Harry Gregson-Williams" "Harry Gregson-Williams"
+9366 3111 "Kenny G" "Kenny G"
+11439 3112 Gryphon Gryphon
+7791 3113 Eloy Eloy
+2002 3114 "John Petrucci" "John Petrucci"
+2001 3115 "Al Di Meola" "Al Di Meola"
+10370 3116 Goblin Goblin
+10675 3117 "maudlin of the Well" "maudlin of the Well"
+14880 3118 "Return to Forever" "Return to Forever"
+14878 3119 "Chick Corea" "Chick Corea"
+2288 3120 "Django Reinhardt" "Django Reinhardt"
+4787 3121 Atheist Atheist
+2071 3122 "Michael Giacchino" "Michael Giacchino"
+5833 3123 "David Sylvian" "David Sylvian"
+5839 3124 "Nine Horses" "Nine Horses"
+2857 3125 Donovan Donovan
+8696 3126 Pestilence Pestilence
+4615 3127 Obscura Obscura
+4756 3128 Quietdrive Quietdrive
+4435 3129 "The Bravery" "The Bravery"
+443 3130 "The Rakes" "The Rakes"
+2133 3131 Milburn Milburn
+6223 3132 "The Automatic" "The Automatic"
+9977 3133 "The Hoosiers" "The Hoosiers"
+2131 3134 "Dirty Pretty Things" "Dirty Pretty Things"
+6619 3135 "Obie Trice" "Obie Trice"
+3393 3136 "Sandy Leah" "Sandy Leah"
+8807 3137 "Brenda Lee" "Brenda Lee"
+1479 3138 "Kim Carnes" "Kim Carnes"
+1105 3139 "Jack's Mannequin" "Jack's Mannequin"
+3341 3140 "Motion City Soundtrack" "Motion City Soundtrack"
+6678 3141 "The John Butler Trio" "The John Butler Trio"
+711 3142 "Mark Knopfler" "Mark Knopfler"
+6777 3143 "Olivia Newton-John" "Olivia Newton-John"
+9629 3144 "Edwyn Collins" "Edwyn Collins"
+12724 3145 "Orange Juice" "Orange Juice"
+6781 3146 "Jane Wiedlin" "Jane Wiedlin"
+8995 3147 "Andy Taylor" "Andy Taylor"
+6789 3148 Passengers Passengers
+5439 3149 "Hot Hot Heat" "Hot Hot Heat"
+4444 3150 Doves Doves
+1337 3151 "Nuclear Assault" "Nuclear Assault"
+5653 3152 Kidneythieves Kidneythieves
+4917 3153 "Klaus Badelt" "Klaus Badelt"
+6808 3154 Grave Grave
+2100 3155 D'espairsRay D'espairsRay
+4311 3156 "Ian Brown" "Ian Brown"
+5375 3157 "Eddie Cochran" "Eddie Cochran"
+10955 3158 "Andrew W.K." "Andrew W.K."
+17424 3159 "Vanilla Ice" "Vanilla Ice"
+11062 3160 Joe Joe
+1610 3161 "Jurassic 5" "Jurassic 5"
+1388 3162 "Gary Jules" "Gary Jules"
+2236 3163 "Ice Cube" "Ice Cube"
+2222 3164 "Bone Thugs-N-Harmony" "Bone Thugs-N-Harmony"
+8120 3165 "Taj Mahal" "Taj Mahal"
+4598 3166 "Naughty by Nature" "Naughty by Nature"
+3357 3167 "Notorious B.I.G." "Notorious B.I.G."
+11423 3168 "Matt Pond PA" "Matt Pond PA"
+4833 3169 "Less Than Jake" "Less Than Jake"
+6294 3170 "Saves the Day" "Saves the Day"
+8689 3171 Karunesh Karunesh
+6659 3172 "Atrium Carceri" "Atrium Carceri"
+10164 3173 Muslimgauze Muslimgauze
+14672 3174 "Luc Ferrari" "Luc Ferrari"
+2471 3175 "Current 93" "Current 93"
+1219 3176 "Ravi Shankar" "Ravi Shankar"
+1708 3177 "Philip Glass" "Philip Glass"
+3536 3178 Lustmord Lustmord
+4423 3179 "Sergei Rachmaninoff" "Sergei Rachmaninoff"
+5325 3180 "Kaya Project" "Kaya Project"
+3504 3181 Fennesz Fennesz
+6150 3182 "Tangerine Dream" "Tangerine Dream"
+8445 3183 Niyaz Niyaz
+9146 3184 "Steve Roach" "Steve Roach"
+2486 3185 "Psychic TV" "Psychic TV"
+16745 3186 "DJ Food" "DJ Food"
+15675 3187 Modus Modus
+11784 3188 "Steve Reich" "Steve Reich"
+15671 3189 Baskyl Baskyl
+1739 3190 "Frozen Silence" "Frozen Silence"
+3541 3191 "Alva Noto" "Alva Noto"
+7071 3192 "The Teenagers" "The Teenagers"
+5299 3193 Swans Swans
+4928 3194 "Eric Serra" "Eric Serra"
+3213 3195 "Michael Andrews" "Michael Andrews"
+5256 3196 "Jan Hammer" "Jan Hammer"
+4927 3197 "Patrick Doyle" "Patrick Doyle"
+782 3198 "Solar Fields" "Solar Fields"
+2330 3199 "Goran Bregović" "Goran Bregović"
+9404 3200 "Dario Marianelli" "Dario Marianelli"
+7148 3201 "John Barry" "John Barry"
+2168 3202 "American Head Charge" "American Head Charge"
+876 3203 "Revolting Cocks" "Revolting Cocks"
+9999 3204 Mortiis Mortiis
+3562 3205 "Lords of Acid" "Lords of Acid"
+7078 3206 Zeromancer Zeromancer
+11518 3207 Godhead Godhead
+10310 3208 Sevendust Sevendust
+2172 3209 Gojira Gojira
+6 3210 Moonspell Moonspell
+1348 3211 Alestorm Alestorm
+1736 3212 Balmorhea Balmorhea
+16124 3213 "Peace Orchestra" "Peace Orchestra"
+8716 3214 "Glen Hansard & Markéta Irglová" "Glen Hansard & Markéta Irglová"
+10515 3215 dEUS dEUS
+912 3216 "Carter Burwell" "Carter Burwell"
+14779 3217 "Dusty Kid" "Dusty Kid"
+16735 3218 Modjo Modjo
+8479 3219 "Nada Surf" "Nada Surf"
+6780 3220 "Altered Images" "Altered Images"
+3292 3221 "The Glove" "The Glove"
+1747 3222 "Ólafur Arnalds" "Ólafur Arnalds"
+3195 3223 "Inkubus Sukkubus" "Inkubus Sukkubus"
+9418 3224 "Three Dog Night" "Three Dog Night"
+8936 3225 "Sam & Dave" "Sam & Dave"
+7404 3226 "K's Choice" "K's Choice"
+10016 3227 "Nikka Costa" "Nikka Costa"
+3635 3228 "Monty Python" "Monty Python"
+7039 3229 "Big Brother & The Holding Company" "Big Brother & The Holding Company"
+5629 3230 "The Nitty Gritty Dirt Band" "The Nitty Gritty Dirt Band"
+10412 3231 "Crosby, Stills, Nash & Young" "Crosby, Stills, Nash & Young"
+9470 3232 Poe Poe
+3777 3233 "Steely Dan" "Steely Dan"
+7177 3234 "Cage the Elephant" "Cage the Elephant"
+6759 3235 "This Will Destroy You" "This Will Destroy You"
+14435 3236 "Dan Auerbach" "Dan Auerbach"
+3106 3237 "Remy Zero" "Remy Zero"
+1240 3238 "Them Crooked Vultures" "Them Crooked Vultures"
+4049 3239 MUM MUM
+12718 3240 pg.lost pg.lost
+11272 3241 "And So I Watch You From Afar" "And So I Watch You From Afar"
+1659 3242 Cine Cine
+5544 3243 "Copacabana Club" "Copacabana Club"
+6657 3244 "Of the Wand and the Moon" "Of the Wand and the Moon"
+3612 3245 "Bell X1" "Bell X1"
+7323 3246 "Get Cape. Wear Cape. Fly" "Get Cape. Wear Cape. Fly"
+983 3247 "Rodrigo y Gabriela" "Rodrigo y Gabriela"
+6763 3248 "Susumu Yokota" "Susumu Yokota"
+6187 3249 "Jonny Greenwood" "Jonny Greenwood"
+5415 3250 "Cibo Matto" "Cibo Matto"
+4530 3251 "Steve Earle" "Steve Earle"
+3689 3252 "Les Savy Fav" "Les Savy Fav"
+7436 3253 "Fred Astaire" "Fred Astaire"
+3489 3254 "Michelle Branch" "Michelle Branch"
+6282 3255 "Mägo de Oz" "Mägo de Oz"
+9836 3256 "Gregory Isaacs" "Gregory Isaacs"
+7325 3257 Elastica Elastica
+5237 3258 "Gustavo Cerati" "Gustavo Cerati"
+11230 3259 "Bernard Butler" "Bernard Butler"
+9632 3260 "Kula Shaker" "Kula Shaker"
+7525 3261 "Paul Weller" "Paul Weller"
+8656 3262 Mansun Mansun
+15639 3263 "Julian Cope" "Julian Cope"
+13171 3264 "Marianne Faithfull" "Marianne Faithfull"
+13888 3265 Tindersticks Tindersticks
+10080 3266 "The Tears" "The Tears"
+10027 3267 "Ike & Tina Turner" "Ike & Tina Turner"
+11918 3268 "John Mayall & The Bluesbreakers" "John Mayall & The Bluesbreakers"
+18087 3269 "You Say Party! We Say Die!" "You Say Party! We Say Die!"
+9484 3270 "The Duke Spirit" "The Duke Spirit"
+12077 3271 Sleeper Sleeper
+4060 3272 "The Warlocks" "The Warlocks"
+4082 3273 "Spacemen 3" "Spacemen 3"
+7180 3274 "The Rifles" "The Rifles"
+3745 3275 "Chico Science & Nação Zumbi" "Chico Science & Nação Zumbi"
+3399 3276 Plastiscines Plastiscines
+12720 3277 "The Telescopes" "The Telescopes"
+3382 3278 "Os Paralamas do Sucesso" "Os Paralamas do Sucesso"
+8121 3279 "Toots and the Maytals" "Toots and the Maytals"
+7259 3280 "Gil Scott-Heron" "Gil Scott-Heron"
+4779 3281 "Aesop Rock" "Aesop Rock"
+12535 3282 Pharrell Pharrell
+11179 3283 "The Thrills" "The Thrills"
+8067 3284 Estelle Estelle
+6920 3285 Glasvegas Glasvegas
+597 3286 "The Easybeats" "The Easybeats"
+4119 3287 VETO VETO
+10618 3288 "Shout Out Louds" "Shout Out Louds"
+1085 3289 Curve Curve
+448 3290 "Art Brut" "Art Brut"
+4062 3291 "Fela Kuti" "Fela Kuti"
+17956 3292 "The Herbaliser" "The Herbaliser"
+6410 3293 Grouper Grouper
+6155 3294 "Windy & Carl" "Windy & Carl"
+3451 3295 "Love and Rockets" "Love and Rockets"
+15783 3296 Ada Ada
+7792 3297 "Manfred Mann's Earth Band" "Manfred Mann's Earth Band"
+7057 3298 "Le Orme" "Le Orme"
+13123 3299 "Blue Cheer" "Blue Cheer"
+7047 3300 Pentagram Pentagram
+16949 3301 "Saint Vitus" "Saint Vitus"
+2988 3302 "Maria Gadú" "Maria Gadú"
+1845 3303 "Roy Ayers" "Roy Ayers"
+1614 3304 Atmosphere Atmosphere
+2167 3305 Fink Fink
+1848 3306 "Sarah Vaughan" "Sarah Vaughan"
+3391 3307 "Zeca Baleiro" "Zeca Baleiro"
+1964 3308 Deerhunter Deerhunter
+1485 3309 "Miike Snow" "Miike Snow"
+8262 3310 "Donavon Frankenreiter" "Donavon Frankenreiter"
+2610 3311 "The Temper Trap" "The Temper Trap"
+7810 3312 Elsiane Elsiane
+6472 3313 Djavan Djavan
+8674 3314 "The Naked and Famous" "The Naked and Famous"
+3386 3315 "Seu Jorge" "Seu Jorge"
+4709 3316 "Roberta Sá" "Roberta Sá"
+9416 3317 "Urge Overkill" "Urge Overkill"
+6047 3318 Yuksek Yuksek
+11484 3319 "Paulinho Moska" "Paulinho Moska"
+7890 3320 Logh Logh
+9858 3321 Republica Republica
+2869 3322 "Canned Heat" "Canned Heat"
+14459 3323 "The Servant" "The Servant"
+4680 3324 Blaze Blaze
+8122 3325 "Derek and the Dominos" "Derek and the Dominos"
+5302 3326 Gong Gong
+3806 3327 "Rotting Christ" "Rotting Christ"
+8462 3328 "Destroy The Runner" "Destroy The Runner"
+826 3329 "Divine Heresy" "Divine Heresy"
+3273 3330 "The Feeling" "The Feeling"
+3420 3331 "Pure Reason Revolution" "Pure Reason Revolution"
+6687 3332 "The Unicorns" "The Unicorns"
+6594 3333 "The Secret Handshake" "The Secret Handshake"
+13375 3334 "Steve Aoki" "Steve Aoki"
+2398 3335 "Final Fantasy" "Final Fantasy"
+6615 3336 PlayRadioPlay! PlayRadioPlay!
+3700 3337 "Atlas Sound" "Atlas Sound"
+11589 3338 "The Dodos" "The Dodos"
+9672 3339 "Lights Out Asia" "Lights Out Asia"
+14560 3340 "French Teen Idol" "French Teen Idol"
+9485 3341 Voxtrot Voxtrot
+6169 3342 Labradford Labradford
+4117 3343 Saltillo Saltillo
+2723 3344 "Set Your Goals" "Set Your Goals"
+7887 3345 "Zoot Woman" "Zoot Woman"
+14930 3346 "Sugar Ray" "Sugar Ray"
+8589 3347 Frankmusik Frankmusik
+8210 3348 "The Dears" "The Dears"
+7515 3349 "The Whip" "The Whip"
+3738 3350 Pnau Pnau
+3705 3351 "Portugal. The Man" "Portugal. The Man"
+2818 3352 "The Bloody Beetroots" "The Bloody Beetroots"
+5972 3353 "Mute Math" "Mute Math"
+6913 3354 "Spleen United" "Spleen United"
+1966 3355 "Someone Still Loves You Boris Yeltsin" "Someone Still Loves You Boris Yeltsin"
+13664 3356 "Thurston Moore" "Thurston Moore"
+2530 3357 Delorean Delorean
+5233 3358 "Noah and the Whale" "Noah and the Whale"
+4821 3359 NOFX NOFX
+4022 3360 "Midnight Juggernauts" "Midnight Juggernauts"
+16055 3361 "The Big Pink" "The Big Pink"
+11285 3362 "Mission of Burma" "Mission of Burma"
+8705 3363 "No Age" "No Age"
+10214 3364 Sleater-Kinney Sleater-Kinney
+5423 3365 "...And You Will Know Us by the Trail of Dead" "...And You Will Know Us by the Trail of Dead"
+14184 3366 "Sleeping at Last" "Sleeping at Last"
+18555 3367 "Paper Route" "Paper Route"
+11421 3368 "Bishop Allen" "Bishop Allen"
+5911 3369 "Catherine Wheel" "Catherine Wheel"
+5428 3370 "Jack Peñate" "Jack Peñate"
+1514 3371 "The Courteeners" "The Courteeners"
+15172 3372 "Surfer Blood" "Surfer Blood"
+12753 3373 "Edward Sharpe & the Magnetic Zeros" "Edward Sharpe & the Magnetic Zeros"
+10720 3374 "We Have Band" "We Have Band"
+6127 3375 "Vanilla Sky" "Vanilla Sky"
+11796 3376 "Falling Up" "Falling Up"
+9193 3377 "Vertical Horizon" "Vertical Horizon"
+3375 3378 "Ryan Cabrera" "Ryan Cabrera"
+7183 3379 "Carolina Liar" "Carolina Liar"
+14359 3380 Orson Orson
+3084 3381 "Sick Puppies" "Sick Puppies"
+4681 3382 Andromeda Andromeda
+14950 3383 "Banco del Mutuo Soccorso" "Banco del Mutuo Soccorso"
+9523 3384 Cacophony Cacophony
+7713 3385 Ark Ark
+7902 3386 "Marty Friedman" "Marty Friedman"
+1259 3387 Satyricon Satyricon
+8371 3388 Maná Maná
+4613 3389 "Orphaned Land" "Orphaned Land"
+6957 3390 "Steve Vai" "Steve Vai"
+7530 3391 "Café Tacuba" "Café Tacuba"
+1171 3392 "The Blood Brothers" "The Blood Brothers"
+2845 3393 "Closure In Moscow" "Closure In Moscow"
+2387 3394 "Winds of Plague" "Winds of Plague"
+3861 3395 Koop Koop
+4029 3396 "Boys Noize" "Boys Noize"
+844 3397 "Pain Confessor" "Pain Confessor"
+10621 3398 "Paul Anka" "Paul Anka"
+3798 3399 "Septic Flesh" "Septic Flesh"
+6493 3400 "Legion of the Damned" "Legion of the Damned"
+7937 3401 "Bill Haley" "Bill Haley"
+11520 3402 Legowelt Legowelt
+3771 3403 Museum Museum
+3888 3404 "Robert Plant" "Robert Plant"
+13269 3405 "Lightnin' Hopkins" "Lightnin' Hopkins"
+13273 3406 "Koko Taylor" "Koko Taylor"
+8123 3407 "Albert King" "Albert King"
+8114 3408 "Freddie King" "Freddie King"
+581 3409 "Elmore James" "Elmore James"
+582 3410 "Sonny Boy Williamson" "Sonny Boy Williamson"
+9882 3411 "Laura Veirs" "Laura Veirs"
+3737 3412 "Against Me!" "Against Me!"
+6836 3413 "Ted Leo and The Pharmacists" "Ted Leo and The Pharmacists"
+3714 3414 Cursive Cursive
+4817 3415 "La Oreja de Van Gogh" "La Oreja de Van Gogh"
+4819 3416 "Fernanda Takai" "Fernanda Takai"
+1551 3417 "As Blood Runs Black" "As Blood Runs Black"
+3004 3418 "Sonny Rollins" "Sonny Rollins"
+6770 3419 "The Audition" "The Audition"
+5426 3420 "My American Heart" "My American Heart"
+5444 3421 "Andy McKee" "Andy McKee"
+5437 3422 "The Hush Sound" "The Hush Sound"
+4826 3423 Rufio Rufio
+16002 3424 "Daphne Loves Derby" "Daphne Loves Derby"
+2955 3425 "Bury Your Dead" "Bury Your Dead"
+10784 3426 LoveHateHero LoveHateHero
+1192 3427 "Four Year Strong" "Four Year Strong"
+8930 3428 "Earth Crisis" "Earth Crisis"
+2847 3429 Emarosa Emarosa
+10681 3430 Morningwood Morningwood
+2316 3431 "Mor ve Ötesi" "Mor ve Ötesi"
+5447 3432 "The Dave Brubeck Quartet" "The Dave Brubeck Quartet"
+18692 3433 "Farid Farjad" "Farid Farjad"
+9426 3434 "Joe Walsh" "Joe Walsh"
+14324 3435 "Sailor Moon" "Sailor Moon"
+4313 3436 Nephew Nephew
+15160 3437 "John Cale" "John Cale"
+13624 3438 "Colin Hay" "Colin Hay"
+8438 3439 "Beth Gibbons & Rustin Man" "Beth Gibbons & Rustin Man"
+10754 3440 "The Music Machine" "The Music Machine"
+11769 3441 "Kenny Rogers" "Kenny Rogers"
+8545 3442 "Bill Haley and the Comets" "Bill Haley and the Comets"
+14480 3443 "Carl Perkins" "Carl Perkins"
+15301 3444 "Bo Diddley" "Bo Diddley"
+13599 3445 "The Left Banke" "The Left Banke"
+5382 3446 "Gene Vincent" "Gene Vincent"
+9287 3447 "Ricky Nelson" "Ricky Nelson"
+8818 3448 "Harry Belafonte" "Harry Belafonte"
+8795 3449 Foghat Foghat
+5156 3450 "Eddie Money" "Eddie Money"
+8312 3451 "John Mellencamp" "John Mellencamp"
+3160 3452 "Booker T. & The MG's" "Booker T. & The MG's"
+9435 3453 "The Marshall Tucker Band" "The Marshall Tucker Band"
+9424 3454 "Tommy James & The Shondells" "Tommy James & The Shondells"
+8812 3455 "Fats Domino" "Fats Domino"
+9352 3456 "The Jeff Healey Band" "The Jeff Healey Band"
+5168 3457 "Bob Seger" "Bob Seger"
+11849 3458 "The Beautiful South" "The Beautiful South"
+2854 3459 Free Free
+18656 3460 Blackfoot Blackfoot
+9299 3461 "Lesley Gore" "Lesley Gore"
+13688 3462 "Joseph Arthur" "Joseph Arthur"
+15975 3463 "Saving Abel" "Saving Abel"
+4439 3464 Dishwalla Dishwalla
+4432 3465 "Our Lady Peace" "Our Lady Peace"
+9332 3466 "The Breeders" "The Breeders"
+7074 3467 "British Sea Power" "British Sea Power"
+15055 3468 "Fear Before the March of Flames" "Fear Before the March of Flames"
+5630 3469 "Dead Fish" "Dead Fish"
+6847 3470 "White Rose Movement" "White Rose Movement"
+7227 3471 "Alain Bashung" "Alain Bashung"
+7206 3472 "Georges Brassens" "Georges Brassens"
+7197 3473 Renaud Renaud
+8988 3474 "Prince & The Revolution" "Prince & The Revolution"
+11764 3475 "Gal Costa" "Gal Costa"
+12071 3476 "Francis Cabrel" "Francis Cabrel"
+11927 3477 "Ry Cooder" "Ry Cooder"
+699 3478 "Esmée Denters" "Esmée Denters"
+1680 3479 "The Ready Set" "The Ready Set"
+12477 3480 "New Boyz" "New Boyz"
+2289 3481 Stereolab Stereolab
+3290 3482 Cranes Cranes
+3287 3483 "Throwing Muses" "Throwing Muses"
+5673 3484 Deadlock Deadlock
+6008 3485 Innerpartysystem Innerpartysystem
+1143 3486 Empyrium Empyrium
+1846 3487 "Rick James" "Rick James"
+8992 3488 "Bobby Brown" "Bobby Brown"
+3231 3489 "The Polyphonic Spree" "The Polyphonic Spree"
+3672 3490 "Scarlett Johansson" "Scarlett Johansson"
+1738 3491 Soulwax Soulwax
+4720 3492 "2 Many DJ's" "2 Many DJ's"
+8136 3493 Danger Danger
+4039 3494 DatA DatA
+895 3495 "Chew Lips" "Chew Lips"
+7391 3496 "Zac Efron" "Zac Efron"
+3570 3497 Danny Danny
+9084 3498 "Tyler Hilton" "Tyler Hilton"
+13709 3499 "Heather Nova" "Heather Nova"
+7274 3500 "Ben Lee" "Ben Lee"
+4488 3501 "Marié Digby" "Marié Digby"
+7186 3502 "Reverend and The Makers" "Reverend and The Makers"
+1982 3503 Muchy Muchy
+1142 3504 "Die Antwoord" "Die Antwoord"
+9369 3505 "Charlie Clouser" "Charlie Clouser"
+4 3506 "Moi dix Mois" "Moi dix Mois"
+8699 3507 Vas Vas
+5914 3508 "My Brightest Diamond" "My Brightest Diamond"
+14005 3509 "Olivier Messiaen" "Olivier Messiaen"
+6204 3510 Shearwater Shearwater
+17055 3511 "Richard Thompson" "Richard Thompson"
+2952 3512 "Azam Ali" "Azam Ali"
+1851 3513 "Richard Wagner" "Richard Wagner"
+9289 3514 "Wendy Carlos" "Wendy Carlos"
+3012 3515 "Count Basie" "Count Basie"
+10628 3516 "Doris Day" "Doris Day"
+3015 3517 "Benny Goodman" "Benny Goodman"
+15751 3518 "The Waterboys" "The Waterboys"
+3993 3519 "Shocking Blue" "Shocking Blue"
+4348 3520 "Jermaine Jackson" "Jermaine Jackson"
+10351 3521 "Lalo Schifrin" "Lalo Schifrin"
+9324 3522 "Ian McCulloch" "Ian McCulloch"
+18229 3523 VFSix VFSix
+2711 3524 "Parov Stelar" "Parov Stelar"
+12928 3525 "Keiko Matsui" "Keiko Matsui"
+4447 3526 "Beth Orton" "Beth Orton"
+7470 3527 LFO LFO
+9361 3528 "Jon Kennedy" "Jon Kennedy"
+18094 3529 Deuter Deuter
+5346 3530 Ott Ott
+9353 3531 Entheogenic Entheogenic
+6075 3532 坂本龍一 坂本龍一
+10516 3533 Murcof Murcof
+15793 3534 "Sven Väth" "Sven Väth"
+7256 3535 Adiemus Adiemus
+5036 3536 Raven-Symoné Raven-Symoné
+5812 3537 Krokus Krokus
+12112 3538 "John Scofield" "John Scofield"
+11487 3539 "The Shangri-Las" "The Shangri-Las"
+8564 3540 "Del Shannon" "Del Shannon"
+11955 3541 "Juliana Hatfield" "Juliana Hatfield"
+8291 3542 "Nick Cave" "Nick Cave"
+7406 3543 "Fountains of Wayne" "Fountains of Wayne"
+7214 3544 Téléphone Téléphone
+879 3545 Can Can
+4366 3546 Ours Ours
+10217 3547 "Bernard Herrmann" "Bernard Herrmann"
+12314 3548 "Nina Hagen" "Nina Hagen"
+14061 3549 Hellyeah Hellyeah
+3575 3550 "Blake Lewis" "Blake Lewis"
+5978 3551 "Neon Trees" "Neon Trees"
+1162 3552 "Flight of the Conchords" "Flight of the Conchords"
+7759 3553 Bushido Bushido
+9499 3554 "Anders Manga" "Anders Manga"
+1352 3555 "Death Angel" "Death Angel"
+807 3556 Crematory Crematory
+1154 3557 "The Pillows" "The Pillows"
+7128 3558 "David Holmes" "David Holmes"
+7871 3559 "Billy Corgan" "Billy Corgan"
+17326 3560 "Stephen Lynch" "Stephen Lynch"
+8756 3561 "Mercedes Sosa" "Mercedes Sosa"
+15903 3562 Lu Lu
+5890 3563 Elbow Elbow
+2060 3564 "Cirque du Soleil" "Cirque du Soleil"
+12668 3565 Qntal Qntal
+3063 3566 "Luis Miguel" "Luis Miguel"
+1717 3567 "Peter Broderick" "Peter Broderick"
+6452 3568 Everclear Everclear
+8392 3569 "Do As Infinity" "Do As Infinity"
+6228 3570 "Nightmare of You" "Nightmare of You"
+10309 3571 "The Red Chord" "The Red Chord"
+6773 3572 "Say Anything" "Say Anything"
+10535 3573 "The Music" "The Music"
+2575 3574 "This Town Needs Guns" "This Town Needs Guns"
+4837 3575 "The Starting Line" "The Starting Line"
+8873 3576 "Matchbook Romance" "Matchbook Romance"
+1190 3577 "We Are The Ocean" "We Are The Ocean"
+14208 3578 "As Cities Burn" "As Cities Burn"
+3491 3579 Agnes Agnes
+2584 3580 "Rogue Wave" "Rogue Wave"
+15961 3581 Liquido Liquido
+1735 3582 Seabear Seabear
+12079 3583 "The Moldy Peaches" "The Moldy Peaches"
+5688 3584 "Heaven & Hell" "Heaven & Hell"
+9960 3585 "Tiger Army" "Tiger Army"
+9976 3586 "Nerina Pallot" "Nerina Pallot"
+2086 3587 Perfume Perfume
+10226 3588 鈴木あみ 鈴木あみ
+2101 3589 Capsule Capsule
+9183 3590 "El Canto del Loco" "El Canto del Loco"
+5143 3591 "Sienna Skies" "Sienna Skies"
+3250 3592 Midlake Midlake
+10395 3593 "Roots Manuva" "Roots Manuva"
+4184 3594 "The Bouncing Souls" "The Bouncing Souls"
+5768 3595 Anouk Anouk
+9783 3596 "The Kilimanjaro Darkjazz Ensemble" "The Kilimanjaro Darkjazz Ensemble"
+7060 3597 "Jaga Jazzist" "Jaga Jazzist"
+1727 3598 "Jóhann Jóhannsson" "Jóhann Jóhannsson"
+132 3599 "Deaf Center" "Deaf Center"
+2593 3600 Battles Battles
+11200 3601 "Alex Smoke" "Alex Smoke"
+6761 3602 "Gregor Samsa" "Gregor Samsa"
+141 3603 "Aidan Baker" "Aidan Baker"
+14761 3604 "Gabriel Ananda" "Gabriel Ananda"
+4194 3605 Descendents Descendents
+3740 3606 "Dance of Days" "Dance of Days"
+2364 3607 "The Hellacopters" "The Hellacopters"
+5636 3608 Propagandhi Propagandhi
+6658 3609 Lifelover Lifelover
+17189 3610 dälek dälek
+4149 3611 Fobia Fobia
+1978 3612 "Cool Kids of Death" "Cool Kids of Death"
+4850 3613 Strike Strike
+2082 3614 "Marjorie Estiano" "Marjorie Estiano"
+4802 3615 "Ida Maria" "Ida Maria"
+7320 3616 "The Holloways" "The Holloways"
+11352 3617 oOoOO oOoOO
+4209 3618 7Seconds 7Seconds
+3780 3619 D.R.I. D.R.I.
+5665 3620 "Skip James" "Skip James"
+16634 3621 Cro-Mags Cro-Mags
+13062 3622 "Green River" "Green River"
+18237 3623 Harland Harland
+6045 3624 "Wax Tailor" "Wax Tailor"
+1314 3625 "Solitary Experiments" "Solitary Experiments"
+7520 3626 "T. Raumschmiere" "T. Raumschmiere"
+15798 3627 Audion Audion
+12868 3628 Quantic Quantic
+14680 3629 "Northern Lite" "Northern Lite"
+753 3630 Secede Secede
+11205 3631 "Alex Under" "Alex Under"
+1585 3632 Panik Panik
+417 3633 "Cordel do Fogo Encantado" "Cordel do Fogo Encantado"
+2339 3634 Teoman Teoman
+4468 3635 Darvin Darvin
+11181 3636 "The Walkmen" "The Walkmen"
+4365 3637 "The Tea Party" "The Tea Party"
+4059 3638 "The Black Angels" "The Black Angels"
+1124 3639 "Carl Orff" "Carl Orff"
+9043 3640 Irfan Irfan
+17981 3641 "Mercan Dede" "Mercan Dede"
+17132 3642 "Serkan Süleymaniye" "Serkan Süleymaniye"
+17331 3643 "Jesus Jones" "Jesus Jones"
+10969 3644 "Françoise Hardy" "Françoise Hardy"
+10656 3645 "Ben E. King" "Ben E. King"
+14318 3646 "Eve 6" "Eve 6"
+2425 3647 Copeland Copeland
+1827 3648 "808 State" "808 State"
+15100 3649 "James Dean Bradfield" "James Dean Bradfield"
+3945 3650 Feeder Feeder
+8333 3651 Gorefest Gorefest
+590 3652 "Louis Prima" "Louis Prima"
+16952 3653 "Dar Williams" "Dar Williams"
+4132 3654 "The Hooters" "The Hooters"
+6422 3655 "Mates of State" "Mates of State"
+16449 3656 "Nicole Atkins" "Nicole Atkins"
+7744 3657 "Little Man Tate" "Little Man Tate"
+11725 3658 BBMak BBMak
+7286 3659 "Chantal Kreviazuk" "Chantal Kreviazuk"
+9437 3660 "Jackson Browne" "Jackson Browne"
+721 3661 "Wim Mertens" "Wim Mertens"
+12994 3662 Deee-Lite Deee-Lite
+5891 3663 "I Monster" "I Monster"
+5032 3664 "Britt Nicole" "Britt Nicole"
+4491 3665 "Joe McElderry" "Joe McElderry"
+12821 3666 Telepathe Telepathe
+9271 3667 "Franz Schubert" "Franz Schubert"
+7096 3668 "Michael Nyman" "Michael Nyman"
+4922 3669 久石譲 久石譲
+18008 3670 Magnet Magnet
+4304 3671 Alpinestars Alpinestars
+11510 3672 "Jonathan Coulton" "Jonathan Coulton"
+17887 3673 "Martha and the Muffins" "Martha and the Muffins"
+6586 3674 "Giorgio Moroder" "Giorgio Moroder"
+13575 3675 Catatonia Catatonia
+7266 3676 "Pete Townshend" "Pete Townshend"
+1120 3677 "György Ligeti" "György Ligeti"
+4188 3678 Jawbreaker Jawbreaker
+2337 3679 "Düş Sokağı Sakinleri" "Düş Sokağı Sakinleri"
+11819 3680 "Be Your Own Pet" "Be Your Own Pet"
+8706 3681 "Twin Shadow" "Twin Shadow"
+8239 3682 Shantel Shantel
+14645 3683 SoKo SoKo
+8418 3684 "The Sunshine Underground" "The Sunshine Underground"
