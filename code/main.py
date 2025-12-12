@@ -5,9 +5,10 @@ import pytorch_lightning.callbacks as plc
 import parse
 import torch
 import utils
-from vae import vq
 from model_interface import ModelInterface
 from data_interface import DataInterface
+from rec_tokenizer import vae
+from rec_tokenizer import vq
 
 
 def load_callbacks(args):
@@ -26,7 +27,7 @@ def load_callbacks(args):
         save_top_k=-1,
         mode='max',
         save_last=True,
-        #train_time_interval=args.val_check_interval
+        # train_time_interval=args.val_check_interval
         every_n_epochs=4
     ))
 
@@ -39,7 +40,16 @@ def load_callbacks(args):
 def main(args):
     print(f"Welcome to ContRec! Now, we are working on Dataset: {args.dataset}.")
     L.seed_everything(args.seed)
-    
+
+    # # tokenizer pre-training
+    # if args.rec_tokenizer == 'continuous':
+    #     vae.learning(args)
+    # elif args.rec_tokenizer == 'discrete':
+    #     vq.learning(args)
+    # else:
+    #     NotImplementedError
+    #     print('Please input the correct item tokenizer type: discrete or continuous.')
+
     # backbone finetuning
     callbacks = load_callbacks(args)
     model = ModelInterface(**vars(args))

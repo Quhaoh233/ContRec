@@ -1,3 +1,4 @@
+# credit: https://github.com/raywang4/DispLoss
 import torch as th
 
 def disp_loss(self, z): # Dispersive Loss implementation (InfoNCE-L2 variant)

@@ -5,16 +5,17 @@ import numpy as np
 import re
 import copy
 import pytorch_lightning as pl
-# from fairscale.nn import checkpoint_wrapper, auto_wrap, wrap  # !!
+# from fairscale.nn import checkpoint_wrapper, auto_wrap, wrap
 from optims import LinearWarmupCosineLRScheduler
 import torch.nn.functional as F
 import warnings
-
 # local environments
 import diffusion.ddpm as ddpm
 import diffusion.DreamRec as DreamRec
 import utils
+from rec_tokenizer import vae
 warnings.filterwarnings("ignore")
+
 
 # llm environments
 from transformers import (
@@ -37,7 +38,7 @@ class ModelInterface(pl.LightningModule):
         self.load_llm()
         self.load_representation()
         self.load_diffusion()
-        self.load_MLPEncoder()
+        self.load_rec_tokenizer()
         self.diffusion_token_ids, self.user_diffusion_token_ids = self.load_new_tokens()
 
         
@@ -192,11 +193,11 @@ class ModelInterface(pl.LightningModule):
         #
         if self.hparams.eval == "cos":
             interacted_items = self.val_content["interacted_items"]
-            scores = utils.similarity_score(valid_representations, self.item_gnn_embeds, interacted_items)
+            scores = utils.similarity_score(valid_representations, self.item_embeds, interacted_items)
             results = torch.argsort(scores, dim=1, descending=True)
         elif self.hparams.eval == "mse":
             item_bool_list = torch.stack(self.val_content["interacted_bools"], dim=0)
-            scores = utils.MSE_distance(valid_representations, self.item_gnn_embeds) # the less the better
+            scores = utils.MSE_distance(valid_representations, self.item_embeds) # the less the better
             scores[item_bool_list == 1] = 1000000  # remove the interacted items, [user_num, item_num]
             results = torch.argsort(scores, dim=1, descending=False)
         elif self.hparams.eval == 'inner':   
@@ -256,11 +257,11 @@ class ModelInterface(pl.LightningModule):
         # 
         if self.hparams.eval == "cos":
             interacted_items = self.test_content["interacted_items"]
-            scores = utils.similarity_score(test_representations, self.item_gnn_embeds, interacted_items)
+            scores = utils.similarity_score(test_representations, self.item_embeds, interacted_items)
             results = torch.argsort(scores, dim=1, descending=True)
         elif self.hparams.eval == "mse":
             item_bool_list = torch.stack(self.test_content["interacted_bools"], dim=0)
-            scores = utils.MSE_distance(test_representations, self.item_gnn_embeds) # the less the better
+            scores = utils.MSE_distance(test_representations, self.item_embeds) # the less the better
             scores[item_bool_list == 1] = 1000000  # remove the interacted items, [user_num, item_num]
             results = torch.argsort(scores, dim=1, descending=False)
         elif self.hparams.eval == 'inner':   
@@ -340,24 +341,28 @@ class ModelInterface(pl.LightningModule):
     
     # ------------------------- functions ----------------------------
     def insert_diffusion_tokens(self, user, items, input_ids, input_embeds, batch_size):
+        self.item_encoder.eval()
+        self.user_encoder.eval()
         for b in range(batch_size):
             batch_input_ids = input_ids[b]
             batch_items = items[b].split(' ')
             batch_items = [int(item) for item in batch_items]
-            batch_items_gnn_embeds = self.item_gnn_embeds[batch_items]
-            batch_collaborative_embeds = self.item_encoder(batch_items_gnn_embeds.to(self.gpu))
-            
+            batch_items_embeds = self.item_embeds[batch_items]
+            _, batch_encoded_embeds = self.item_encoder.encode(batch_items_embeds.to(self.gpu))
+            batch_encoded_embeds = torch.stack(batch_encoded_embeds, dim=0)
+
             # replacing
             indice = torch.nonzero(batch_input_ids == self.diffusion_token_ids[0]).squeeze()  # find the first diffusion token
             if self.hparams.user_token:
-                user_gnn_embed = self.user_gnn_embeds[int(user[b])].unsqueeze(0)  # [1, rec_dim]
-                user_collaborative_embeds = self.user_encoder(user_gnn_embed.to(self.gpu))  # [k, 1, llm_dim]
+                user_embed = self.user_embeds[int(user[b])].unsqueeze(0)  # [1, rec_dim]
+                _, user_encoded_embeds = self.user_encoder.encode(user_embed.to(self.gpu))  # [k, 1, llm_dim]
+                user_encoded_embeds = torch.stack(user_encoded_embeds, dim=0)
                 user_indice = torch.nonzero(batch_input_ids == self.user_diffusion_token_ids[0]).squeeze()
                 
             for i in range(self.hparams.k):
-                input_embeds[b, indice+i, :] = batch_collaborative_embeds[i].to(input_embeds.dtype)
+                input_embeds[b, indice+i, :] = batch_encoded_embeds[i].to(input_embeds.dtype)
                 if self.hparams.user_token:
-                    input_embeds[b, user_indice+i, :] = user_collaborative_embeds[i].to(input_embeds.dtype)
+                    input_embeds[b, user_indice+i, :] = user_encoded_embeds[i].to(input_embeds.dtype)
         return input_embeds
 
     def insert_diffusion_tokens_valid(self, user, items, input_ids, input_embeds, batch_size):
@@ -365,26 +370,28 @@ class ModelInterface(pl.LightningModule):
             batch_input_ids = input_ids[b]
             batch_items = items[b].split(' ')
             batch_items = [int(item) for item in batch_items]
-            batch_items_gnn_embeds = self.item_gnn_embeds[batch_items]  # batch_items_gnn_embeds.shape = [item_num, rec_dim]
-            batch_collaborative_embeds = self.item_encoder(batch_items_gnn_embeds.to(self.gpu))  # shape = [k, item_num, llm_dim]
+            batch_items_embeds = self.item_embeds[batch_items]  # batch_items_embeds.shape = [item_num, rec_dim]
+            _, batch_encoded_embeds = self.item_encoder.encode(batch_items_embeds.to(self.gpu))  # shape = [k, item_num, llm_dim]
+            batch_encoded_embeds = torch.stack(batch_encoded_embeds, dim=0)
             
             # replacing
             indice = torch.nonzero(batch_input_ids == self.diffusion_token_ids[0]).squeeze()  # find the first diffusion token
             if self.hparams.user_token:
-                user_gnn_embed = self.user_gnn_embeds[int(user[b])].unsqueeze(0)  # [1, rec_dim]
-                user_collaborative_embeds = self.user_encoder(user_gnn_embed.to(self.gpu))  # [k, 1, llm_dim]
+                user_embed = self.user_embeds[int(user[b])].unsqueeze(0)  # [1, rec_dim]
+                _, user_encoded_embeds = self.user_encoder.encode(user_embed.to(self.gpu))  # [k, 1, llm_dim]
+                user_encoded_embeds = torch.stack(user_encoded_embeds, dim=0)
                 user_indice = torch.nonzero(batch_input_ids == self.user_diffusion_token_ids[0]).squeeze()
                 
             for i in range(self.hparams.k):
-                input_embeds[b, indice+i, :] = batch_collaborative_embeds[i].to(input_embeds.dtype)
+                input_embeds[b, indice+i, :] = batch_encoded_embeds[i].to(input_embeds.dtype)
                 if self.hparams.user_token:
-                    input_embeds[b, user_indice+i, :] = user_collaborative_embeds[i].to(input_embeds.dtype)
+                    input_embeds[b, user_indice+i, :] = user_encoded_embeds[i].to(input_embeds.dtype)
 
         return input_embeds
 
     def from_remap_ids_to_encoded_embeds(self, str_ids):
         remap_ids = [int(id) for id in str_ids]
-        embeds = self.item_gnn_embeds[remap_ids].to(self.gpu)
+        embeds = self.item_embeds[remap_ids].to(self.gpu)
         return embeds
 
     # Dispersive Loss implementation (InfoNCE-L2 variant), code source: https://github.com/raywang4/DispLoss
@@ -395,9 +402,9 @@ class ModelInterface(pl.LightningModule):
         return - torch.log(torch.exp(-diff).mean()) # calculate loss
     
     # for conventional contrastive learning
-    def negative_sampling(self, item_gnn_embeds, n=10):
+    def negative_sampling(self, item_embeds, n=10):
         random_indices = random.sample(range(0, self.item_num), 10)
-        neg_x = item_gnn_embeds[random_indices].to(self.gpu)
+        neg_x = item_embeds[random_indices].to(self.gpu)
         return torch.mean(neg_x, dim=0).unsqueeze(0)
     
     # ------------------------ loading -------------------------
@@ -406,8 +413,8 @@ class ModelInterface(pl.LightningModule):
         dif_tokens = []
         user_dif_tokens = []
         for k in range(self.hparams.k):
-            dif_tokens.append(f'<collaborative_{str(k)}>')
-            user_dif_tokens.append(f'<user_collaborative_{str(k)}>')
+            dif_tokens.append(f'<continuous_token_{str(k)}>')
+            user_dif_tokens.append(f'<user_continuous_token_{str(k)}>')
 
         add_tokens = self.indicators + dif_tokens + user_dif_tokens
         self.tokenizer.add_tokens(add_tokens)
@@ -428,38 +435,48 @@ class ModelInterface(pl.LightningModule):
         _, _, self.token_dim = input_embeds.shape  # token dimension
 
         # seq_size = conditioning length
-        self.diffusion_net = DreamRec.Tenc(self.hparams.hidden_factor, self.item_gnn_embeds, self.hparams.seq_size, self.hparams.dropout, self.hparams.diffuser_type, self.gpu)
+        self.diffusion_net = DreamRec.Tenc(self.hparams.hidden_factor, self.item_embeds, self.hparams.seq_size, self.hparams.dropout, self.hparams.diffuser_type, self.gpu)
         self.ddpm = DreamRec.diffusion(self.hparams.timesteps, self.hparams.beta_start, self.hparams.beta_end, self.hparams.w, self.gpu, self.hparams.beta_sche)
     
-    def load_MLPEncoder(self):
-        self.item_encoder = utils.MLPEncoder(self.gnn_dim, self.token_dim, self.hparams.k).to(self.gpu)
-        self.user_encoder = utils.MLPEncoder(self.gnn_dim, self.token_dim, self.hparams.k).to(self.gpu)
+    # revise!
+    def load_rec_tokenizer(self):
+        # initialzation
+        if self.hparams.continuous_tokenizer_model == 'sigma':
+            self.user_encoder = vae.SigmaVae(self.dim, self.hparams.latent_dim, self.hparams.k, self.user_num).to(self.gpu)
+            self.item_encoder = vae.SigmaVae(self.dim, self.hparams.latent_dim, self.hparams.k, self.item_num).to(self.gpu)
+        else:
+            self.user_encoder = vae.VanillaVae(self.dim, self.hparams.latent_dim, self.hparams.k, self.user_num).to(self.gpu)
+            self.item_encoder = vae.VanillaVae(self.dim, self.hparams.latent_dim, self.hparams.k, self.item_num).to(self.gpu)
+
+        # self.item_encoder = utils.MLPEncoder(self.dim, self.token_dim, self.hparams.k).to(self.gpu)
+        # self.user_encoder = utils.MLPEncoder(self.dim, self.token_dim, self.hparams.k).to(self.gpu)
         if self.hparams.conditioning == 'mlp':
-            self.output_decoder = utils.MLPDecoder(self.hparams.max_gen_length, self.hparams.seq_size, self.token_dim, self.gnn_dim).to(self.gpu)
+            self.output_decoder = utils.MLPDecoder(self.hparams.max_gen_length, self.hparams.seq_size, self.token_dim, self.dim).to(self.gpu)
     
     def load_representation(self):
         # load meta data
         data_dir = '../data/' + self.hparams.dataset
         self.item_list = pd.read_csv(data_dir+'/item_list.txt', header=0, index_col=None, sep=' ')
         
-        # load the pre-trained GNN representations and textual representations here!
-        self.gnn_embeds = torch.load('../src/lgn-'+ self.hparams.dataset +'-' + str(self.hparams.rec_dim) + '.pth.tar') 
-        self.user_gnn_embeds = self.gnn_embeds['embedding_user.weight'].to(self.gpu)  # requires_grad = False
-        self.item_gnn_embeds = self.gnn_embeds['embedding_item.weight'].to(self.gpu)  # requires_grad = False
-        self.item_num, self.gnn_dim = self.item_gnn_embeds.shape
-        self.user_num, _ = self.user_gnn_embeds.shape
+        # load the pre-trained GNN representations and textual representations
+        if self.hparams.content == 'collaborative':
+            self.user_embeds, self.item_embeds, self.user_num, self.item_num, self.dim = utils.encode_gnn(self.hparams, self.gpu)
+        elif self.hparams.content == 'textual':
+            self.user_embeds, self.item_embeds, self.user_num, self.item_num, self.dim = utils.encode_text(self.hparams, self.gpu)
+        else:
+            NotImplementedError
 
-        print('Representations are loaded. item_num, user_num, gnn_dim =', self.item_num, self.user_num, self.gnn_dim)
+        print('Representations are loaded. item_num, user_num, gnn_dim =', self.item_num, self.user_num, self.dim)
         
     def load_llm(self):
         # Llama Config
         model_name = 'Llama-3.2-1B-Instruct'  # model
-        hf_token = "enter_your_HF_TOKEN" # hf_token
+        hf_token = "YOUR_HF_TOKEN" # hf_token for Llama 3.1 or 3.2
         model_source = 'meta-llama/'
         model_id = model_source + model_name
         torch_dtype = torch.float16
         attn_implementation = "eager"  # eager, FlashAttention, ...
-        cache_dir='/home/haohao/.huggingface'  # base model save_path
+        cache_dir='/home/user/.huggingface'  # base model save_path
 
         self.tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token, cache_dir=cache_dir, padding_side="left")
         if self.tokenizer.pad_token_id is None:

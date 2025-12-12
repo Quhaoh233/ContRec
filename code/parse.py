@@ -2,7 +2,7 @@ import argparse
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Go iLLMRec")
+    parser = argparse.ArgumentParser(description="Go ContRec")
     
     # 
     parser.add_argument('--model', type=str, default='llama', help="the used language model")
@@ -16,11 +16,15 @@ def parse_args():
     parser.add_argument('--user_token', default=False, action='store_true')
     parser.add_argument('--latent_dim', default=2048, type=int, help='The latent dimension of the embeddings that are sent into LLMs.')
 
-    # ---------------- vq -----------------------
+    # ---------------- rec tokenizer -----------------------
     parser.add_argument('--n_token', type=int, default=256, help="the token number of each codebook")
     parser.add_argument('--n_book', type=int, default=3, help="the number of codebooks")
     parser.add_argument('--pretrain', action='store_true', default=False, help="if run vq: True or False (default).")
-    parser.add_argument('--vq_model', type=str, default='MQ', help="available indexing model: [RQ, MQ, HQ]")
+    parser.add_argument('--rec_tokenizer', type=str, default='continuous', help="[discrete, continuous]")
+    parser.add_argument('--item_textual_information', action='store_true', default=False, help="if include textual information.")
+    parser.add_argument('--continuous_tokenizer_model', type=str, default='sigma', help="[vallina, sigma]")     # if continuous
+    parser.add_argument('--discrete_tokenizer_model', type=str, default='MQ', help="[VQ, RQ, MQ]")    # if discrete
+    parser.add_argument('--content', type=str, default='collaborative', help="[collaborative, textual]")
 
     # ---------------- diffusion -----------------------
     parser.add_argument('--alpha', type=float, default=4, help='The weight of diffusion loss')
@@ -58,11 +62,11 @@ def parse_args():
     parser.add_argument('--max_gen_length', default=64, type=int)
     
     # --------------- recommendation -----------------------------
-    parser.add_argument('--dataset', default='lastfm', type=str)    
+    parser.add_argument('--dataset', default='beauty', type=str, help='[lastfm, ml1m, beauty, game]')    
     parser.add_argument('--rec_dim', default=512, type=int)  
     parser.add_argument('--top_k', default=10, type=int)
     parser.add_argument('--topks', nargs='?', default="[10, 20]", help="@k test list")
-    parser.add_argument('--pi', default=0.1, type=float)
+    parser.add_argument('--pi', default=0.05, type=float)
     parser.add_argument('--task', default='leave-one-out', choices=['leave-one-out', 'random-select'], type=str)  
     
     return parser.parse_args()

@@ -33,9 +33,9 @@ def train_prompt(remap_user, remap_items, item_list, data_name, k, user_token, w
     token_format = ''
     user = ''
     for i in range(k):
-        dif_token = f'<collaborative_{i}>'
+        dif_token = f'<continuous_token_{i}>'
         token_format += dif_token
-        user_dif_token = f'<user_collaborative_{i}>'
+        user_dif_token = f'<user_continuous_token_{i}>'
         user += user_dif_token
         
     indicators = ['<diff>', '<\diff>']
@@ -46,11 +46,11 @@ def train_prompt(remap_user, remap_items, item_list, data_name, k, user_token, w
     if with_title:
         items = ''
         for title in titles:
-            if len(title) > 20:  # truncate the title to prevent from exceed input length!
-                title = title[:20]
-            items += ' ' + title + ' ' + indicators[0] + token_format + indicators[1] + ','  # example: [Apple Watch <diff><semantic_left><semantic_right><collaborative_left><collaborative_right><\diff>]
+            if len(title) > 50:  # truncate the title to prevent from exceed input length!
+                title = title[:50]
+            items += ' ' + title + ' ' + indicators[0] + token_format + indicators[1] + ','
     else:
-        per_item = ' item_' + indicators[0] + token_format + indicators[1] + ','  # should we input the title here?
+        per_item = ' item_' + indicators[0] + token_format + indicators[1] + ','
         items = per_item * len(remap_items)
     
     example_input = 'Given the following purchase history: [item side information]. I wonder what the user will like. Can you help me decide?'
@@ -390,3 +390,36 @@ def eval_cf(sorted_items, groundTrue, topks):
     return {'recall':np.array(recall), 
             'precision':np.array(pre), 
             'ndcg':np.array(ndcg)}
+
+
+def encode_gnn(args, device):
+    gnn_embeds = torch.load('../src/lgn-'+ args.dataset +'-' + str(args.rec_dim) + '.pth.tar')  # change the file name?
+    user_gnn_embeds = gnn_embeds['embedding_user.weight'].to(device)  # requires_grad = False
+    item_gnn_embeds = gnn_embeds['embedding_item.weight'].to(device)  # requires_grad = False
+    item_num, gnn_dim = item_gnn_embeds.shape
+    user_num, _ = user_gnn_embeds.shape
+
+    return user_gnn_embeds, item_gnn_embeds, user_num, item_num, gnn_dim
+
+
+def encode_text(args, device):
+    data_dir = '../data/' + args.dataset
+    text_dim = 384  # all-MiniLM-L6-v2 = 384, bert-base-nli-mean-tokens = 768
+
+    # users: id embeds
+    user_list = pd.read_csv(data_dir + '/user_list.txt', header=0, index_col=None, sep=' ')
+    user_num = len(user_list)
+    user_embeds = torch.nn.Embedding(user_num, text_dim)
+    user_embeds = torch.tensor(user_embeds.weight.data, dtype=torch.float).to(device)
+
+    # items: textual embeds
+    item_list = pd.read_csv(data_dir + '/item_list.txt', header=0, index_col=None, sep=' ').astype(str)
+    item_num = len(item_list)
+    sentence_transformer = SentenceTransformer('all-MiniLM-L6-v2')  # sentence_encoder
+    desc_list = []
+    for i in range(item_list.shape[0]):
+        item_desc = ". ".join(item_list.iloc[i, 2:])
+        desc_list.append(item_desc)
+    embeds = torch.tensor(sentence_transformer.encode(desc_list), dtype=torch.float).to(device)
+
+    return user_embeds, embeds, user_num, item_num, text_dim
