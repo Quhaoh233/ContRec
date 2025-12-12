@@ -49,14 +49,15 @@ user_list = df['user'].unique().tolist()
 item_list = df['item'].unique().tolist()
 remap_user_list = np.array(np.arange(len(user_list)))
 remap_item_list = np.array(np.arange(len(item_list)))
-print(len(user_list))
-print(len(item_list))
-print(len(df['user']))
+print('numbers of users =', len(user_list))
+print('numbers of items =', len(item_list))
+print('numbers of interactions =', len(df['user']))
 
 # output user_list and item_list
 df_user_list = pd.DataFrame({'org_id': user_list, 'remap_id': remap_user_list})
 category_list = copy.deepcopy(item_list)
 title_list = copy.deepcopy(item_list)
+desc_list = copy.deepcopy(item_list)
 
 g = gzip.open(f'meta_{path}.json.gz', 'rb')
 for l in g:
@@ -67,13 +68,16 @@ for l in g:
         category = obj['categories']
         title = obj['title']
         item_id = obj['asin']
+        desc = obj['description']
         if item_id in item_list:
             idx = item_list.index(item_id)
             category_list[idx] = category
             title_list[idx] = title
+            desc_list[idx] = desc
+
     except:
         pass
-df_item_list = pd.DataFrame({'org_id': item_list, 'remap_id': remap_item_list, 'title': title_list, 'category': category_list})
+df_item_list = pd.DataFrame({'org_id': item_list, 'remap_id': remap_item_list, 'title': title_list, 'category': category_list, 'desc': desc_list})
 
 # with gzip.open(f"meta_{path}.json.gz", mode="rt") as f:
 #     for line in f:
